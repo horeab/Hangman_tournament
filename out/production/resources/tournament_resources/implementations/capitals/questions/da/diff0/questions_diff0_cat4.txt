@@ -1,0 +1,19 @@
+0:Hvad er hovedstaden i Algeriet?:Algier:3,8,7:0
+1:Hvad er hovedstaden i Elfenbenskysten?:Yamoussoukro:6,7,2:1
+2:Hvad er hovedstaden i Egypten?:Kairo:6,10,1:2
+3:Hvad er hovedstaden i Kenya?:Nairobi:0,2,11:3
+4:Hvad er hovedstaden i Sydafrika?:Cape Town:7,10,2:4
+5:Hvad er hovedstaden i Angola?:Luanda:9,13,2:5
+6:Hvad er Tunesiens hovedstad?:Tunis:1,12,7:6
+7:Hvad er Marokkos hovedstad:Rabat:12,10,1:7
+8:Hvad er hovedstaden i Uganda?:Kampala:15,12,5:8
+9:Hvad er hovedstaden i Ghana?:Accra:12,16,6:9
+10:Hvad er hovedstaden i Kamerun?:Yaoundé:4,9,2:10
+11:Hvad er Nigerias hovedstad?:Abuja:16,10,18:11
+12:Hvad er hovedstaden i Republikken Congo?:Brazzaville:20,8,14:12
+13:Hvad er hovedstaden i Senegal?:Dakar:17,10,14:13
+14:Hvad er Libyens hovedstad?:Tripoli:20,11,21:14
+15:Hvad er hovedstaden i Somalia?:Mogadishu:9,14,20:15
+16:Hvad er Liberias hovedstad?:Monrovia:8,18,17:16
+17:Hvad er Etiopiens hovedstad?:Addis Abeba:18,19,21:17
+18:Hvad er hovedstaden i Burkina Faso?:Ouagadougou:22,12,26:18

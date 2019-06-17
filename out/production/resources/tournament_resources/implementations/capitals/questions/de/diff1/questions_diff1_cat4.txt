@@ -1,0 +1,19 @@
+19:Was ist die Hauptstadt von Gabun?:Libreville:20,18,26:19
+20:Was ist die Hauptstadt von Togo?:Lomé:18,25,15:20
+21:Was ist die Hauptstadt der Zentralafrikanischen Republik?:Bangui:14,16,27:21
+22:Was ist die Hauptstadt von Mali?:Bamako:18,24,16:22
+23:Was ist die Hauptstadt von Niger?:Niamey:26,30,25:23
+24:Was ist die Hauptstadt von Guinea?:Conakry:20,29,26:24
+25:Was ist die Hauptstadt von Ruanda?:Kigali:24,26,19:25
+26:Was ist die Hauptstadt des Tschads?:N'Djamena:22,33,28:26
+27:Was ist die Hauptstadt von Benin?:Porto-Novo:35,26,34:27
+28:Was ist die Hauptstadt der Demokratischen Republik Kongo?:Kinshasa:30,25,27:28
+29:Was ist die Hauptstadt des Sudan?:Khartoum:28,34,22:29
+30:Was ist die Hauptstadt von Dschibuti?:Dschibuti:38,28,33:30
+31:Was ist die Hauptstadt von Sambia?:Lusaka:34,38,30:31
+32:Was ist die Hauptstadt von Äquatorialguinea?:Malabo:24,27,33:32
+33:Was ist die Hauptstadt von Eritrea?:Asmara:34,25,30:33
+34:Was ist die Hauptstadt von Namibia?:Windhoek:28,35,30:34
+35:Was ist die Hauptstadt von Simbabwe?:Harare:36,43,28:35
+36:Was ist die Hauptstadt von Burundi?:Gitega:28,37,38:36
+37:Was ist die Hauptstadt von Kap Verde?:Praia:30,34,40:37

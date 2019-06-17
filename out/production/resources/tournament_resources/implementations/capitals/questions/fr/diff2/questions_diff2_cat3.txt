@@ -1,0 +1,4 @@
+11:Quelle est la capitale du Suriname?:Paramaribo:13,8,10:11
+12:Quelle est la capitale de la Guyane française?:Cayenne:14,13,6:12
+13:Quelle est la capitale des îles Falkland?:Stanley:6,7,12:13
+14:Quelle est la capitale de la Géorgie du Sud et des îles Sandwich du Sud?:King Edward Point:6,7,12:14

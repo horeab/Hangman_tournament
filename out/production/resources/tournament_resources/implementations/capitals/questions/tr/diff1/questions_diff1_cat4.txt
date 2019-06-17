@@ -1,0 +1,19 @@
+19:Gabon'un başkenti nedir?:Libreville:20,18,26:19
+20:Togo'nun başkenti nedir?:Lomé:18,25,15:20
+21:Orta Afrika Cumhuriyeti'nin başkenti nedir?:Bangui:14,16,27:21
+22:Mali'nin başkenti nedir?:Bamako:18,24,16:22
+23:Nijer'in başkenti nedir?:Niamey:26,30,25:23
+24:Gine'nin başkenti nedir?:Conakry:20,29,26:24
+25:Ruanda'nın başkenti nedir?:Kigali:24,26,19:25
+26:Çad'ın başkenti neresidir:N'Djamena:22,33,28:26
+27:Benin'in başkenti nedir?:Porto-Novo:35,26,34:27
+28:Demokratik Kongo Cumhuriyeti'nin başkenti hangisidir:Kinşasa:30,25,27:28
+29:Sudan'ın başkenti nedir?:Hartum:28,34,22:29
+30:Cibuti'nin başkenti nedir?:Cibuti:38,28,33:30
+31:Zambiya'nın başkenti nedir?:Lusaka:34,38,30:31
+32:Ekvator Ginesi'nin başkenti nedir?:Malabo:24,27,33:32
+33:Eritre'nin başkenti nedir?:Asmara:34,25,30:33
+34:Namibya'nın başkenti nedir?:Windhoek:28,35,30:34
+35:Zimbabwe'nin başkenti nedir?:Harare:36,43,28:35
+36:Burundi'nin başkenti nedir?:Gitega:28,37,38:36
+37:Cape Verde'nin başkenti nedir?:Praia:30,34,40:37

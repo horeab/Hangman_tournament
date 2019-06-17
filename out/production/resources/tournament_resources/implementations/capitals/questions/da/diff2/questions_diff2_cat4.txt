@@ -1,0 +1,15 @@
+38:Hvad er Gambias hovedstad?:Banjul:44,41,36:38
+39:Hvad er hovedstaden i Guinea-Bissau?:Bissau:38,45,46:39
+40:Hvad er hovedstaden i Sierra Leone?:Freetown:35,41,44:40
+41:Hvad er Lesothos hovedstad?:Maseru:48,35,37:41
+42:Hvad er hovedstaden i Botswana?:Gaborone:37,45,47:42
+43:Hvad er Madagaskars hovedstad?:Antananarivo:38,39,49:43
+44:Hvad er hovedstaden i Malawi?:Lilongwe:36,46,43:44
+45:Hvad er hovedstaden i Mauritius?:Port Louis:46,39,50:45
+46:Hvad er Comoros hovedstad?:Moroni:38,42,51:46
+47:Hvad er hovedstaden i Mozambique?:Maputo:42,45,39:47
+48:Hvad er Seychellernes hovedstad?:Victoria:47,41,51:48
+49:Hvad er Sydsudans hovedstad?:Juba:43,44,45:49
+50:Hvad er hovedstaden i Mauretanien?:Nouakchott:49,52,42:50
+51:Hvad er hovedstaden i Swaziland?:Mbabane:44,48,52:51
+52:Hvad er hovedstaden i Tanzania?:Dodoma:49,47,44:52

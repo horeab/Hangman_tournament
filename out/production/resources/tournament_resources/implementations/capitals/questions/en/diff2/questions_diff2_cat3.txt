@@ -1,0 +1,4 @@
+11:What is the capital of Suriname?:Paramaribo:13,8,10:11
+12:What is the capital of French Guiana?:Cayenne:14,13,6:12
+13:What is the capital of the Falkland Islands?:Stanley:6,7,12:13
+14:What is the capital of the South Georgia and the South Sandwich Islands?:King Edward Point:6,7,12:14

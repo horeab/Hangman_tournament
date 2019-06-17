@@ -1,0 +1,8 @@
+0:Ţările cu care ne învecinăm sunt:Moldova, Ucraina, Slovacia, Serbia, Bulgaria, Ungaria##Moldova, Ucraina, Bulgaria, Serbia, Ungaria##Moldova, Ucraina, Bulgaria, Iugoslavia, Ungaria##Moldova, Macedonia, Bulgaria, Serbia, Ungaria:1:
+1:Cel mai estic punct de pe harta României este:Sfântu Gheorghe##Sulina##Mila 23##Murighiol:1:
+2:Cel mai înalt punct de pe teritoriul ţării noastre este:Vârful Omu##Vârful Negoiu##Vârful Moldoveanu##Vârful Parângul Mare:2:
+3:Subcarpaţii se desfăşoară:la exteriorul arcului carpatic##la interiorul arcului carpatic##ambele variante:2:
+4:România are clima:rece temperată##temperat-maritimă##mediteraneană##temperat-continentală:3:
+5:Cel mai lung râu din România este:Dunărea##Oltul##Mureşul##Siretul:2:
+6:Numărul de judeţe de pe teritoriul României este:40, plus municipiul Bucureşti##41, incluzând municipiul Bucureşti##41, plus municipiul Bucureşti##42, plus municipiul Bucureşti:2:
+7:Cea mai mare parte din suprafaţa ţării este ocupată de:munţi##câmpii##dealuri şi podişuri##ape:2:

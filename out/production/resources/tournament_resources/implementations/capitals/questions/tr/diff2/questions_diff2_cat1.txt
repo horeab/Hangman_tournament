@@ -1,0 +1,11 @@
+22:Cayman Adaları'nın başkenti nedir?:George Town:17,16,28:22
+23:Grönland'ın başkenti nedir?:Nuuk:16,31,29:23
+24:Aruba'nın başkenti nedir?:Oranjestad:25,26,30:24
+25:Guadeloupe'nin başkenti nedir?:Basse-Terre:18,32,30:25
+26:Martinik'in başkenti nedir?:Fort-de-France:23,32,18:26
+27:Montserrat'ın başkenti nedir?:Plymouth:30,22,26:27
+28:Porto Riko'nun başkenti nedir?:San Juan:23,27,22:28
+29:Saint Kitts ve Nevis'in başkenti nedir?:Basseterre:32,24,27:29
+30:Saint Martin'in başkenti nedir?:Marigot:32,29,22:30
+31:Saint Vincent ve Grenadinler’in başkenti neresidir:Kingstown:30,27,28:31
+32:Sint Maarten'ın başkenti nedir?:Philipsburg:31,29,25:32

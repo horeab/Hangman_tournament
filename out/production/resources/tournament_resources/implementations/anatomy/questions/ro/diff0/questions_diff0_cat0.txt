@@ -1,0 +1,27 @@
+0:Care este cel mai puternic muschi din corpul uman?:Limba##Piramidal##Bicepsul##Tricepsul:0:
+1:Cum se numeste osul aflat la extremitatea de jos a coloanei vertebrale?:Sacrala##Lombara##Cervice##Coccis:3:
+2:Cum se mai numeste acidul scorbic?:Vitamina A##Vitamina D##Vitamina B##Vitamina C:3:
+3:Cate coaste are un om?:24##26##32##22:0:
+4:Pierderea memoriei poarta numele de:Amnezie##Ebrietate##Uitare##Daltonism:0:
+5:Cine este considerat parintele medicinei?:Hippocrate##Galenus din Pergam##Aristotel##Avicenna:0:
+6:Procentual, cat reprezinta greutatea creierului din corpul uman?:0.02##0.05##0.13##0.1:0:
+7:Cati litri de sange are un adult?:8##12##5##10:2:
+8:Care este cea mai mare glanda a corpului uman?:Tiroida##Endocrina##Ficatul##Renala:2:
+9:Din cate oase este format scheletul uman?:312##98##206##132:2:
+10:Care este cel mai mic os din corpul uman?:Scarita##Sternul##Femurul##Clavicula:0:
+11:Care este cel mai mare os din corpul uman?:Femurul##Humerus##Pelvis##Tibia:0:
+12:Cine este purtatorul vietii in organism?:Globulele albe##Sangele##Globulele rosii##Anticorpii:1:
+13:Care este cel mai mare organ al corpului uman?:Inima##Plamanii##Ficatul##Pielea:3:
+14:Majoritatea functiilor organismului sunt realizate de....:Sistemul nervos si sistemul endocrin##Sistemul nervos##Sistemul endocrin##Sistemul musculoscheletal:0:
+15:Sistemul endocrin regleaza in principal....:Functia ficatului##Functiile metabolice##Musculatura##Respiratia:1:
+16:Despre glandele endocrine putem afirma urmatoarele....:Elibereaza hormoni direct in limfa##Produc substante active, numite hormoni##Hormonii actioneaza la locul sintezei##Hormonii produc efecte necaracteristice:1:
+17:Oasele lungi sunt?:Humerusul##Coastele##Radius##Sternul:2:
+18:Care afirmatie privind dintii este adevarata?:Sunt acoperiti complet de gingie##Sunt impartiti in superiori si inferiori##Dintii inferiori prezinta, in total, doi incisivi si patru premolari##Participa la timpul faringian al deglutitiei:1:
+19:Despre stomac se poate spune ca...:Este o portiune dilatata a tubului digestiv##Are un orificiu inferior, cardia, prin care comunica cu duodenul##Prezinta trei tipuri de muschi##Are un orificiu superior, pilorul, prin care comunica cu esofagul:0:
+20:Din sistemul excretor fac parte...:Plamanii##Venele##Degetele##Rinichii:3:
+21:Sistemul respirator nu cuprinde...:Rinichii##Plamanii##Faringele##Caile respiratorii:0:
+22:Caile respiratorii nu sunt reprezentate de...:Urechea##Bronhii##Cavitatea nazala##Trahee:0:
+23:Privind determinarea sexului copilului...:Conteaza tipul de spermie care fecundeaza ovulul##Nu conteaza tipul de spermie care fecundeaza ovulul##Conteaza pronucleul masculin##Conteaza cromozomul X:0:
+24:Care este durata medie a unui ciclu genital la femeie?:28 de zile##2 luni##1 an##10 zile:0:
+25:Glicemia reprezinta...:Procesul de eliberare de energie prin catabolism##Procesul de transformare a glucozei in acid lactic##Valoarea glucozei in sange##Procesul de formare a glucozei:2:
+26:Glucoza absorbita din intestin ajunge la nivelul ficatului :Pe cale limfatica##Prin trunchiul celiac##Prin artera hepatica##Pe cale sangvina:3:

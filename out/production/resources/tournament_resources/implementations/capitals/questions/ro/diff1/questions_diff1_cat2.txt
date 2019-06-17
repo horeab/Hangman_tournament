@@ -1,0 +1,19 @@
+19:Care este capitala Arabiei Saudite?:Riyadh:11,23,14:19
+20:Care este capitala Mongoliei?:Ulaanbaatar:18,19,14:20
+21:Care este capitala Iranului?:Teheran:29,28,24:21
+22:Care este capitala Irakului?:Bagdad:18,16,30:22
+23:Care este capitala Kazahstanului?:Astana:24,27,19:23
+24:Care este capitala Myanmar?:Naypyidaw:25,23,20:24
+25:Care este capitala Qatarului?:Doha:29,22,26:25
+26:Care este capitala Bangladeshului?:Dhaka:19,27,30:26
+27:Care este capitala Armeniei?:Erevan:20,29,34:27
+28:Care este capitala Iordaniei?:Amman:30,31,36:28
+29:Care este capitala Sri Lanka?:Colombo:26,30,24:29
+30:Care este capitala Singapore?:Singapore:32,24,23:30
+31:Care este capitala Azerbaidjanului?:Baku:34,38,36:31
+32:Care este capitala Taiwanului?:Taipei:35,40,24:32
+33:Care este capitala Cambodgiei?:Phnom Penh:30,29,38:33
+34:Care este capitala Kuweitului?:Kuwait City:29,37,40:34
+35:Care este capitala Turkmenistanului:Ashgabat:39,37,41:35
+36:Care este capitala Papua-Noua Guinee?:Port Moresby:43,40,28:36
+37:Care este capitala Noua Zeelandă?:Wellington:45,40,44:37

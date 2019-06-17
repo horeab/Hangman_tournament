@@ -1,0 +1,15 @@
+15:Hvad er Irlands hovedstad?:Dublin:23,8,19:15
+16:Hvad er Serbiens hovedstad?:Beograd:8,9,12:16
+17:Hvad er Rumæniens hovedstad?:Bukarest:16,9,19:17
+18:Hvad er Bulgariens hovedstad?:Sofia:19,25,16:18
+19:Hvad er Sveriges hovedstad?:Stockholm:23,12,16:19
+20:Hvad er Tjekkos hovedstad?:Prag:27,21,13:20
+21:Hvad er Danmarks hovedstad?:København:22,17,19:21
+22:Hvad er Norges hovedstad?:Oslo:19,14,16:22
+23:Hvad er Ungarns hovedstad?:Budapest:18,20,16:23
+24:Hvad er Finlands hovedstad?:Helsinki:28,16,26:24
+25:Hvad er hovedstaden i Albanien?:Tirana:28,20,29:25
+26:Hvad er Islands hovedstad?:Reykjavik:29,28,22:26
+27:Hvad er hovedstaden i Bosnien-Hercegovina?:Sarajevo:32,33,31:27
+28:Hvad er Slovakiens hovedstad?:Bratislava:23,32,34:28
+29:Hvad er Sloveniens hovedstad?:Ljubljana:21,36,27:29

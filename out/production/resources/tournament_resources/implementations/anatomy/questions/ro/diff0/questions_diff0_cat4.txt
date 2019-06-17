@@ -1,0 +1,13 @@
+0:Craniu:Craniu:1,12,5:45,96:0
+1:Omoplat:Omoplat:6,4,11:53,79:0
+2:Coaste:Coaste:3,6,8:51,72:0
+3:Claviculă:Claviculă:2,5,0:33,83:0
+4:Coloană vertebrală:Coloană vertebrală:1,6,10:45,63:0
+5:Tibie:Tibie:7,10,8:41,23:0
+6:Femur:Femur:5,7,11:38,41:0
+7:Humerus:Humerus:6,8,12:60,71:0
+8:Carpiene:Carpiene:1,2,11:67,49:0
+9:Metacarpiene:Metacarpiene:1,2,11:69,47:0
+10:Tarsiene:Tarsiene:8,4,3:41,6:0
+11:Metatarsiene:Metatarsiene:8,4,3:40,4:0
+12:Centura pelvică:Centura pelvică:1,7,5:51,58:0

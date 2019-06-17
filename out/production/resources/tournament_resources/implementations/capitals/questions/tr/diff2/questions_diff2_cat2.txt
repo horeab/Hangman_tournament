@@ -1,0 +1,26 @@
+38:Kırgızistan'ın başkenti nedir?:Bişkek:45,40,30:38
+39:Bahreyn'in başkenti nedir?:Manama:31,37,35:39
+40:Özbekistan'ın başkenti nedir?:Taşkent:48,41,44:40
+41:Maldivler'in başkenti nedir?:Malé:44,39,40:41
+42:Laos'un başkenti nedir?:Vientiane:44,40,49:42
+43:Umman'ın başkenti nedir?:Muscat:48,45,49:43
+44:Tacikistan'ın başkenti nedir?:Duşanbe:52,49,39:44
+45:Pakistan'ın başkenti nedir?:İslamabad:48,37,43:45
+46:Filistin'in başkenti nedir?:Ramallah:54,48,49:46
+47:Lübnan'ın başkenti nedir?:Beyrut:42,48,54:47
+48:Brunei'nin başkenti nedir?:Bandar Seri Begawan:52,56,50:48
+49:Butan'ın başkenti nedir?:Thimphu:51,53,46:49
+50:Suriye'nin başkenti nedir?:Şam:51,46,52:50
+51:Yemen'in başkenti nedir?:Sana'a:58,43,56:51
+52:Doğu Timor’un başkenti nedir?:Dili:59,49,51:52
+53:Fiji'nin başkenti nedir?:Suva:51,45,58:53
+54:Solomon Adaları'nın başkenti nedir?:Honiara:47,56,51:54
+55:Vanuatu'nun başkenti nedir?:Port Vila:52,54,58:55
+56:Samoa'nın başkenti nedir?:Apia:55,50,53:56
+57:Kiribati'nin başkenti nedir?:Güney Tarawa:52,60,50:57
+58:Mikronezya'nın başkenti nedir?:Palikir:54,56,60:58
+59:Tonga'nın başkenti nedir:Nukuʻalofa:60,52,61:59
+60:Marshall Adaları'nın başkenti nedir?:Majuro:62,61,52:60
+61:Palau'nun başkenti nedir?:Ngerulmud:56,62,58:61
+62:Tuvalu'nun başkenti nedir?:Funafuti:59,56,63:62
+63:Nauru'nun başkenti nedir:Yaren İlçesi:62,61,56:63

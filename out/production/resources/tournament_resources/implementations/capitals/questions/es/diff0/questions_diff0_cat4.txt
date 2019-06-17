@@ -1,0 +1,19 @@
+0:¿Cuál es la capital de Argelia?:Argel:3,8,7:0
+1:¿Cuál es la capital de Costa de Marfil?:Yamoussoukro:6,7,2:1
+2:¿Cuál es la capital de Egipto?:El Cairo:6,10,1:2
+3:¿Cuál es la capital de Kenia?:Nairobi:0,2,11:3
+4:¿Cuál es la capital de Sudáfrica?:Ciudad del Cabo:7,10,2:4
+5:¿Cuál es la capital de Angola?:Luanda:9,13,2:5
+6:¿Cuál es la capital de Túnez?:Túnez:1,12,7:6
+7:¿Cuál es la capital de Marruecos?:Rabat:12,10,1:7
+8:¿Cuál es la capital de Uganda?:Kampala:15,12,5:8
+9:¿Cuál es la capital de Ghana?:Accra:12,16,6:9
+10:¿Cuál es la capital de Camerún?:Yaoundé:4,9,2:10
+11:¿Cuál es la capital de Nigeria?:Abuja:16,10,18:11
+12:¿Cuál es la capital de la República del Congo?:Brazzaville:20,8,14:12
+13:¿Cuál es la capital de Senegal?:Dakar:17,10,14:13
+14:¿Cuál es la capital de Libia?:Trípoli:20,11,21:14
+15:¿Cuál es la capital de Somalia?:Mogadiscio:9,14,20:15
+16:¿Cuál es la capital de Liberia?:Monrovia:8,18,17:16
+17:¿Cuál es la capital de Etiopía?:Addis Abeba:18,19,21:17
+18:¿Cuál es la capital de Burkina Faso?:Ouagadougou:22,12,26:18

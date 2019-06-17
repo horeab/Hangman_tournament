@@ -1,0 +1,12 @@
+0::Albatro:4,8,2:0
+1::Gru:8,3,7:1
+2::Fringuello:10,8,4:2
+3::Faraona:8,4,2:3
+4::Airone:8,9,6:4
+5::Colibrì:10,2,3:5
+6::Struzzo:10,5,7:6
+7::Gufo:1,0,10:7
+8::Pappagallo:10,5,7:8
+9::Pinguino:5,10,8:9
+10::Beccaccino:9,3,2:10
+11::Tucano:10,8,5:11

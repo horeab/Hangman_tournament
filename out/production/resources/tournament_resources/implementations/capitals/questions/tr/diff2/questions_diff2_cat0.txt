@@ -1,0 +1,12 @@
+30:Letonya'nın başkenti nedir?:Riga:35,23,38:30
+31:Belarus'un başkenti nedir:Minsk:36,26,23:31
+32:Lihtenştayn'ın başkenti nedir?:Vaduz:35,31,40:32
+33:Estonya'nın başkenti nedir?:Tallinn:27,37,31:33
+34:Andorra'nın başkenti nedir?:Andorra la Vella:27,39,31:34
+35:Litvanya'nın başkenti nedir?:Vilnius:27,34,37:35
+36:Lüksemburg'un başkenti nedir?:Lüksemburg:33,34,30:36
+37:Malta'nın başkenti nedir?:Valletta:36,34,31:37
+38:Moldova'nın başkenti neresidir:Kişinev:34,33,30:38
+39:Karadağ'ın başkenti nedir?:Podgorica:32,31,33:39
+40:Monako'nun başkenti nedir?:Monte Carlo:38,34,36:40
+41:San Marino'nun başkenti nedir?:San Marino:39,38,36:41

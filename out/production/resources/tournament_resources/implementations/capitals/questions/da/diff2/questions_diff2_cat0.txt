@@ -1,0 +1,12 @@
+30:Hvad er Letlands hovedstad?:Riga:35,23,38:30
+31:Hvad er Hvideruslands hovedstad?:Minsk:36,26,23:31
+32:Hvad er hovedstaden i Liechtenstein?:Vaduz:35,31,40:32
+33:Hvad er Estlands hovedstad?:Tallinn:27,37,31:33
+34:Hvad er hovedstaden i Andorra?:Andorra la Vella:27,39,31:34
+35:Hvad er Litauens hovedstad?:Vilnius:27,34,37:35
+36:Hvad er hovedstaden i Luxembourg?:Luxembourg By:33,34,30:36
+37:Hvad er Maltas hovedstad?:Valletta:36,34,31:37
+38:Hvad er Moldaviens hovedstad?:Chişinău:34,33,30:38
+39:Hvad er hovedstaden i Montenegro?:Podgorica:32,31,33:39
+40:Hvad er hovedstaden i Monaco?:Monte Carlo:38,34,36:40
+41:Hvad er hovedstaden i San Marino?:San Marino:39,38,36:41

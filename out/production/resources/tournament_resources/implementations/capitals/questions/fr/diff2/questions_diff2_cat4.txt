@@ -1,0 +1,15 @@
+38:Quelle est la capitale de la Gambie?:Banjul:44,41,36:38
+39:Quelle est la capitale de la Guinée-Bissau?:Bissau:38,45,46:39
+40:Quelle est la capitale de la Sierra Leone?:Freetown:35,41,44:40
+41:Quelle est la capitale du Lesotho?:Maseru:48,35,37:41
+42:Quelle est la capitale du Botswana?:Gaborone:37,45,47:42
+43:Quelle est la capitale de Madagascar?:Antananarivo:38,39,49:43
+44:Quelle est la capitale du Malawi?:Lilongwe:36,46,43:44
+45:Quelle est la capitale de l'île Maurice?:Port Louis:46,39,50:45
+46:Quelle est la capitale des Comores?:Moroni:38,42,51:46
+47:Quelle est la capitale du Mozambique?:Maputo:42,45,39:47
+48:Quelle est la capitale des Seychelles?:Victoria:47,41,51:48
+49:Quelle est la capitale du Sud-Soudan?:Juba:43,44,45:49
+50:Quelle est la capitale de la Mauritanie?:Nouakchott:49,52,42:50
+51:Quelle est la capitale du Swaziland?:Mbabane:44,48,52:51
+52:Quelle est la capitale de la Tanzanie?:Dodoma:49,47,44:52

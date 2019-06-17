@@ -1,0 +1,19 @@
+0:Wat is de hoofdstad van China?:Beijing:5,8,4:0
+1:Wat is de hoofdstad van India?:New Delhi:9,4,2:1
+2:Wat is de hoofdstad van Rusland?:Moskou:7,4,6:2
+3:Wat is de hoofdstad van Turkije?:Istanbul:4,2,8:3
+4:Wat is de hoofdstad van Japan?:Tokyo:7,2,6:4
+5:Wat is de hoofdstad van Thailand?:Bangkok:3,11,2:5
+6:Wat is de hoofdstad van Afghanistan?:Kabul:3,12,10:6
+7:Wat is de hoofdstad van Zuid-Korea?:Seoul:1,4,12:7
+8:Wat is de hoofdstad van Vietnam?:Hanoi:15,5,11:8
+9:Wat is de hoofdstad van Maleisië?:Kuala Lumpur:12,7,14:9
+10:Wat is de hoofdstad van de Filippijnen?:Manila:9,5,17:10
+11:Wat is de hoofdstad van Cyprus?:Nicosia:3,8,9:11
+12:Wat is de hoofdstad van Nepal?:Kathmandu:5,13,11:12
+13:Wat is de hoofdstad van Noord-Korea?:Pyongyang:8,12,6:13
+14:Wat is de hoofdstad van Georgië?:Tbilisi:11,12,21:14
+15:Wat is de hoofdstad van de Verenigde Arabische Emiraten?:Abu Dhabi:18,9,21:15
+16:Wat is de hoofdstad van Indonesië?:Jakarta:18,9,23:16
+17:Wat is de hoofdstad van Israël?:Jeruzalem:24,12,23:17
+18:Wat is de hoofdstad van Australië?:Canberra:13,16,21:18

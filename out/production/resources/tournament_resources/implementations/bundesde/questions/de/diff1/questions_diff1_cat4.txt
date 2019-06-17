@@ -1,0 +1,5 @@
+6:Hauptstadt von Hessen?:Wiesbaden
+7:Hauptstadt von Mecklenburg-Vorpommern?:Schwerin
+8:Hauptstadt von Niedersachsen?:Hannover
+9:Hauptstadt von Nordrhein-Westfalen?:Düsseldorf
+10:Hauptstadt von Bremen?:Bremen

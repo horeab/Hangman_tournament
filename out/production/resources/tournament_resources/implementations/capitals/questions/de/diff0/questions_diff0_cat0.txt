@@ -1,0 +1,15 @@
+0:Was ist die Hauptstadt von England?:London:8,2,6:0
+1:Was ist die Hauptstadt von Russland?:Moskau:4,7,5:1
+2:Was ist die Hauptstadt von Portugal?:Lissabon:4,9,6:2
+3:Was ist die Hauptstadt von Polen?:Warschau:5,6,0:3
+4:Was ist die Hauptstadt von Deutschland?:Berlin:10,8,7:4
+5:Was ist die Hauptstadt von Frankreich?:Paris:11,3,1:5
+6:Was ist die Hauptstadt von Spanien?:Madrid:5,11,7:6
+7:Was ist die Hauptstadt von Italien?:Rom:10,15,3:7
+8:Was ist die Hauptstadt von Österreich?:Wien:2,15,4:8
+9:Was ist die Hauptstadt von Belgien?:Brüssel:7,17,3:9
+10:Was ist die Hauptstadt von Kroatien?:Zagreb:16,4,2:10
+11:Was ist die Hauptstadt der Niederlande?:Amsterdam:3,8,14:11
+12:Was ist die Hauptstadt der Schweiz?:Bern:16,7,20:12
+13:Was ist die Hauptstadt von Griechenland?:Athen:5,17,8:13
+14:Was ist die Hauptstadt der Ukraine?:Kiew:12,10,18:14

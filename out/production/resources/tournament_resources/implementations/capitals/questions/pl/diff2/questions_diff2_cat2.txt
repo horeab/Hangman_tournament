@@ -1,0 +1,26 @@
+38:Co to jest stolica Kirgistanu?:Biszkek:45,40,30:38
+39:Jaka jest stolica Bahrajnu?:Manama:31,37,35:39
+40:Co to jest stolica Uzbekistanu?:Taszkent:48,41,44:40
+41:Jaka jest stolica Malediwów?:Male:44,39,40:41
+42:Jaka jest stolica Laosu?:Vientiane:44,40,49:42
+43:Co to jest stolica Omanu?:Muscat:48,45,49:43
+44:Co to jest stolica Tadżykistanu:Duszanbe:52,49,39:44
+45:Co to jest stolica Pakistanu?:Islamabad:48,37,43:45
+46:Co to jest stolica Palestyny ​​?:Ramallah:54,48,49:46
+47:Co to jest stolica Libanu?:Bejrut:42,48,54:47
+48:Co to jest stolica Brunei?:Bandar Seri Begawan:52,56,50:48
+49:Jaka jest stolica Bhutanu?:Thimphu:51,53,46:49
+50:Co to jest stolica Syrii?:Damaszek:51, 41, 52:50
+51:Co to jest stolica Jemenu?:Sana:58,43,56:51
+52:Jaka jest stolica Timoru Wschodniego?:Dili:59,49,51:52
+53:Co to jest stolica Fidżi?:Suva:51,45,58:53
+54:Co to jest stolica Wysp Salomona?:Honiara:47,56,51:54
+55:Jaka jest stolica Vanuatu?:Port Vila:52,54,58:55
+56:Co to jest stolica Samoa?:Apia:55,50,53:56
+57:Co to jest stolica Kiribati?:South Tarawa:52,60,50:57
+58:Co to jest stolica Mikronezji?:Palikir:54,56,60:58
+59:Co to jest stolica Tonga?:Nuku'alofa:60,52,61:59
+60:Co to jest stolica Wysp Marshalla?:Majuro:62,61,52:60
+61:Co to jest stolica Palau?:Ngerulmud:56,62,58:61
+62:Co to jest stolica Tuvalu?:Funafuti:59,56,63:62
+63:Co to jest stolica Nauru?:Yaren District:62,61,56:63

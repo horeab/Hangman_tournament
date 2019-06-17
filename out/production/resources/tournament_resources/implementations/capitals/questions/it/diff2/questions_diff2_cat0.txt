@@ -1,0 +1,12 @@
+30:Qual è la capitale della Lettonia?:Riga:35,23,38:30
+31:Qual è la capitale della Bielorussia?:Minsk:36,26,23:31
+32:Qual è la capitale del Liechtenstein?:Vaduz:35,31,40:32
+33:Qual è la capitale dell'Estonia?:Tallinn:27,37,31:33
+34:Qual è la capitale di Andorra?:Andorra la Vella:27,39,31:34
+35:Qual è la capitale della Lituania?:Vilnius:27,34,37:35
+36:Qual è la capitale del Lussemburgo?:Città di Lussemburgo:33,34,30:36
+37:Qual è la capitale di Malta?:La Valletta:36,34,31:37
+38:Qual è la capitale della Moldavia?:Chişinău:34,33,30:38
+39:Qual è la capitale del Montenegro?:Podgorica:32,31,33:39
+40:Qual è la capitale di Monaco?:Monte Carlo:38,34,36:40
+41:Qual è la capitale di San Marino?:San Marino:39,38,36:41

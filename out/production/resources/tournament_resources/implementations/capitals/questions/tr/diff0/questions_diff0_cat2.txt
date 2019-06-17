@@ -1,0 +1,19 @@
+0:Çin'in başkenti nedir?:Pekin:5,8,4:0
+1:Hindistan'ın başkenti nedir?:Yeni Delhi:9,4,2:1
+2:Rusya'nın başkenti nedir?:Moskova:7,4,6:2
+3:Türkiye'nin başkenti nedir?:Istanbul:4,2,8:3
+4:Japonya'nın başkenti nedir:Tokyo:7,2,6:4
+5:Tayland'ın başkenti nedir?:Bangkok:3,11,2:5
+6:Afganistan'ın başkenti nedir?:Kabil:3,12,10:6
+7:Güney Kore'nin başkenti nedir?:Seul:1,4,12:7
+8:Vietnam'ın başkenti nedir?:Hanoi:15,5,11:8
+9:Malezya'nın başkenti nedir?:Kuala Lumpur:12,7,14:9
+10:Filipinler'in başkenti nedir?:Manila:9,5,17:10
+11:Kıbrıs'ın başkenti nedir?:Lefkoşa:3,8,9:11
+12:Nepal'in başkenti nedir?:Katmandu:5,13,11:12
+13:Kuzey Kore'nin başkenti nedir?:Pyongyang:8,12,6:13
+14:Gürcistan'ın başkenti nedir?:Tiflis:11,12,21:14
+15:Birleşik Arap Emirlikleri'nin başkenti nedir?:Abu Dabi:18,9,21:15
+16:Endonezya'nın başkenti nedir?:Cakarta:18,9,23:16
+17:İsrail'in başkenti nedir?:Kudüs:24,12,23:17
+18:Avustralya'nın başkenti nedir?:Canberra:13,16,21:18

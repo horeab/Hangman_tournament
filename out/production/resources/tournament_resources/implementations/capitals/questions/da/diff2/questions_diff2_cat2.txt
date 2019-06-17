@@ -1,0 +1,26 @@
+38:Hvad er hovedstaden i Kirgisistan?:Bishkek:45,40,30:38
+39:Hvad er Bahrain hovedstad?:Manama:31,37,35:39
+40:Hvad er hovedstaden i Usbekistan?:Tasjkent:48,41,44:40
+41:Hvad er hovedstaden i Maldiverne?:Malé:44,39,40:41
+42:Hvad er Laos hovedstad?:Vientiane:44,40,49:42
+43:Hvad er hovedstaden i Oman?:Muscat:48,45,49:43
+44:Hvad er Tadsjikistans hovedstad?:Dushanbe:52,49,39:44
+45:Hvad er Pakistans hovedstad?:Islamabad:48,37,43:45
+46:Hvad er hovedstaden i Palæstina?:Ramallah:54,48,49:46
+47:Hvad er hovedstaden i Libanon?:Beirut:42,48,54:47
+48:Hvad er Bruneiens hovedstad?:Bandar Seri Begawan:52,56,50:48
+49:Hvad er hovedstaden i Bhutan?:Thimphu:51,53,46:49
+50:Hvad er Syriens hovedstad?:Damaskus:51,46,52:50
+51:Hvad er hovedstaden i Yemen?:Sana'a:58,43,56:51
+52:Hvad er hovedstaden i Østtimor?:Dili:59,49,51:52
+53:Hvad er hovedstaden i Fiji?:Suva:51,45,58:53
+54:Hvad er Salomonøernes hovedstad?:Honiara:47,56,51:54
+55:Hvad er Vanuatu hovedstad?:Port Vila:52,54,58:55
+56:Hvad er hovedstaden i Samoa?:Apia:55,50,53:56
+57:Hvad er hovedstaden i Kiribati?:South Tarawa:52,60,50:57
+58:Hvad er Mikronesiens hovedstad?:Palikir:54,56,60:58
+59:Hvad er hovedstaden i Tonga?:Nuku'alofa:60,52,61:59
+60:Hvad er hovedstaden på Marshalløerne?:Majuro:62,61,52:60
+61:Hvad er hovedstaden i Palau?:Ngerulmud:56,62,58:61
+62:Hvad er Tuvaluens hovedstad?:Funafuti:59,56,63:62
+63:Hvad er Nauru's hovedstad?:Yaren District:62,61,56:63

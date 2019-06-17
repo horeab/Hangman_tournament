@@ -1,0 +1,12 @@
+30:Mi Lettország fővárosa?:Riga:35,23,38:30
+31:Mi a Belarusz fővárosa?:Minsk:36,26,23:31
+32:Mi a Liechtenstein fővárosa?:Vaduz:35,31,40:32
+33:Mi az Észtország fővárosa?:Tallinn:27,37,31:33
+34:Mi az Andorra fővárosa:Andorra la Vella:27,39,31:34
+35:Mi Litvánia fővárosa?:Vilnius:27,34,37:35
+36:Mi a luxemburgi főváros?:Luxemburg City:33,34,30:36
+37:Mi a máltai főváros?:Valletta:36,34,31:37
+38:Mi Moldova fővárosa?:Chişinău:34,33,30:38
+39:Mi az a főváros, Montenegró:Podgorica:32,31,33:39
+40:Mi a Monaco fővárosa?:Monte Carlo:38,34,36:40
+41:Mi a San Marino fővárosa?:San Marino:39,38,36:41

@@ -1,0 +1,19 @@
+19:Was ist die Hauptstadt von Saudi-Arabien?:Riad:11,23,14:19
+20:Was ist die Hauptstadt der Mongolei?:Ulaanbaatar:18,19,14:20
+21:Was ist die Hauptstadt des Iran?:Teheran:29,28,24:21
+22:Was ist die Hauptstadt des Irak?:Bagdad:18,16,30:22
+23:Was ist die Hauptstadt von Kasachstan?:Astana:24,27,19:23
+24:Was ist die Hauptstadt von Myanmar?:Naypyidaw:25,23,20:24
+25:Was ist die Hauptstadt von Katar?:Doha:29,22,26:25
+26:Was ist die Hauptstadt von Bangladesch?:Dhaka:19,27,30:26
+27:Was ist die Hauptstadt von Armenien?:Jerewan:20,29,34:27
+28:Was ist die Hauptstadt von Jordanien?:Amman:30,31,36:28
+29:Was ist die Hauptstadt von Sri Lanka?:Colombo:26,30,24:29
+30:Was ist die Hauptstadt von Singapur?:Singapur:32,24,23:30
+31:Was ist die Hauptstadt von Aserbaidschan?:Baku:34,38,36:31
+32:Was ist die Hauptstadt von Taiwan?:Taipei:35,40,24:32
+33:Was ist die Hauptstadt von Kambodscha?:Phnom Penh:30,29,38:33
+34:Was ist die Hauptstadt von Kuwait?:Kuwait City:29,37,40:34
+35:Was ist die Hauptstadt von Turkmenistan?:Ashgabat:39,37,41:35
+36:Was ist die Hauptstadt von Papua-Neuguinea?:Port Moresby:43,40,28:36
+37:Was ist die Hauptstadt von Neuseeland?:Wellington:45,40,44:37

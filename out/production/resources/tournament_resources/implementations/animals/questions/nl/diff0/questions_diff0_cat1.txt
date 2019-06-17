@@ -1,0 +1,12 @@
+0::Albatros:4,8,2:0
+1::Kraan:8,3,7:1
+2::Vink:10,8,4:2
+3::Parelhoen:8,4,2:3
+4::Reiger:8,9,6:4
+5::Kolibrie:10,2,3:5
+6::Struisvogel:10,5,7:6
+7::Uil:1,0,10:7
+8::Papegaai:10,5,7:8
+9::Pinguïn:5,10,8:9
+10::Strandloper:9,3,2:10
+11::Toekan:10,8,5:11

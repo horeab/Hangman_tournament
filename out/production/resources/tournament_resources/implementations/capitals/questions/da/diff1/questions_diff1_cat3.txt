@@ -1,0 +1,5 @@
+6:Hvad er Peru's hovedstad?:Lima:8,9,2:6
+7:Hvad er hovedstaden i Paraguay?:Asunción:4,10,6:7
+8:Hvad er hovedstaden i Bolivia?:La Paz:14,4,7:8
+9:Hvad er Venezuelas hovedstad?:Caracas:4,12,3:9
+10:Hvad er hovedstaden i Guyana?:Georgetown:9,13,6:10

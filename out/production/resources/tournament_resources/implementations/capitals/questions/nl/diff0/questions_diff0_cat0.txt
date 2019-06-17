@@ -1,0 +1,15 @@
+0:Wat is de hoofdstad van Engeland?:Londen:8,2,6:0
+1:Wat is de hoofdstad van Rusland?:Moskou:4,7,5:1
+2:Wat is de hoofdstad van Portugal?:Lissabon:4,9,6:2
+3:Wat is de hoofdstad van Polen?:Warschau:5,6,0:3
+4:Wat is de hoofdstad van Duitsland?:Berlijn:10,8,7:4
+5:Wat is de hoofdstad van Frankrijk?:Parijs:11,3,1:5
+6:Wat is de hoofdstad van Spanje?:Madrid:5,11,7:6
+7:Wat is de hoofdstad van Italië?:Rome:10,15,3:7
+8:Wat is de hoofdstad van Oostenrijk?:Wenen:2,15,4:8
+9:Wat is de hoofdstad van België?:Brussel:7,17,3:9
+10:Wat is de hoofdstad van Kroatië?:Zagreb:16,4,2:10
+11:Wat is de hoofdstad van Nederland?:Amsterdam:3,8,14:11
+12:Wat is de hoofdstad van Zwitserland?:Bern:16,7,20:12
+13:Wat is de hoofdstad van Griekenland?:Athene:5,17,8:13
+14:Wat is de hoofdstad van Oekraïne?:Kiev:12,10,18:14

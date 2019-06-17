@@ -1,0 +1,15 @@
+0:Qual è la capitale dell'Inghilterra?:Londra:8,2,6:0
+1:Qual è la capitale della Russia?:Mosca:4,7,5:1
+2:Qual è la capitale del Portogallo?:Lisbona:4,9,6:2
+3:Qual è la capitale della Polonia?:Varsavia:5,6,0:3
+4:Qual è la capitale della Germania?:Berlino:10,8,7:4
+5:Qual è la capitale della Francia?:Parigi:11,3,1:5
+6:Qual è la capitale della Spagna?:Madrid:5,11,7:6
+7:Qual è la capitale d'Italia?:Roma:10,15,3:7
+8:Qual è la capitale dell'Austria?:Vienna:2,15,4:8
+9:Qual è la capitale del Belgio?:Bruxelles:7,17,3:9
+10:Qual è la capitale della Croazia?:Zagreb:16,4,2:10
+11:Qual è la capitale dei Paesi Bassi?:Amsterdam:3,8,14:11
+12:Qual è la capitale della Svizzera?:Berna:16,7,20:12
+13:Qual è la capitale della Grecia?:Atene:5,17,8:13
+14:Qual è la capitale dell'Ucraina?:Kiev:12,10,18:14

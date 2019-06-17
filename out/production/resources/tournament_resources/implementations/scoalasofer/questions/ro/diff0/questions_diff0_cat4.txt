@@ -1,0 +1,20 @@
+0:Pe străzile cu sens unic este interzis:să întoarceţi autovehiculul##să viraţi la stânga sau la dreapta##să manevraţi înapoi autovehiculul:0:
+1:Unde vă este permisă staţionarea pe partea stângă în direcţia de mers?:pe străzile cu sens unic##în nicio situaţie##pe şoselele cu bandă laterală consolidată:0:
+2:Precizaţi în care situaţie vehiculele enumerate mai jos au prioritate de trecere:vehiculele aflate în sensul giratoriu, faţă de cele care se pregătesc să intre în sensul giratoriu##autovehiculele din serviciile regulate de transport public, care se pun în mişcare din staţie##vehiculele care execută manevra de întoarcere:0:
+3:Ce obligaţii are conducătorul de vehicul care intenţionează să intre pe prima stradă la dreapta, într-o intersecţie cu sens giratoriu?:ocoleşte sensul giratoriu, apoi schimbă direcţia de mers spre dreapta##semnalizează intenţia de a executa manevra, se asigură, se angajează cât mai aproape de marginea din dreapta, apoi intră pe strada respectivă##opreşte autovehiculul, se asigură şi execută schimbarea direcţiei de mers spre dreapta:1:
+4:Dacă circulaţi într-o intersecţie cu sens giratoriu, acordaţi prioritate:niciunui vehicul##vehiculelor care urmează să intre în intersecţie##autobuzelor şi troleibuzelor:0:
+5:Care sunt vehiculele care au prioritate în sensul giratoriu?:toate vehiculele care au pătruns în sensul giratoriu, faţă de cele care urmează să pătrundă##toate autovehiculele care vin din faţă##toate vehiculele care vin din dreapta:0:
+6:Într-o intersecţie unde circulaţia se desfăşoară în sens giratoriu, conducătorilor auto le este interzis:să reducă viteza, întrucât se creează pericolul de blocare##să oprească autovehiculele, în afara situaţiilor impuse de trafic##să întoarceţi, prin ocolirea sensului giratoriu:1:
+7:Cum veţi parca regulamentar într-o piaţă cu sens giratoriu?:paralel cu bordura trotuarului şi cât mai aproape de aceasta##parţial pe trotuar##în acest loc nu este permisă parcarea:2:
+8:Schimbarea direcţiei de mers la dreapta sau la stânga nu este permisă la întâlnirea:indicatorului 1##indicatorului 2##ambelor indicatoare:1:8
+9:Care este traseul de urmat pentru autoturismul din imagine?:traseul 1##traseul 2##oricare dintre cele două, dacă respectă toate prevederile legii:2:9
+10:Aţi selectat corect banda de circulaţie pentru a vira la stânga în intersecţia care urmează?:da##nu##sunteţi obligat să circulaţi numai înainte:0:10
+11:Ce interdicţie aveţi în această situaţie?:să acordaţi prioritate vehiculelor care intră în intersecţie##să opriţi autovehiculul##să circulaţi cu o viteză mai mică de 30 km pe oră:1:11
+12:Care dintre autoturismele din imagine circulă corect în intersecţie?:autoturismul mov şi cel roşu##autoturismul albastru şi cel roşu##toate cele patru autoturisme:2:12
+13:În această situaţie, intenţionaţi să viraţi pe prima stradă la dreapta. Ce obligaţii aveţi?:opriţi, vă asiguraţi, apoi schimbaţi direcţia de mers spre dreapta##ocoliţi sensul giratoriu, apoi schimbaţi direcţia de mers spre dreapta##Semnalizaţi intenţia de a executa manevra, vă asiguraţi,vă angajaţi cât mai aproape de marginea din dreapta, apoi viraţi la dreapta:2:13
+14:Cum trebuie să procedaţi la întâlnirea indicatorului?:ocoliţi centrul intersecţiei prin stânga##circulaţi cu o viteză maximă de 40 km/h##acordaţi prioritate vehiculelor care circulă în interiorul intersecţiei:2:14
+15:Care autoturisme s-au încadrat corect pentru a traversa intersecţia prezentată?:toate##autoturismul verde şi cel roşu##autoturismul albastru şi cel galben:0:15
+16:Care dintre autovehiculele din imagine au prioritate de trecere?:autobuzul şi motocicleta##motocicleta şi autocamionul##autobuzul şi autoturismul:1:16
+17:Care este traseul optim pentru a întoarce în intersecţia prezentată?:traseul 1##traseul 2##traseul 3:1:17
+18:Care este traseul recomandat pentru a vira la stânga?:traseul 1##traseul 2##virajul la stânga este interzis:1:18
+19:Ce obligaţii revin conducătorilor la întâlnirea indicatorului?:să acorde prioritate vehiculelor care circulă în intersecţie##să ocolească centrul intersecţiei şi să circule cât mai aproape de marginea străzii##să acorde prioritate de dreapta:0:19

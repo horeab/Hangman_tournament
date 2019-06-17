@@ -1,0 +1,12 @@
+0:¿Cuál es la capital de los Estados Unidos?:Washington, D.C.:6,7,1:0
+1:¿Cuál es la capital de Canadá?:Ottawa:0,4,8:1
+2:¿Cuál es la capital de México?:Ciudad de México:0,4,3:2
+3:¿Cuál es la capital de Cuba?:La Habana:9,8,10:3
+4:¿Cuál es la capital de Jamaica?:Kingston:10,11,5:4
+5:¿Cuál es la capital de Honduras?:Tegucigalpa:10,0,9:5
+6:¿Cuál es la capital de Haití?:Puerto Príncipe:2,0,8:6
+7:¿Cuál es la capital de Costa Rica?:San José:15,6,11:7
+8:¿Cuál es la capital de Belice?:Belmopan:13,6,5:8
+9:¿Cuál es la capital de las Bahamas?:Nassau:16,12,7:9
+10:¿Cuál es la capital de Panamá?:Ciudad de Panamá:17,7,6:10
+11:¿Cuál es la capital de Guatemala?:Ciudad de Guatemala:13,17,19:11

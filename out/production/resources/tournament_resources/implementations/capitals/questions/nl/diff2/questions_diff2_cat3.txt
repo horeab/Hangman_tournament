@@ -1,0 +1,4 @@
+11:Wat is de hoofdstad van Suriname?:Paramaribo:13,8,10:11
+12:Wat is de hoofdstad van Frans-Guyana?:Cayenne:14,13,6:12
+13:Wat is de hoofdstad van de Falklandeilanden?:Stanley:6,7,12:13
+14:Wat is de hoofdstad van de South Georgia en de South Sandwich Islands?:King Edward Point:6,7,12:14
