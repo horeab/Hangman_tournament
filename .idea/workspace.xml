@@ -4,7 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/../LibGdxControls/src/main/resources/main_resources/main/labels/main_labels_tr.properties" line="12" mnemonic="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ea6f760-daf5-4b48-be3d-cd10c980e37e" name="Default" comment="" />
+    <list default="true" id="6ea6f760-daf5-4b48-be3d-cd10c980e37e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/startgame/StartGame.java" afterPath="$PROJECT_DIR$/src/main/java/libgdx/startgame/StartGame.java" />
+      <change beforePath="$PROJECT_DIR$/../LibGdxControls/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../LibGdxControls/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -67,7 +71,18 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="StartGame.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/libgdx/startgame/StartGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -179,7 +194,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../LibGdxControls" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -731,7 +746,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/libgdx/ui/resources/Resource.java" />
         <option value="$PROJECT_DIR$/src/main/java/libgdx/ui/controls/button/ButtonSkin.java" />
         <option value="$PROJECT_DIR$/src/main/java/libgdx/ui/controls/button/ProVersionButtonBuilder.java" />
         <option value="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/game/external/AppInfoService.java" />
@@ -782,6 +796,7 @@
         <option value="$PROJECT_DIR$/src/main/java/libgdx/ui/util/TestDataCreatorUtil.java" />
         <option value="$PROJECT_DIR$/src/test/java/test/services/services/QuestionCreatorTest.java" />
         <option value="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/constants/ScreenContrast.java" />
+        <option value="$PROJECT_DIR$/src/main/java/libgdx/startgame/StartGame.java" />
       </list>
     </option>
   </component>
@@ -790,7 +805,7 @@
       <run-configuration type="JUnit" name="LiveGameServiceAllListenersTest.test" />
     </enabled-run-configurations>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="y" value="1" />
     <option name="width" value="1936" />
@@ -993,21 +1008,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="libgdx" type="462c0819:PsiDirectoryNode" />
               <item name="startgame" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hangman_tournament" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="libgdx" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Hangman_tournament" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="libgdx" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-              <item name="game" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1369,10 +1369,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23773988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23773988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32324323" sideWeight="0.5453092" order="10" side_tool="true" content_ui="tabs" />
@@ -1438,7 +1439,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1562,13 +1564,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/tournament_resources/implementations/countryhistro/labels/labels.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="57" lean-forward="false" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_ro.properties">
       <provider editor-type-id="ResourceBundle">
         <state />
@@ -1916,6 +1911,14 @@
             <element signature="e#1877#1878#0" expanded="false" />
             <element signature="e#1919#1920#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/libgdx/startgame/StartGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
