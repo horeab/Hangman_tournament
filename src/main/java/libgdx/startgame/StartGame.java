@@ -20,6 +20,7 @@ public class StartGame {
                 loginService = TestDataCreator.createLoginService();
             }
         };
+        ///XXXXXX
         libgdx.utils.startgame.StartGame.main(game, args);
     }
 }
