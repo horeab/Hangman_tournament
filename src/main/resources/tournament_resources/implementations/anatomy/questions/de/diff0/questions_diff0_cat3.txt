@@ -1,0 +1,12 @@
+0:Deltoideus:Deltoideus:11,10,4:34,81:0
+1:Bizeps:Bizeps:11,10,4:34,71:0
+2:Trizeps:Trizeps:11,0,4:65,74:1
+3:Oberschenkelmuskel:Oberschenkelmuskel:11,7,2:42,41:0
+4:Gesäßmuskel:Gesäßmuskel:2,11,7:53,52:1
+5:Oberschenkelmuskel:Oberschenkelmuskel:1,8,9:55,41:1
+6:Brustmuskel:Brustmuskel:8,5,11:41,75:0
+7:Abdomen:Abdomen:11,3,2:43,68:0
+8:Sägemuskel:Sägemuskel:6,5,11:60,59:0
+9:Trapezmuskel:Trapezmuskel:0,1,11:53,74:1
+10:Breitester Rückenmuskel:Breitester Rückenmuskel:11,3,0:57,64:1
+11:Vorderer Schienbeinmuskel:Vorderer Schienbeinmuskel:5,0,6:40,16:0

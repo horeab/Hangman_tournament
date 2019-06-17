@@ -1,0 +1,12 @@
+0::Albatros:4,8,2:0
+1::Grue:8,3,7:1
+2::Pinson:10,8,4:2
+3::Pintade:8,4,2:3
+4::Héron:8,9,6:4
+5::Colibri:10,2,3:5
+6::Autruche:10,5,7:6
+7::Chouette:1,0,10:7
+8::Perroquet:10,5,7:8
+9::Pingouin:5,10,8:9
+10::Bécasseau:9,3,2:10
+11::Toucan:10,8,5:11

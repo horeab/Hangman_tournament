@@ -1,0 +1,43 @@
+0::Un prieten la nevoie:7,8,1:0
+1::O duminică după-amiază în parcul La Grande Jatte:6,4,7:1
+2::American Gothic:4,0,3:2
+3::Vânătorii în zăpadă:8,5,0:3
+4::Lan de grâu verde cu chiparoşi:8,11,10:4
+5::Lan de grâu cu chiparoşi:0,8,6:5
+6::Irişi:8,9,3:6
+7::Compoziţie en rouge, jaune, bleu et noir:0,2,8:7
+8::Fata cu turban:5,14,1:8
+9::Impresie, Răsărit de soare:15,3,5:9
+10::Crearea lui Adam:6,12,8:10
+11::Las Meninas:5,6,16:11
+12::Un bar la Folies-Bergère:5,10,19:12
+13::Libertatea conducând poporul:18,21,11:13
+14::Mona Lisa:8,20,6:14
+15::Nighthawks:11,13,21:15
+16::Trandafiri de Heliogabalus:18,12,14:16
+17::Sfântul Gheorghe şi Dragonul:11,10,22:17
+18::Jucătorii de carţi:22,20,13:18
+19::Autoportret cu urechea bandajată:15,22,16:19
+20::Noapte înstelată peste Rhone:23,19,24:20
+21::Ambasadorii:14,23,22:21
+22::Naşterea lui Venus:21,29,24:22
+23::Iepure de câmp:17,24,22:23
+24::Căpiţe în lumina soarelui, efect de dimineaţă:16,25,31:24
+25::Marele val de la Kanagawa:18,22,20:25
+26::Sărutul:31,21,22:26
+27::Rondul de noapte:33,29,20:27
+28::Al nouălea val:31,33,20:28
+29::Casa Parlamentului:24,36,22:29
+30::Golful Weymouth:22,27,24:30
+31::Ţipătul:28,23,26:31
+32::La Bohémienne endormie:33,35,27:32
+33::Pandora:27,32,28:33
+34::Noapte înstelată:32,36,33:34
+35::Turnul Babel:29,38,28:35
+36::Grădină cu floarea soarelui:37,38,39:36
+37::Vedere spre Toledo:32,41,36:37
+38::Hoinarul deasupra mării de ceaţă:33,34,37:38
+39::Washington, care trece prin Delaware:42,36,37:39
+40::Nuferi:35,37,39:40
+41::Aranjament în gri şi negru, Whistler James:39,38,42:41
+42::Mama artistului:41,34,36:42

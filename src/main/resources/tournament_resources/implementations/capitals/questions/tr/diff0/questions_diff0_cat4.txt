@@ -1,0 +1,19 @@
+0:Cezayir'in başkenti nedir?:Cezayir:3,8,7:0
+1:Fildişi Sahili'nin başkenti nedir?:Yamoussoukro:6,7,2:1
+2:Mısır'ın başkenti nedir?:Kahire:6,10,1:2
+3:Kenya'nın başkenti nedir?:Nairobi:0,2,11:3
+4:Güney Afrika'nın başkenti nedir?:Cape Town:7,10,2:4
+5:Angola'nın başkenti nedir?:Luanda:9,13,2:5
+6:Tunus'un başkenti nedir?:Tunus:1,12,7:6
+7:Fas'ın başkenti nedir?:Rabat:12,10,1:7
+8:Uganda'nın başkenti nedir?:Kampala:15,12,5:8
+9:Gana'nın başkenti nedir?:Akra:12,16,6:9
+10:Kamerun'un başkenti nedir?:Yaunde:4,9,2:10
+11:Nijerya'nın başkenti nedir?:Abuja:16,10,18:11
+12:Kongo Cumhuriyeti'nin başkenti nedir?:Brazzaville:20,8,14:12
+13:Senegal'in başkenti nedir?:Dakar:17,10,14:13
+14:Libya'nın başkenti nedir?:Trablus:20,11,21:14
+15:Somali'nin başkenti nedir?:Mogadişu:9,14,20:15
+16:Liberya'nın başkenti nedir?:Monrovia:8,18,17:16
+17:Etiyopya'nın başkenti nedir?:Addis Ababa:18,19,21:17
+18:Burkina Faso'nun başkenti nedir?:Ouagadougou:22,12,26:18

@@ -1,0 +1,6 @@
+0:Lucrarea cărui istoric antic îi menţionează pentru prima data pe geţi şi daci ca locuind în regiunea care corespunde teritoriului României de azi?:Herodot##Darius I##Tucidide##Pitagora:0:
+1:Cine a fost rege al Daciei în secolul 1?:Oroles##Trogus##Pompeius##Epitome:0:
+2:Cine a condus regatul Daciei intre 82-44 î.Hr.?:Burebista##Decebal##Oroles##Trogus:0:
+3:Ce rege dac s-a sinucis pentru a nu cădea viu în mâinile duşmanului?:Decebal##Oroles##Burebista##Pitagora:0:
+4:Cum a fost numită o mare parte a teritoriului statului dac (Transilvania, Banatul şi Oltenia) care în vara anului 106  a fost transformată în provincie romană?:Dacia Felix##Dacia##Transilvania##Vlahia:0:
+5:După câţi ani de colonizare are loc Retragerea Aureliană?:169##102##221##567:0:

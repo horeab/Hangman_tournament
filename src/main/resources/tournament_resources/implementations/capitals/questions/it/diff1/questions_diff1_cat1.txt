@@ -1,0 +1,10 @@
+12:Qual è la capitale del Nicaragua?:Managua:4,16,13:12
+13:Qual è la capitale di Antigua e Barbuda?:St. Giovanni:11,5,9:13
+14:Qual è la capitale di Trinidad e Tobago?:Porto di Spagna:19,12,20:14
+15:Qual è la capitale della Repubblica Dominicana?:Santo Domingo:17,13,11:15
+16:Qual è la capitale delle Barbados?:Bridgetown:20,15,18:16
+17:Qual è la capitale del Salvador?:San Salvador:10,18,11:17
+18:Qual è la capitale di Grenada?:St. Giorgio:13,19,15:18
+19:Qual è la capitale della Dominica?:Roseau:25,14,22:19
+20:Qual è la capitale di Santa Lucia?:Castries:24,26,22:20
+21:Qual è la capitale di Anguilla?:The Valley:20,13,26:21

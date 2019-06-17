@@ -1,0 +1,5 @@
+11:Wo befindet sich die Völklinger Hütte?:Saarland:7,12,15:11
+12:Wo befindet sich der Zwinger?:Sachsen:8,9,13:12
+13:Wo befindet sich der Hexentanzplatz?:Sachsen - Anhalt:14,15,8:13
+14:Wo befindet sich das das Holstentor?:Schleswig - Holstein:15,9,13:14
+15:Wo befindet sich die Krämerbrücke?:Thüringen:12,9,14:15

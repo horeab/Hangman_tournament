@@ -1,0 +1,44 @@
+0::Léopard d'Afrique:3,5,2:0
+1::Tigre d'Amour:0,4,3:1
+2::Tatou:9,1,7:2
+3::Babouin:6,1,5:3
+4::Tigre du Bengale:5,9,11:4
+5::Rhinocéros noir:0,1,11:5
+6::Ours brun:2,3,8:6
+7::Chat:5,8,12:7
+8::Chimpanzé:6,14,16:8
+9::Chinchilla:10,8,3:9
+10::Vache:13,8,2:10
+11::Cerf:14,3,18:11
+12::Chien:16,4,13:12
+13::Dauphin:10,14,18:13
+14::Echidna:17,18,13:14
+15::Éléphant:12,19,13:15
+16::Fennec:12,20,23:16
+17::Panda géant:13,20,25:17
+18::Gorille:24,16,15:18
+19::Grand Koudou:24,12,25:19
+20::Cheval:21,18,13:20
+21::Hyène:17,15,28:21
+22::épaulard:18,25,19:22
+23::Lemur:20,29,16:23
+24::Lion:25,30,19:24
+25::Lemuroidea:31,33,32:25
+26::Lamantin:25,22,18:26
+27::Mangouste:22,35,26:27
+28::Opossum:32,20,23:28
+29::Orang-outan:22,30,32:29
+30::Loutre:38,24,23:30
+31::Ours polaire:35,26,27:31
+32::Poney:37,40,27:32
+33::Lapin:31,25,29:33
+34::Panda rouge:40,42,26:34
+35::Paresse:34,39,30:35
+36::Ours lippu:30,29,39:36
+37::Léopard des neiges:42,33,38:37
+38::Tarsier:33,34,42:38
+39::Tigre:31,36,42:39
+40::Baleine:38,37,36:40
+41::Loup:38,39,35:41
+42::Wombat:35,43,36:42
+43::Zébu:41,37,40:43

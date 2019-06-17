@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hangman_tournament_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Hangman_tournament_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Hangman_tournament_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Hangman_tournament_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/controls.iml" filepath="$PROJECT_DIR$/.idea/modules/controls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/controls_main.iml" filepath="$PROJECT_DIR$/.idea/modules/controls_main.iml" group="controls" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/controls_test.iml" filepath="$PROJECT_DIR$/.idea/modules/controls_test.iml" group="controls" />
+    </modules>
+  </component>
+</project>

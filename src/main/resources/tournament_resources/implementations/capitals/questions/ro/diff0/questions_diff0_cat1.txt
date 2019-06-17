@@ -1,0 +1,12 @@
+0:Care este capitala Statelor Unite?:Washington, D.C.:6,7,1:0
+1:Care este capitala Canadei?:Ottawa:0,4,8:1
+2:Care este capitala Mexicului?:Mexico City:0,4,3:2
+3:Care este capitala Cubei?:Havana:9,8,10:3
+4:Care este capitala Jamaicei?:Kingston:10,11,5:4
+5:Care este capitala Honduras?:Tegucigalpa:10,0,9:5
+6:Care este capitala Haiti?:Port-au-Prince:2,0,8:6
+7:Care este capitala Costa Rica?:San José:15,6,11:7
+8:Care este capitala Belize?:Belmopan:13,6,5:8
+9:Care este capitala Bahamelor?:Nassau:16,12,7:9
+10:Care este capitala Panamei?:Panama City:17,7,6:10
+11:Care este capitala Guatemalei?:Guatemala City:13,17,19:11

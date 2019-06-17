@@ -1,0 +1,19 @@
+19:Suudi Arabistan'ın başkenti nedir?:Riyad:11,23,14:19
+20:Moğolistan'ın başkenti nedir?:Ulan Batur:18,19,14:20
+21:İran'ın başkenti nedir?:Tahran:29,28,24:21
+22:Irak'ın başkenti nedir?:Bağdat:18,16,30:22
+23:Kazakistan'ın başkenti nedir?:Astana:24,27,19:23
+24:Myanmar'ın başkenti nedir?:Naypyidaw:25,23,20:24
+25:Katar'ın başkenti nedir?:Doha:29,22,26:25
+26:Bangladeş'in başkenti nedir?:Dakka:19,27,30:26
+27:Ermenistan'ın başkenti nedir?:Erivan:20,29,34:27
+28:Ürdün'ün başkenti nedir?:Amman:30,31,36:28
+29:Sri Lanka'nın başkenti nedir?:Kolombo:26,30,24:29
+30:Singapur'un başkenti nedir?:Singapur:32,24,23:30
+31:Azerbaycan'ın başkenti nedir?:Bakü:34,38,36:31
+32:Tayvan'ın başkenti nedir?:Taipei:35,40,24:32
+33:Kamboçya'nın başkenti nedir?:Phnom Penh:30,29,38:33
+34:Kuveyt'in başkenti nedir?:Kuveyt Şehir:29,37,40:34
+35:Türkmenistan'ın başkenti neresidir:Aşkabat:39,37,41:35
+36:Papua Yeni Gine'nin başkenti nedir?:Port Moresby:43,40,28:36
+37:Yeni Zelanda'nın başkenti neresidir:Wellington:45,40,44:37

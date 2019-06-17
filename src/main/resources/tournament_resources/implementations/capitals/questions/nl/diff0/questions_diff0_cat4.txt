@@ -1,0 +1,19 @@
+0:Wat is de hoofdstad van Algerije?:Algiers:3,8,7:0
+1:Wat is de hoofdstad van Ivoorkust?:Yamoussoukro:6,7,2:1
+2:Wat is de hoofdstad van Egypte?:Cairo:6,10,1:2
+3:Wat is de hoofdstad van Kenia?:Nairobi:0,2,11:3
+4:Wat is de hoofdstad van Zuid-Afrika?:Kaapstad:7,10,2:4
+5:Wat is de hoofdstad van Angola?:Luanda:9,13,2:5
+6:Wat is de hoofdstad van Tunesië?:Tunis:1,12,7:6
+7:Wat is de hoofdstad van Marokko?:Rabat:12,10,1:7
+8:Wat is de hoofdstad van Oeganda?:Kampala:15,12,5:8
+9:Wat is de hoofdstad van Ghana?:Accra:12,16,6:9
+10:Wat is de hoofdstad van Kameroen?:Yaoundé:4,9,2:10
+11:Wat is de hoofdstad van Nigeria?:Abuja:16,10,18:11
+12:Wat is de hoofdstad van de Republiek Congo:Brazzaville:20,8,14:12
+13:Wat is de hoofdstad van Senegal?:Dakar:17,10,14:13
+14:Wat is de hoofdstad van Libië?:Tripoli:20,11,21:14
+15:Wat is de hoofdstad van Somalië?:Mogadishu:9,14,20:15
+16:Wat is de hoofdstad van Liberia?:Monrovia:8,18,17:16
+17:Wat is de hoofdstad van Ethiopië:Addis Abeba:18,19,21:17
+18:Wat is de hoofdstad van Burkina Faso?:Ouagadougou:22,12,26:18

@@ -1,0 +1,12 @@
+0:Mi az Egyesült Államok fővárosa?:Washington, D.C.:6,7,1:0
+1:Mi Kanada fővárosa?:Ottawa:0,4,8:1
+2:Mi Mexikó fővárosa?:Mexikó:0,4,3:2
+3:Mi a kubai főváros?:Havanna:9,8,10:3
+4:Mi az a főváros, Jamaica:Kingston:10,11,5:4
+5:Mi a Honduras fővárosa?:Tegucigalpa:10,0,9:5
+6:Mi a Haiti fővárosa?:Port-au-Prince:2,0,8:6
+7:Mi a Costa Rica fővárosa?:San José:15,6,11:7
+8:Mi a Belize fővárosa?:Belmopan:13,6,5:8
+9:Mi a Bahama-szigetek fővárosa?:Nassau:16,12,7:9
+10:Mi a Panama fővárosa?:Panama City:17,7,6:10
+11:Mi az a főváros Guatemalában?:Guatemala City:13,17,19:11

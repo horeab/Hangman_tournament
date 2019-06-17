@@ -1,0 +1,5 @@
+0:Capra neagră:Capra neagră:3,2,1:38,40:999
+1:Pelicanul:Pelicanul:0,3,2:96,32:999
+2:Dropia:Dropia:4,3,1:62,18:999
+3:Scorpionul:Scorpionul:0,1,2:66,37:999
+4:Zimbru:Zimbru:1,2,3:29,43:999

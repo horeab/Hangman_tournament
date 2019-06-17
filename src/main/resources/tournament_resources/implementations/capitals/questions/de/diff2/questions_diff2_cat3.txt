@@ -1,0 +1,4 @@
+11:Was ist die Hauptstadt von Suriname?:Paramaribo:13,8,10:11
+12:Was ist die Hauptstadt von Französisch-Guayana?:Cayenne:14,13,6:12
+13:Was ist die Hauptstadt der Falklandinseln?:Stanley:6,7,12:13
+14:Was ist die Hauptstadt von Südgeorgien und den Südsandwich-Inseln?:King Edward Point:6,7,12:14

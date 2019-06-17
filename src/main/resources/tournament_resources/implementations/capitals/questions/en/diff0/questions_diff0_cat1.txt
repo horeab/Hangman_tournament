@@ -1,0 +1,12 @@
+0:What is the capital of the United States?:Washington, D.C.:6,7,1:0
+1:What is the capital of Canada?:Ottawa:0,4,8:1
+2:What is the capital of Mexico?:Mexico City:0,4,3:2
+3:What is the capital of Cuba?:Havana:9,8,10:3
+4:What is the capital of Jamaica?:Kingston:10,11,5:4
+5:What is the capital of Honduras?:Tegucigalpa:10,0,9:5
+6:What is the capital of Haiti?:Port-au-Prince:2,0,8:6
+7:What is the capital of Costa Rica?:San José:15,6,11:7
+8:What is the capital of Belize?:Belmopan:13,6,5:8
+9:What is the capital of the Bahamas?:Nassau:16,12,7:9
+10:What is the capital of Panama?:Panama City:17,7,6:10
+11:What is the capital of Guatemala?:Guatemala City:13,17,19:11

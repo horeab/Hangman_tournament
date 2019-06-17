@@ -1,0 +1,12 @@
+30:Co to jest stolica Łotwy?:Ryga:35,23,38:30
+31:Co to jest stolica Białorusi?:Mińsk:36,26,23:31
+32:Co to jest stolica Liechtensteinu?:Vaduz:35,31,40:32
+33:Co to jest stolica Estonii?:Tallinn:27,37,33:33
+34:Jaka jest stolica Andory?:Andorra la Vella:27,39,31:34
+35:Co to jest stolica Litwy?:Wilno:27,34,37:35
+36:Co to jest stolica Luksemburga?:Miasto Luksemburg:33,34,30:36
+37:Co to jest stolica Malty?:Valletta:36,34,31:37
+38:Co to jest stolica Mołdawii?:Kiszyniów:34,33,30:38
+39:Co to jest stolica Czarnogóry?:Podgorica:32,31,33:39
+40:Co to jest stolica Monako?:Monte Carlo:38,34,36:40
+41:Jaka jest stolica San Marino?:San Marino:39,38,36:41

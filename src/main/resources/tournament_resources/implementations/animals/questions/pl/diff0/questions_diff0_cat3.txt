@@ -1,0 +1,10 @@
+0::Pszczoła:6,1,7:0
+1::Chrząszcz:8,2,5:1
+2::Cykada:1,6,7:2
+3::Ważka:0,6,7:3
+4::Skorek:3,2,1:4
+5::Pchła:9,8,4:5
+6::Latać:0,3,9:6
+7::Biedronka:0,5,6:7
+8::Komar:6,0,3:8
+9::Modliszka:3,4,5:9

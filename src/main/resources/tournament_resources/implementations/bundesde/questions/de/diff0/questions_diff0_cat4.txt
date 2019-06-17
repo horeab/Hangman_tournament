@@ -1,0 +1,6 @@
+0:Hauptstadt von Baden-Württemberg?:Stuttgart
+1:Hauptstadt von Bayern?:München
+2:Hauptstadt von Berlin?:Berlin
+3:Hauptstadt von Brandenburg?:Potsdam
+4:Hauptstadt von Rheinland-Pfalz?:Mainz
+5:Hauptstadt von Thüringen?:Erfurt

@@ -1,0 +1,5 @@
+11:Hauptstadt von Saarland?:Saarbrücken
+12:Hauptstadt von Sachsen?:Dresden
+13:Hauptstadt von Sachsen-Anhalt?:Magdeburg
+14:Hauptstadt von Schleswig-Holstein?:Kiel
+15:Hauptstadt von Hamburg?:Hamburg

@@ -1,0 +1,6 @@
+0:What is the capital of Brazil?:Brasília:8,7,3:0
+1:What is the capital of Argentina?:Buenos Aires:5,0,9:1
+2:What is the capital of Chile?:Santiago:0,8,7:2
+3:What is the capital of Colombia?:Bogotá:0,7,6:3
+4:What is the capital of Uruguay?:Montevideo:3,2,6:4
+5:What is the capital of Ecuador?:Quito:13,7,3:5

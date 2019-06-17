@@ -1,0 +1,26 @@
+38:Wat is de hoofdstad van Kirgizië?:Bishkek:45,40,30:38
+39:Wat is de hoofdstad van Bahrein?:Manama:31,37,35:39
+40:Wat is de hoofdstad van Oezbekistan?:Tasjkent:48,41,44:40
+41:Wat is de hoofdstad van de Malediven?:Malé:44,39,40:41
+42:Wat is de hoofdstad van Laos?:Vientiane:44,40,49:42
+43:Wat is de hoofdstad van Oman?:Muscat:48,45,49:43
+44:Wat is de hoofdstad van Tadzjikistan?:Dushanbe:52,49,39:44
+45:Wat is de hoofdstad van Pakistan?:Islamabad:48,37,43:45
+46:Wat is de hoofdstad van Palestina?:Ramallah:54,48,49:46
+47:Wat is de hoofdstad van Libanon?:Beiroet:42,48,54:47
+48:Wat is de hoofdstad van Brunei?:Bandar Seri Begawan:52,56,50:48
+49:Wat is de hoofdstad van Bhutan?:Thimphu:51,53,46:49
+50:Wat is de hoofdstad van Syrië?:Damascus:51,46,52:50
+51:Wat is de hoofdstad van Jemen?:Sana'a:58,43,56:51
+52:Wat is de hoofdstad van Oost-Timor?:Dili:59,49,51:52
+53:Wat is de hoofdstad van Fiji?:Suva:51,45,58:53
+54:Wat is de hoofdstad van de Salomonseilanden?:Honiara:47,56,51:54
+55:Wat is de hoofdstad van Vanuatu?:Port Vila:52,54,58:55
+56:Wat is de hoofdstad van Samoa?:Apia:55,50,53:56
+57:Wat is de hoofdstad van Kiribati?:Zuid Tarawa:52,60,50:57
+58:Wat is de hoofdstad van Micronesië?:Palikir:54,56,60:58
+59:Wat is de hoofdstad van Tonga?:Nuku'alofa:60,52,61:59
+60:Wat is de hoofdstad van de Marshalleilanden?:Majuro:62,61,52:60
+61:Wat is de hoofdstad van Palau?:Ngerulmud:56,62,58:61
+62:Wat is de hoofdstad van Tuvalu?:Funafuti:59,56,63:62
+63:Wat is de hoofdstad van Nauru?:Yaren District:62,61,56:63

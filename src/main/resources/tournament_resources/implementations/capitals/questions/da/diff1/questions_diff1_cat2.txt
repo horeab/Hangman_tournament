@@ -1,0 +1,19 @@
+19:Hvad er hovedstaden i Saudi-Arabien?:Riyadh:11,23,14:19
+20:Hvad er hovedstaden i Mongoliet?:Ulaanbaatar:18,19,14:20
+21:Hvad er Irans hovedstad?:Teheran:29,28,24:21
+22:Hvad er hovedstaden i Irak?:Bagdad:18,16,30:22
+23:Hvad er hovedstaden i Kasakhstan?:Astana:24,27,19:23
+24:Hvad er hovedstaden i Myanmar?:Naypyidaw:25,23,20:24
+25:Hvad er hovedstaden i Qatar?:Doha:29,22,26:25
+26:Hvad er Bangladeshs hovedstad?:Dhaka:19,27,30:26
+27:Hvad er hovedstaden i Armenien?:Yerevan:20,29,34:27
+28:Hvad er hovedstaden i Jordan?:Amman:30,31,36:28
+29:Hvad er hovedstaden i Sri Lanka?:Colombo:26,30,24:29
+30:Hvad er Singapore's hovedstad?:Singapore:32,24,23:30
+31:Hvad er Aserbajdsjans hovedstad?:Baku:34,38,36:31
+32:Hvad er hovedstaden i Taiwan?:Taipei:35,40,24:32
+33:Hvad er hovedstaden i Cambodja?:Phnom Penh:30,29,38:33
+34:Hvad er hovedstaden i Kuwait?:Kuwait By:29,37,40:34
+35:Hvad er hovedstaden i Turkmenistan?:Ashgabat:39,37,41:35
+36:Hvad er hovedstaden i Papua Ny Guinea?:Port Moresby:43,40,28:36
+37:Hvad er hovedstaden i New Zealand?:Wellington:45,40,44:37

@@ -1,0 +1,19 @@
+0:Quelle est la capitale de la Chine?:Beijing:5,8,4:0
+1:Quelle est la capitale de l'Inde?:New Delhi:9,4,2:1
+2:Quelle est la capitale de la Russie?:Moscou:7,4,6:2
+3:Quelle est la capitale de la Turquie?:Istanbul:4,2,8:3
+4:Quelle est la capitale du Japon?:Tokyo:7,2,6:4
+5:Quelle est la capitale de la Thaïlande?:Bangkok:3,11,2:5
+6:Quelle est la capitale de l'Afghanistan?:Kabul:3,12,10:6
+7:Quelle est la capitale de la Corée du Sud?:Seoul:1,4,12:7
+8:Quelle est la capitale du Vietnam?:Hanoi:15,5,11:8
+9:Quelle est la capitale de la Malaisie?:Kuala Lumpur:12,7,14:9
+10:Quelle est la capitale des Philippines?:Manila:9,5,17:10
+11:Quelle est la capitale de Chypre?:Nicosia:3,8,9:11
+12:Quelle est la capitale du Népal?:Kathmandu:5,13,11:12
+13:Quelle est la capitale de la Corée du Nord?:Pyongyang:8,12,6:13
+14:Quelle est la capitale de la Géorgie?:Tbilissi:11,12,21:14
+15:Quelle est la capitale des Émirats arabes unis?:Abu Dhabi:18,9,21:15
+16:Quelle est la capitale de l'Indonésie?:Jakarta:18,9,23:16
+17:Quelle est la capitale d'Israël?:Jerusalem:24,12,23:17
+18:Quelle est la capitale de l'Australie?:Canberra:13,16,21:18

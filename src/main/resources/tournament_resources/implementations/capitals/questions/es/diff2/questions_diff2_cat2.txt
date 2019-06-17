@@ -1,0 +1,26 @@
+38:¿Cuál es la capital de Kirguistán?:Bishkek:45,40,30:38
+39:¿Cuál es la capital de Bahrein?:Manama:31,37,35:39
+40:¿Cuál es la capital de Uzbekistán?:Tashkent:48,41,44:40
+41:¿Cuál es la capital de las Maldivas?:Malé:44,39,40:41
+42:¿Cuál es la capital de Laos?:Vientiane:44,40,49:42
+43:¿Cuál es la capital de Omán?:Mascate:48,45,49:43
+44:¿Cuál es la capital de Tayikistán?:Dushanbe:52,49,39:44
+45:¿Cuál es la capital de Pakistán?:Islamabad:48,37,43:45
+46:¿Cuál es la capital de Palestina?:Ramallah:54,48,49:46
+47:¿Cuál es la capital del Líbano?:Beirut:42,48,54:47
+48:¿Cuál es la capital de Brunei?:Bandar Seri Begawan:52,56,50:48
+49:¿Cuál es la capital de Bután?:Thimphu:51,53,46:49
+50:¿Cuál es la capital de Siria?:Damasco:51,46,52:50
+51:¿Cuál es la capital de Yemen?:Sana'a:58,43,56:51
+52:¿Cuál es la capital de Timor Oriental?:Dili:59,49,51:52
+53:¿Cuál es la capital de Fiji?:Suva:51,45,58:53
+54:¿Cuál es la capital de las Islas Salomón?:Honiara:47,56,51:54
+55:¿Cuál es la capital de Vanuatu?:Port Vila:52,54,58:55
+56:¿Cuál es la capital de Samoa?:Apia:55,50,53:56
+57:¿Cuál es la capital de Kiribati?:South Tarawa:52,60,50:57
+58:¿Cuál es la capital de Micronesia?:Palikir:54,56,60:58
+59:¿Cuál es la capital de Tonga?:Nukuʻalofa:60,52,61:59
+60:¿Cuál es la capital de las Islas Marshall?:Majuro:62,61,52:60
+61:¿Cuál es la capital de Palau?:Ngerulmud:56,62,58:61
+62:¿Cuál es la capital de Tuvalu?:Funafuti:59,56,63:62
+63:¿Cuál es la capital de Nauru?:Distrito de Yaren:62,61,56:63

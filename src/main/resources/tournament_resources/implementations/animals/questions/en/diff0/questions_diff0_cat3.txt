@@ -1,0 +1,10 @@
+0::Bee :6,1,7:0
+1::Beetle :8,2,5:1
+2::Cricket :1,6,7:2
+3::Dragonfly :0,6,7:3
+4::Earwig :3,2,1:4
+5::Flea :9,8,4:5
+6::Fly :0,3,9:6
+7::Ladybug :0,5,6:7
+8::Mosquito :6,0,3:8
+9::Praying mantis :3,4,5:9

@@ -1,0 +1,15 @@
+15:Qual é a capital da Irlanda?:Dublin:23,8,19:15
+16:Qual é a capital da Sérvia?:Belgrado:8,9,12:16
+17:Qual é a capital da Roménia?:Bucareste:16,9,19:17
+18:Qual é a capital da Bulgária?:Sofia:19,25,16:18
+19:Qual é a capital da Suécia?:Estocolmo:23,12,16:19
+20:Qual é a capital da República Checa?:Praga:27,21,13:20
+21:Qual é a capital da Dinamarca?:Copenhaga:22,17,19:21
+22:Qual é a capital da Noruega?:Oslo:19,14,16:22
+23:Qual é a capital da Hungria?:Budapeste:18,20,16:23
+24:Qual é a capital da Finlândia?:Helsinque:28,16,26:24
+25:Qual é a capital da Albânia?:Tirana:28,20,29:25
+26:Qual é a capital da Islândia?:Reykjavik:29,28,22:26
+27:Qual é a capital da Bósnia e Herzegovina?:Sarajevo:32,33,31:27
+28:Qual é a capital da Eslováquia?:Bratislava:23,32,34:28
+29:Qual é a capital da Eslovénia?:Ljubljana:21,36,27:29

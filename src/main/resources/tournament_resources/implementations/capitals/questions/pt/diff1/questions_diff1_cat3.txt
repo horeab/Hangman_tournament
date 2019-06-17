@@ -1,0 +1,5 @@
+6:Qual é a capital do Peru?:Lima:8,9,2:6
+7:Qual é a capital do Paraguai?:Assunção:4,10,6:7
+8:Qual é a capital da Bolívia?:La Paz:14,4,7:8
+9:Qual é a capital da Venezuela?:Caracas:4,12,3:9
+10:Qual é a capital da Guiana?:Georgetown:9,13,6:10

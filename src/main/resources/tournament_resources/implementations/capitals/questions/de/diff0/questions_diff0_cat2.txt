@@ -1,0 +1,19 @@
+0:Was ist die Hauptstadt von China?:Peking:5,8,4:0
+1:Was ist die Hauptstadt von Indien?:Neu-Delhi:9,4,2:1
+2:Was ist die Hauptstadt von Russland?:Moskau:7,4,6:2
+3:Was ist die Hauptstadt der Türkei?:Istanbul:4,2,8:3
+4:Was ist die Hauptstadt von Japan?:Tokyo:7,2,6:4
+5:Was ist die Hauptstadt von Thailand?:Bangkok:3,11,2:5
+6:Was ist die Hauptstadt von Afghanistan?:Kabul:3,12,10:6
+7:Was ist die Hauptstadt von Südkorea?:Seoul:1,4,12:7
+8:Was ist die Hauptstadt von Vietnam?:Hanoi:15,5,11:8
+9:Was ist die Hauptstadt von Malaysia?:Kuala Lumpur:12,7,14:9
+10:Was ist die Hauptstadt der Philippinen?:Manila:9,5,17:10
+11:Was ist die Hauptstadt von Zypern?:Nikosia:3,8,9:11
+12:Was ist die Hauptstadt von Nepal?:Kathmandu:5,13,11:12
+13:Was ist die Hauptstadt von Nordkorea?:Pjöngjang:8,12,6:13
+14:Was ist die Hauptstadt von Georgien?:Tbilisi:11,12,21:14
+15:Was ist die Hauptstadt der Vereinigten Arabischen Emirate?:Abu Dhabi:18,9,21:15
+16:Was ist die Hauptstadt von Indonesien?:Jakarta:18,9,23:16
+17:Was ist die Hauptstadt von Israel?:Jerusalem:24,12,23:17
+18:Was ist die Hauptstadt von Australien?:Canberra:13,16,21:18

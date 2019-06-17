@@ -1,0 +1,5 @@
+0:În ce Organizaţie internaţională accede România în 2004?:NATO##UE##ONU##UNESCO:0:
+1:Alături de ce altă ţara devine România membră UE?:Bulgaria##Serbia##Belarus##Ucraina:0:
+2:În ce an a murit Mihai I al României, ultimul rege al României?:2017##2000##2019##2005:0:
+3:Câte mandate de preşedinte a avut Traian Băsescu?:2##0##1##3:0:
+4:Cine este primul preşedinte de etnie germană al României?:Klaus Iohannis##Angela Merkel##Klaus Herzog##Fritz Iohannis:0:

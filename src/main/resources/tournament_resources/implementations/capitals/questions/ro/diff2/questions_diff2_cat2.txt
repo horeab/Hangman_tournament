@@ -1,0 +1,26 @@
+38:Care este capitala Kârgâzstanului:Bishkek:45,40,30:38
+39:Care este capitala Bahrain?:Manama:31,37,35:39
+40:Care este capitala Uzbekistanului?:Tashkent:48,41,44:40
+41:Care este capitala Maldive?:Malé:44,39,40:41
+42:Care este capitala Laosului?:Vientiane:44,40,49:42
+43:Care este capitala Omanului?:Muscat:48,45,49:43
+44:Care este capitala Tadjikistanului?:Dushanbe:52,49,39:44
+45:Care este capitala Pakistanului:Islamabad:48,37,43:45
+46:Care este capitala Palestinei?:Ramallah:54,48,49:46
+47:Care este capitala Libanului?:Beirut:42,48,54:47
+48:Care este capitala Brunei?:Bandar Seri Begawan:52,56,50:48
+49:Care este capitala Bhutanului?:Thimphu:51,53,46:49
+50:Care este capitala Siriei?:Damasc:51,46,52:50
+51:Care este capitala Yemenului?:Sana'a:58,43,56:51
+52:Care este capitala Timorului de Est?:Dili:59,49,51:52
+53:Care este capitala Fiji?:Suva:51,45,58:53
+54:Care este capitala Insulelor Solomon?:Honiara:47,56,51:54
+55:Care este capitala Vanuatu?:Port Vila:52,54,58:55
+56:Care este capitala Samoa?:Apia:55,50,53:56
+57:Care este capitala Kiribati?:South Tarawa:52,60,50:57
+58:Care este capitala Microneziei?:Palikir:54,56,60:58
+59:Care este capitala Tonga?:Nuku'alofa:60,52,61:59
+60:Care este capitala insulelor Marshall?:Majuro:62,61,52:60
+61:Care este capitala Palau?:Ngerulmud:56,62,58:61
+62:Care este capitala din Tuvalu?:Funafuti:59,56,63:62
+63:Care este capitala Nauru?:Districtul Yaren:62,61,56:63

@@ -1,0 +1,26 @@
+0:Prima biblioteca de medicina, a fost infiintata in Romania de:Dimitrie Gerota##Thoma Ionescu##Carol Davila##George Emil Palade:2:
+1:Catabolismul defineste...:Inmagazinarea energiei in compusi macroergici, ca ATP-ul##Reactiile blochimice cu reducere de energie##Reactiile biochimice de refacere a macrornoleculelor uzate din structurile celulare##Reactiile biochimice cu consum de energie:0:
+2:Procesele anabolice predomina...:In cursul eforturilor mari##La adult##La batranete##La varstele tinere:3:
+3:Procesele catabolice predomina :In cursul eforturilor mari##La adult##In cursul perioadelor de convalescenta##La varstele tinere:0:
+4:Reactiile metabolice sunt biocatalizate de...:Enzimele din tubul digestiv##Hormoni##Vitamine##Enzimele celulare:3:
+5:Care afirmatie privind catabolismul nu este adevarata?:Este reprezentat de reactii chimice in cadrul carora are loc descompunerea substantelor macromoleculare##Are ca rezultat producerea de energie##Procesele catabolice se afla in echilibru dinamic cu cele anabolice##Este procesul prin care se refac macromoleculele uzate din structurile celulare:3:
+6:Despre colesterol se poate spune ca...:Reprezinta precursorul hormonilor glucocorticoizi, mineralocorticoizi##Este o proteina##Nu este o substanta lipidica##Intervine in apararea organismului:0:
+7:Despre insulina se poate spune ca...:Stimuleaza glicogenoliza si gluconeogeneza##Creste glicemia##Scade glicemia##Nu este un hormon secretat de pancreasul endocrin:2:
+8:Notiunea de reproducere, la om...:Cuprinde procese care au rezultat fecundarea ovulului de catre spermatozoid##Cresterea si dezvoltarea produsului de conceptie sunt asigurate de organismul patern##Cuprinde procese care au rezultat fecundarea spermatozoidului de catre ovul##Cuprinde procese care au rezultat fecundarea ovulului de catre spermatozoizi:0:
+9:Privind fecundatia se poate spune ca...:Are loc la nivelul trompelor uterine##Are loc la nivelul vaginului##Este externa##Spermatozoizii sunt introdusi direct in uter:0:
+10:Ovulatia are loc...:In a 10-a zi a ciclului ovarian##In a 5-a zi a ciclului ovarian##In ziua 1 a ciclului ovarian##In a 14-a zi a ciclului ovarian:3:
+11:Cum se numeste ramura medicala care se ocupa de sarcina?:Obstretica##Pediatrie##Cardiologie##Chirurgie:0:
+12:Plamanii nu sunt...:Organe ce prezinta o capacitate totala de 5000 ml aer##Organe situate in cavitatea toracica##Organe ce prezinta o capacitate totala de 50 ml aer##Principalele organe ale respiratiei:2:
+13:Sistemul digestiv nu este alcatuit din...:Tub digestiv cu intestin subtire si intestin gros##Organe cu functii in cadrul digestiei, absorbtiei alimentelor si eliminarii resturilor neabsorbite##Mai multe componente. Cavitate bucala, faringe, esofag, stomac, intestin subtire si intestin gros carealcatuiesc tubul digestiv##Glande anexate tubului digestiv. Salivare, ficat si pancreas:0:
+14:Tubul digestiv este alcatuit din...:Ficat##Pancreas##Cavitate bucala, faringe, esofag, stomac, intestin subtire si intestin gros##Glande salivare:2:
+15:Care din urmatoarele afirmatii privind sistemul muscular este neadevarata?:Musculatura scheletica este formata de muschi striati##Este format de muschi care sunt organe active ale miscarii##Este format de muschi care sunt organe pasive ale miscarii##Muschii au forme variate:2:
+16:Despre schelet se poate spune:Cuprinde oase late, la care predomina latimea##Cuprinde toate oasele asezate in pozitie anatomica##Cuprinde numai oase lungi precum coastele##Cuprinde oase lungi, la care predomina latimea si inaltimea:1:
+17:Care din urmatoarele oase nu apartin neurocraniului?:Etmoidul##Maxila##Mandibula##Temporalul:2:
+18:Care din urmatoarele organe au functie endocrina temporara....:Placenta##Duodenul##Rinichii##Antrul piloric:0:
+19:Despre sistemul endocrin nu putem afirma :Regleaza si coordoneaza activitatea diferitelor organe##Are rol principal in reglarea metabolismului celular##Este controlat de sistemul nervos##Controleaza sistemul nervos:3:
+20:Sistemul nervos somatic regleaza....:Activitatea musculaturii viscerale##Activitatea musculaturii scheletice##Functia psihica a creierului##Activitatea glandelor exocrine:1:
+21:Neuronul reprezinta unitatea morfofunctionala a sistemului....:Nervos##Excretor##Circulator##Motor:0:
+22:Care din afirmatiile de mai jos privind celula este gresita?:Poate exista doar singura##Poate exista singura sau in grup##Este unitatea de baza morfofunctionala a organizarii materiei vii##Are initial forma globuloasa:0:
+23:Despre nucleu se poate spune ca....:Nu lipseste in hematia adulta##Este intotdeauna unic in celula##Are de obicei forma celulei##Contine material genetic:3:
+24:Cate celule fotosensibile, conuri si bastonase contine retina, cu aproximatie?:400 milioane##350 milioane##130 milioane##220 milioane:2:
+25:Care dintre urmatoarele patru parti nu apartine encefalului?:Scoarta cerebrala##Creierul mic##Creierul mare##Trunchiul cerebral:0:

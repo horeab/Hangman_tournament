@@ -1,0 +1,6 @@
+0:Hvad er Brasiliens hovedstad?:Brasília:8,7,3:0
+1:Hvad er hovedstaden i Argentina?:Buenos Aires:5,0,9:1
+2:Hvad er hovedstaden i Chile?:Santiago:0,8,7:2
+3:Hvad er hovedstaden i Colombia?:Bogotá:0,7,6:3
+4:Hvad er hovedstaden i Uruguay?:Montevideo:3,2,6:4
+5:Hvad er hovedstaden i Ecuador?:Quito:13,7,3:5
