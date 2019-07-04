@@ -1,8 +1,7 @@
 package libgdx.startgame;
 
 import libgdx.ui.game.TournamentGame;
-import libgdx.ui.game.TournamentMainDependencyManager;
-import libgdx.ui.services.login.guest.GuestUserLoginService;
+import libgdx.ui.util.Language;
 import libgdx.ui.util.TestDataCreator;
 import libgdx.utils.startgame.test.DefaultBillingService;
 import libgdx.utils.startgame.test.DefaultFacebookService;
@@ -13,7 +12,7 @@ public class StartGame {
         TournamentGame game = new TournamentGame(
                 new DefaultFacebookService(),
                 new DefaultBillingService(),
-                TestDataCreator.createAppInfoService()){
+                TestDataCreator.createAppInfoService(Language.de)){
             @Override
             public void create() {
                 super.create();

@@ -8,8 +8,8 @@ import com.badlogic.gdx.scenes.scene2d.ui.Stack;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 
-import libgdx.controls.button.ButtonCreator;
 import libgdx.controls.button.MyButton;
+import libgdx.controls.button.builders.BackButtonBuilder;
 import libgdx.controls.label.MyWrappedLabelConfigBuilder;
 import libgdx.resources.dimen.MainDimen;
 import libgdx.ui.game.TournamentGame;
@@ -92,7 +92,7 @@ public class UserStatusBarBuilder {
 
         Table table = new Table();
         if (Gdx.app.getType() == Application.ApplicationType.iOS) {
-            MyButton backBtn = new ButtonCreator().createScreenBackButton(screen);
+            MyButton backBtn = new BackButtonBuilder().createScreenBackButton(screen);
             table.add(backBtn).height(backBtn.getHeight()).width(backBtn.getWidth());
         }
         table.add(userInfo.getProfilePictureContainer()).padLeft(ScreenDimensionsManager.getScreenWidthValue(0.5f));

@@ -10,9 +10,10 @@ import com.badlogic.gdx.utils.Align;
 
 import java.util.List;
 
-import libgdx.controls.button.ButtonCreator;
 import libgdx.controls.button.MyButton;
+import libgdx.controls.button.builders.BackButtonBuilder;
 import libgdx.controls.label.MyWrappedLabel;
+import libgdx.graphics.GraphicUtils;
 import libgdx.resources.FontManager;
 import libgdx.resources.dimen.MainDimen;
 import libgdx.ui.controls.user.UserInfo;
@@ -21,7 +22,6 @@ import libgdx.ui.model.user.BaseUserInfo;
 import libgdx.ui.resources.Dimen;
 import libgdx.ui.resources.Resource;
 import libgdx.ui.services.dbapi.UserGamesDbApiService;
-import libgdx.graphics.GraphicUtils;
 import libgdx.utils.ScreenDimensionsManager;
 
 public class PlayerHeaderBuilder {
@@ -100,7 +100,7 @@ public class PlayerHeaderBuilder {
         UserInfo userInfo = new UserInfo(baseUserInfo, profilePictureSideDimen);
         Table table = new Table();
         if (Gdx.app.getType() == Application.ApplicationType.iOS) {
-            MyButton backBtn = new ButtonCreator().createScreenBackButton(TournamentGame.getInstance().getAbstractScreen());
+            MyButton backBtn = new BackButtonBuilder().createScreenBackButton(TournamentGame.getInstance().getAbstractScreen());
             width = width - backBtn.getWidth();
             table.add(backBtn).height(backBtn.getWidth()).width(backBtn.getWidth());
         }

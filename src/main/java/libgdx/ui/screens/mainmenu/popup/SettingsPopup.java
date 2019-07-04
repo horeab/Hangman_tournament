@@ -4,6 +4,8 @@ import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.scenes.scene2d.InputEvent;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 
+import libgdx.controls.MyTextField;
+import libgdx.game.Game;
 import libgdx.preferences.SettingsService;
 import libgdx.resources.gamelabel.MainGameLabel;
 import libgdx.ui.controls.button.ProVersionButtonCreator;
@@ -20,6 +22,8 @@ import libgdx.ui.screens.AbstractScreen;
 import libgdx.ui.screens.mainmenu.popup.rewards.FacebookShareRewardConfig;
 import libgdx.ui.screens.mainmenu.popup.rewards.RewardsService;
 import libgdx.ui.services.ScreenManager;
+import libgdx.ui.util.Language;
+import libgdx.ui.util.TestDataCreator;
 
 public class SettingsPopup extends MyPopup<AbstractScreen, ScreenManager> {
 
@@ -39,6 +43,24 @@ public class SettingsPopup extends MyPopup<AbstractScreen, ScreenManager> {
         }
         addButton(createToggleSoundButton());
         addButton(createPrivacyPolicyButton());
+        addAvailableLanguagesButtons();
+    }
+
+    private void addAvailableLanguagesButtons() {
+        if (Game.getInstance().getAppInfoService().screenShotMode()) {
+            final MyTextField myTextField = new MyTextField();
+            getButtonTable().add(myTextField).row();
+            MyButton changeLangBtn = new ButtonBuilder().setWrappedText("Change Lang to", Dimen.width_btn_menu_big.getDimen())
+                    .setDefaultButton()
+                    .build();
+            changeLangBtn.addListener(new ClickListener() {
+                @Override
+                public void clicked(InputEvent event, float x, float y) {
+                    Game.getInstance().changeContext(TestDataCreator.createAppInfoService(Language.valueOf(myTextField.getTextField().getText())));
+                }
+            });
+            addButton(changeLangBtn);
+        }
     }
 
     private MyButton createPrivacyPolicyButton() {

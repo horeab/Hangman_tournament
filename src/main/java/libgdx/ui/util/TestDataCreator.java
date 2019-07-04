@@ -80,17 +80,21 @@ public class TestDataCreator {
         return new UsersDbApiService();
     }
 
-    public static TournamentAppInfoService createAppInfoService() {
+    public static TournamentAppInfoService createAppInfoService(Language lang) {
+        return createTournamentAppInfoService(lang);
+    }
+
+    private static TournamentAppInfoService createTournamentAppInfoService(final Language lang) {
         return new TournamentAppInfoService() {
 
             @Override
             public String getGameIdPrefix() {
-//                return GameIdEnum.hangman.name();
+                return GameIdEnum.hangman.name();
 //                return GameIdEnum.geoquiz.name();
 //                return GameIdEnum.centenar.name();
 //                return GameIdEnum.judetelerom.name();
 //                return GameIdEnum.scoalasofer.name();
-                return GameIdEnum.conthistory_eur.name();
+//                return GameIdEnum.conthistory_eur.name();
 //                return GameIdEnum.conthistory_asia.name();
 //                return GameIdEnum.countryhistro.name();
 //                return GameIdEnum.bundesde.name();
@@ -106,8 +110,13 @@ public class TestDataCreator {
             }
 
             @Override
+            public boolean isPortraitMode() {
+                return true;
+            }
+
+            @Override
             public String getLanguage() {
-                return Language.de.name();
+                return lang.name();
             }
 
             @Override
