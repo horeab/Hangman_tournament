@@ -12,7 +12,7 @@ public class StartGame {
         TournamentGame game = new TournamentGame(
                 new DefaultFacebookService(),
                 new DefaultBillingService(),
-                TestDataCreator.createAppInfoService(Language.de)){
+                TestDataCreator.createAppInfoService()){
             @Override
             public void create() {
                 super.create();

@@ -80,11 +80,7 @@ public class TestDataCreator {
         return new UsersDbApiService();
     }
 
-    public static TournamentAppInfoService createAppInfoService(Language lang) {
-        return createTournamentAppInfoService(lang);
-    }
-
-    private static TournamentAppInfoService createTournamentAppInfoService(final Language lang) {
+    public static TournamentAppInfoService createAppInfoService() {
         return new TournamentAppInfoService() {
 
             @Override
@@ -116,7 +112,7 @@ public class TestDataCreator {
 
             @Override
             public String getLanguage() {
-                return lang.name();
+                return Language.de.name();
             }
 
             @Override

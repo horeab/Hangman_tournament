@@ -6,10 +6,11 @@ import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 
 import libgdx.controls.MyTextField;
 import libgdx.game.Game;
+import libgdx.game.external.AppInfoService;
 import libgdx.preferences.SettingsService;
 import libgdx.resources.gamelabel.MainGameLabel;
 import libgdx.ui.controls.button.ProVersionButtonCreator;
-import libgdx.ui.controls.button.builders.FacebookShareButtonBuilder;
+import libgdx.ui.game.TournamentAppInfoService;
 import libgdx.ui.game.TournamentGame;
 import libgdx.controls.button.builders.ButtonWithIconBuilder;
 import libgdx.controls.button.ButtonBuilder;
@@ -19,8 +20,6 @@ import libgdx.ui.resources.Dimen;
 import libgdx.ui.resources.TournamentGameLabel;
 import libgdx.ui.resources.Resource;
 import libgdx.ui.screens.AbstractScreen;
-import libgdx.ui.screens.mainmenu.popup.rewards.FacebookShareRewardConfig;
-import libgdx.ui.screens.mainmenu.popup.rewards.RewardsService;
 import libgdx.ui.services.ScreenManager;
 import libgdx.ui.util.Language;
 import libgdx.ui.util.TestDataCreator;
@@ -56,7 +55,84 @@ public class SettingsPopup extends MyPopup<AbstractScreen, ScreenManager> {
             changeLangBtn.addListener(new ClickListener() {
                 @Override
                 public void clicked(InputEvent event, float x, float y) {
-                    Game.getInstance().changeContext(TestDataCreator.createAppInfoService(Language.valueOf(myTextField.getTextField().getText())));
+                    TournamentAppInfoService currentAppInfoService = TournamentGame.getInstance().getAppInfoService();
+                    Game.getInstance().setNewContext(
+                            new TournamentAppInfoService() {
+                                @Override
+                                public String getAppName() {
+                                    return currentAppInfoService.getAppName();
+                                }
+
+                                @Override
+                                public String getStoreAppId() {
+                                    return currentAppInfoService.getStoreAppId();
+                                }
+
+                                @Override
+                                public boolean screenShotMode() {
+                                    return currentAppInfoService.screenShotMode();
+                                }
+
+                                @Override
+                                public void showRewardedVideoAd() {
+                                    currentAppInfoService.screenShotMode();
+                                }
+
+                                @Override
+                                public String getGameIdPrefix() {
+                                    return currentAppInfoService.getGameIdPrefix();
+                                }
+
+                                @Override
+                                public String proVersionStoreAppId() {
+                                    return currentAppInfoService.proVersionStoreAppId();
+                                }
+
+                                @Override
+                                public void showPopupAd() {
+                                    currentAppInfoService.showPopupAd();
+                                }
+
+                                @Override
+                                public String getImplementationGameResourcesFolder() {
+                                    return currentAppInfoService.getImplementationGameResourcesFolder();
+                                }
+
+                                @Override
+                                public String getLanguage() {
+                                    return myTextField.getTextField().getText();
+                                }
+
+                                @Override
+                                public String getMainResourcesFolder() {
+                                    return currentAppInfoService.getMainResourcesFolder();
+                                }
+
+                                @Override
+                                public String getResourcesFolder() {
+                                    return currentAppInfoService.getResourcesFolder();
+                                }
+
+                                @Override
+                                public boolean isPortraitMode() {
+                                    return currentAppInfoService.isPortraitMode();
+                                }
+
+                                @Override
+                                public boolean isProVersion() {
+                                    return currentAppInfoService.isProVersion();
+                                }
+
+                                @Override
+                                public boolean googleFacebookLoginEnabled() {
+                                    return currentAppInfoService.googleFacebookLoginEnabled();
+                                }
+
+                                @Override
+                                public float gameScreenTopMargin() {
+                                    return currentAppInfoService.gameScreenTopMargin();
+                                }
+                            });
                 }
             });
             addButton(changeLangBtn);
