@@ -37,6 +37,10 @@ public class HangmanQuestionContainerCreatorService extends QuestionContainerCre
     }
 
     @Override
+    protected void setContainerBackground() {
+    }
+
+    @Override
     public Table createQuestionTable() {
         Table questionTable = super.createQuestionTable();
         String questionToBeDisplayed = gameService.getQuestionToBeDisplayed();

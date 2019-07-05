@@ -76,8 +76,12 @@ public abstract class QuestionContainerCreatorService<TGameService extends GameS
         Table table = new Table();
         table.add(new GameInfoHeaderBuilder(gameContext.getCurrentUserGameUser()).addItemToAlignedRightTable(createHintButtonsTable()).build()).growX().row();
         table.add(questionContainer).pad(MainDimen.horizontal_general_margin.getDimen()).growY();
-        questionContainer.setBackground(GraphicUtils.getNinePatch(MainResource.popup_background));
+        setContainerBackground();
         return table;
+    }
+
+    protected void setContainerBackground() {
+        questionContainer.setBackground(GraphicUtils.getNinePatch(MainResource.popup_background));
     }
 
     public Map<String, MyButton> getAllAnswerButtons() {

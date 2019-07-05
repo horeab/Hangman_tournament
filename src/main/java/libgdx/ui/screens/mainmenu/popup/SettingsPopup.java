@@ -55,7 +55,7 @@ public class SettingsPopup extends MyPopup<AbstractScreen, ScreenManager> {
             changeLangBtn.addListener(new ClickListener() {
                 @Override
                 public void clicked(InputEvent event, float x, float y) {
-                    TournamentAppInfoService currentAppInfoService = TournamentGame.getInstance().getAppInfoService();
+                    final TournamentAppInfoService currentAppInfoService = TournamentGame.getInstance().getAppInfoService();
                     Game.getInstance().setNewContext(
                             new TournamentAppInfoService() {
                                 @Override
