@@ -9,7 +9,6 @@ cestino del pane
 apriscatole
 casseruola
 macinacaffè
-macinacaffé
 ricettario
 posate
 piatto
