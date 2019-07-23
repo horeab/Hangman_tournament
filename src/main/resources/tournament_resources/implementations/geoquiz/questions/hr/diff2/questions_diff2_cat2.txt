@@ -1,13 +1,13 @@
-27:What is the capital of Finland?:Helsinki:28,25,20:27
-28:What is the capital of Morocco?:Rabat:35,31,29:28
-29:What is the capital of Iran?:Tehran:30,21,22:29
-30:What is the capital of Serbia?:Belgrade:25,29,26:30
-31:What is the capital of Norway?:Oslo:29,32,26:31
-32:What is the capital of Belarus?:Minsk:28,38,37:32
-33:What is the capital of Sweden?:Stockholm:41,40,28:33
-34:What is the capital of South Korea?:Seoul:42,38,37:34
-35:What is the capital of Ukraine?:Kiev:40,36,38:35
-36:What is the capital of Hungary?:Budapest:43,28,41:36
-37:What is the capital of Algeria?:Algiers:29,34,42:37
-38:What is the capital of South Africa?:Cape Town:43,37,41:38
-39:What is the capital of Iceland?:Reykjavik:35,33,47:39
+27: Što je glavni grad Finske ?: Helsinki: 28,25,20: 27
+28: Što je glavni grad Maroka?: Rabat: 35,31,29: 28
+29: Što je glavni grad Irana ?: Teheran: 30,21,22: 29
+30: Što je glavni grad Srbije?: Beograd: 25,29,26: 30
+31: Što je glavni grad Norveške?: Oslo: 29,32,26: 31
+32: Što je glavni grad Bjelorusije ?: Minsk: 28,38,37: 32
+33: Što je glavni grad Švedske?: Stockholm: 41,40,28: 33
+34: Što je glavni grad Južne Koreje?: Seoul: 42,38,37: 34
+35: Što je glavni grad Ukrajine?: Kiev: 40,36,38: 35
+36: Što je glavni grad Mađarske?: Budapest: 43,28,41: 36
+37: Što je glavni grad Alžira?: Alžir: 29,34,42: 37
+38: Što je glavni grad Južne Afrike?: Cape Town: 43,37,41: 38
+39: Što je glavni grad Islanda: Reykjavik: 35,33,47: 39
