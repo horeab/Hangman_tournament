@@ -1,14 +1,14 @@
-0:What is the capital of Austria?:Vienna:7,8,4:0
-1:What is the capital of Belgium?:Brussels:5,6,0:1
-2:What is the capital of Brazil?:Brasilia:7,9,1:2
-3:What is the capital of Canada?:Ottawa:0,1,7:3
-4:What is the capital of China?:Beijing:0,5,12:4
-5:What is the capital of the United States of America?:Washington DC:2,8,9:5
-6:What is the capital of France?:Paris:4,3,9:6
-7:What is the capital of Germany?:Berlin:5,11,6:7
-8:What is the capital of Italy?:Rome:6,0,13:8
-9:What is the capital of Mexico?:Mexico City:16,4,14:9
-10:What is the capital of Russia?:Moscow:16,17,14:10
-11:What is the capital of Spain?:Madrid:18,3,14:11
-12:What is the capital of Japan?:Tokyo:4,18,9:12
-13:What is the capital of the Netherlands?:Amsterdam:16,8,20:13
+0: Mikä on Itävallan pääkaupunki?: Wien: 7,8,4: 0
+1: Mikä on Belgian pääkaupunki?: Bryssel: 5,6,0: 1
+2: Mikä on Brasilian pääkaupunki: Brasilia: 7,9,1: 2
+3: Mikä on Kanadan pääkaupunki?: Ottawa: 0,1,7: 3
+4: Mikä on Kiinan pääkaupunki?: Peking: 0,5,12: 4
+5: Mikä on Yhdysvaltojen pääkaupunki?: Washington DC: 2,8,9: 5
+6: Mikä on Ranskan pääkaupunki?: Pariisi: 4,3,9: 6
+7: Mikä on Saksan pääkaupunki?: Berliini: 5,11,6: 7
+8: Mikä on Italian pääkaupunki?: Rooma: 6,0,13: 8
+9: Mikä on Meksikon pääkaupunki: Mexico City: 16,4,14: 9
+10: Mikä on Venäjän pääkaupunki?: Moskova: 16,17,14: 10
+11: Mikä on Espanjan pääkaupunki?: Madrid: 18,3,14: 11
+12: Mikä on Japanin pääkaupunki: Tokio: 4,18,9: 12
+13: Mikä on Alankomaiden pääkaupunki?: Amsterdam: 16,8,20: 13
