@@ -1,10 +1,10 @@
-12::Angel Falls, Venezuela:10,9,18:12
-13::Mount Kilimanjaro, Tanzania:8,7,21:13
-14::Danube Delta, Romania:17,15,10:14
-15::Victoria Falls, Zimbabwe and Zambia:21,18,11:15
-16::Eye of the Sahara, Mauritania:13,8,23:16
-17::The Dead Sea, Israel:25,15,24:17
-18::Cliffs of Moher, Ireland:14,16,21:18
-19::Mud volcanoes, Azerbaijan:22,13,27:19
-20::Moraine Lake, Canada:16,22,25:20
-21::Devil's Marbles, Australia:24,13,23:21
+12 ::委内瑞拉安赫尔瀑布：10,9,18：12
+13 ::坦桑尼亚乞力马扎罗山：8,7,21：13
+14 ::罗马尼亚多瑙河三角洲：17,15,10：14
+15 ::维多利亚瀑布，津巴布韦和赞比亚：21,18,11：15
+16 ::毛里塔尼亚撒哈拉之眼：13,8,23：16
+17 ::死海，以色列：25,15,24：17
+18 ::爱尔兰莫赫悬崖：14,16,21：18
+19 ::泥火山，阿塞拜疆：22,13,27：19
+20 ::加拿大梦莲湖：16,22,25：20
+21 :: Devil's Marbles，澳大利亚：24,13,23：21
