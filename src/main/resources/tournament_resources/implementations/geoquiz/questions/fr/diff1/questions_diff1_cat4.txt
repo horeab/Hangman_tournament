@@ -1,4 +1,4 @@
-12::Angel Falls, Venezuela:10,9,18:12
+12::Salto Ángel, Venezuela:10,9,18:12
 13::Mont Kilimandjaro, Tanzanie:8,7,21:13
 14::Delta du Danube, Roumanie:17,15,10:14
 15::Chutes Victoria, Zimbabwe et Zambie:21,18,11:15

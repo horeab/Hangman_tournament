@@ -4,4 +4,4 @@
 32::Table Mountain, Republika Południowej Afryki:26,24,30:32
 33::Bu Tinah, Zjednoczone Emiraty Arabskie:31, 26, 26:33
 34::Sundarbans, Bangladesz:33,31,28:34
-35::Verdon Gorge, Francja:32,33,34:35
+35::Przełom Verdon, Francja:32,33,34:35

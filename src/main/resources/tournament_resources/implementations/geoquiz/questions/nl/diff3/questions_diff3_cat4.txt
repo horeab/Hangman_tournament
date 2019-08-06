@@ -4,4 +4,4 @@
 32::Tafelberg, Zuid-Afrika:26,24,30:32
 33::Bu Tinah, Verenigde Arabische Emiraten:31,29,26:33
 34::Sundarbans, Bangladesh:33,31,28:34
-35::Verdon Gorge, Frankrijk:32,33,34:35
+35::Gorges du Verdon, Frankrijk:32,33,34:35

@@ -4,4 +4,4 @@
 32 :: Núi Bàn, Nam Phi: 26,24,30: 32
 33 :: Bu Tinah, Các tiểu vương quốc Ả Rập thống nhất: 31,29,26: 33
 34 :: Sundarbans, Bangladesh: 33,31,28: 34
-35 :: Hẻm núi Verdon, Pháp: 32,33,34: 35
+35 :: Verdon Gorge, Pháp: 32,33,34: 35

@@ -8,4 +8,4 @@
 7::Ciudad del Vaticano:26,20,19:7
 8::Torre inclinada de Pisa, Italia:0,1,4:8
 9::Cristo Redentor, Río de Janeiro:13,11,7:9
-10::Sydney Opera House, Sydney:32,30,26:10
+10::Ópera de Sídney, Sydney:32,30,26:10

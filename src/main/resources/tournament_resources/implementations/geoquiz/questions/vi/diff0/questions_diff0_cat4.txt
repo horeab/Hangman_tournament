@@ -2,7 +2,7 @@
 1 :: Salar de Uyuni, Bôlivia: 5,2,9: 1
 2 :: Hố xanh lớn, Belize: 4,10,8: 2
 3 :: Bali, Indonesia: 6,10,2: 3
-4 :: The Aurora Borealis, Na Uy: 5,1,7: 4
+4 :: Cực quang, Na Uy: 5,1,7: 4
 5 :: Núi Phú Sĩ, Nhật Bản: 3,1,11: 5
 6 :: Cảng Rio De Janeiro, Brazil: 2,1,13: 6
 7 :: Hẻm núi Paria, Hoa Kỳ: 11,6,5: 7

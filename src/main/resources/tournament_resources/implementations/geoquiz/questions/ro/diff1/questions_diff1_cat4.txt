@@ -1,4 +1,4 @@
-12::Angel Falls, Venezuela:10,9,18:12
+12::Cascada Angel, Venezuela:10,9,18:12
 13::Muntele Kilimanjaro, Tanzania:8,7,21:13
 14::Delta Dunării, România:17,15,10:14
 15::Cascadele din Victoria, Zimbabwe şi Zambia:21,18,11:15

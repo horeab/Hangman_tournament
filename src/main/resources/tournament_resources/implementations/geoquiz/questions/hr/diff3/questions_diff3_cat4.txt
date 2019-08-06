@@ -4,4 +4,4 @@
 32 :: Stolna planina, Južna Afrika: 26,24,30: 32
 33 :: Bu Tinah, Ujedinjeni Arapski Emirati: 31,29,26: 33
 34 :: Sundarbans, Bangladeš: 33,31,28: 34
-35 :: Gorge Verdon, Francuska: 32,33,34: 35
+35 :: Ždrijelo Verdon, Francuska: 32,33,34: 35

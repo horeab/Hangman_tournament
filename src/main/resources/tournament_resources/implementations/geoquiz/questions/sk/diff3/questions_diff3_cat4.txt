@@ -4,4 +4,4 @@
 32 :: Stolová hora, Južná Afrika: 26,24,30: 32
 33 :: Bu Tinah, Spojené arabské emiráty: 31,29,26: 33
 34 :: Sundarbans, Bangladéš: 33,31,28: 34
-35 :: Verdon Gorge, Francúzsko: 32,33,34: 35
+35 :: Grand canyon du Verdon, Francúzsko: 32,33,34: 35

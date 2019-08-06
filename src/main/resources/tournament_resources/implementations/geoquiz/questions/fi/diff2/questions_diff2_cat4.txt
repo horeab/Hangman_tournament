@@ -3,5 +3,5 @@
 24 :: Paricutín Volcano, Meksiko: 30,17,31: 24
 25 :: Moeraki Boulders, Uusi-Seelanti: 31,32,29: 25
 26 :: Sininen luola, Italia: 28,31,29: 26
-27 :: Marble Caves, Chile: 19,25,20: 27
-28 :: Crystal Cave, Bermuda: 25,30,35: 28
+27 :: Marmori luolat, Chile: 19,25,20: 27
+28 :: Kristalli luola, Bermuda: 25,30,35: 28

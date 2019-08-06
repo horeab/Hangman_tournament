@@ -4,4 +4,4 @@
 25::Moeraki Boulders, Nueva Zelanda:31,32,29:25
 26::The Blue Grotto, Italia:28,31,29:26
 27::Cuevas de Mármol, Chile:19,25,20:27
-28::Crystal Cave, Bermudas:25,30,35:28
+28::Cueva de cristal, Bermudas:25,30,35:28

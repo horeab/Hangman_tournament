@@ -1,10 +1,10 @@
 0 :: Eiffeltornet, Paris: 1,4,8: 0
 1 :: Colosseum, Rom: 3,0,8: 1
-2 :: Hollywood Sign, Los Angeles: 21,25,17: 2
-3 :: Great Pyramid of Giza, Egypten: 1,23,24: 3
-4 :: Statue of Liberty, New York: 0,1,25: 4
+2 :: Hollywoodskylten, Los Angeles: 21,25,17: 2
+3 :: Cheopspyramiden, Egypten: 1,23,24: 3
+4 :: Frihetsgudinnan, New York: 0,1,25: 4
 5 :: Kinas stora mur: 6,7,11: 5
-6 :: Angkor Wat, Kambodja: 31,20,27: 6
+6 :: Angkor Vat, Kambodja: 31,20,27: 6
 7 :: Vatikanstaten: 26,20,19: 7
 8 :: Det lutande tornet i Pisa, Italien: 0,1,4: 8
 9 :: Kristus förlossare, Rio de Janeiro: 13,11,7: 9

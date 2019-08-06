@@ -4,4 +4,4 @@
 32::Table Mountain, Dél-Afrika:26,24,30:32
 33::Bu Tinah, Egyesült Arab Emirátusok:31,29,26:33
 34::Sundarbans, Banglades:33,31,28:34
-35::Verdon Gorge, Franciaország:32,33,34:35
+35::Verdon-kanyon, Franciaország:32,33,34:35

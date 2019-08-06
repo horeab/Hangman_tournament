@@ -4,4 +4,4 @@
 32 :: Table Mountain, Sør-Afrika: 26,24,30: 32
 33 :: Bu Tinah, De forente arabiske emirater: 31,29,26: 33
 34 :: Sundarbans, Bangladesh: 33,31,28: 34
-35 :: Verdon Gorge, Frankrike: 32,33,34: 35
+35 :: Verdon Kløft, Frankrike: 32,33,34: 35

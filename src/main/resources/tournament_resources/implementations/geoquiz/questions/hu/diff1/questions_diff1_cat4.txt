@@ -1,4 +1,4 @@
-12::Angel Falls, Venezuela:10,9,18:12
+12::Angel-vízesés, Venezuela:10,9,18:12
 13::Kilimandzsáró-hegy, Tanzánia:8,7,21:13
 14::Duna-delta, Románia:17,15,10:14
 15::Victoria-vízesés, Zimbabwe és Zambia:21,18,11:15
