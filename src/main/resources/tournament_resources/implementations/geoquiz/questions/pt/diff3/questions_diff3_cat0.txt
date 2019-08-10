@@ -1,5 +1,5 @@
 27::Igreja Borgund Stave, Noruega:28,31,34:27
-28::Mesquita Sheikh Zayed, Abu Dhabi:27,31,29:28
+28::Mesquita do Sheikh Zayed, Abu Dhabi:27,31,29:28
 29::Castelo de Neuschwanstein, Alemanha:13,14,18:29
 30::Torre da Pérola Oriental, Xangai:10,11,7:30
 31::Petronas Twin Towers, Malásia:28,29,32:31

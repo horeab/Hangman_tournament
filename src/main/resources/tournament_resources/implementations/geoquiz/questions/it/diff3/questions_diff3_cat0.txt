@@ -1,5 +1,5 @@
-27::Borgund Stave Church, Norvegia:28,31,34:27
-28::Moschea di Sheikh Zayed, Abu Dhabi:27,31,29:28
+27::Stavkirke di Borgund, Norvegia:28,31,34:27
+28::Gran Moschea dello Sceicco Zayed, Abu Dhabi:27,31,29:28
 29::Castello di Neuschwanstein, Germania:13,14,18:29
 30::Oriental Pearl Tower, Shanghai:10,11,7:30
 31::Petronas Twin Towers, Malesia:28,29,32:31

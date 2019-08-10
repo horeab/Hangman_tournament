@@ -9,5 +9,5 @@
 35::Oekraïne:36,31,38:35
 36::Hongarije:35,44,34:36
 37::Algerije:41,33,38:37
-38::Zuid-Afrika:43, 41, 45:38
+38::Zuid-Afrika:43,41,45:38
 39::IJsland:33,37,34:39

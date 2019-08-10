@@ -1,5 +1,5 @@
 27::Borgund Stabkirche, Norwegen:28,31,34:27
-28::Sheikh Zayed Moschee, Abu Dhabi:27,31,29:28
+28::Scheich-Zayid-Moschee, Abu Dhabi:27,31,29:28
 29::Schloss Neuschwanstein, Deutschland:13,14,18:29
 30::Orientalischer Perlenturm, Shanghai:10,11,7:30
 31::Petronas Twin Towers, Malaysia:28,29,32:31

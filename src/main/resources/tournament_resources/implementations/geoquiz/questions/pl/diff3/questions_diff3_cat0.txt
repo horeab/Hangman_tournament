@@ -1,5 +1,5 @@
-27::Borgund Stave Church, Norwegia:28,31,34:27
-28::Meczet Szejka Zayeda w Abu Zabi:27, 31, 29:28
+27::Borgund stavkirke, Norwegia:28,31,34:27
+28::Meczet Szejka Zayeda w Abu Zabi:27,31,29:28
 29::Zamek Neuschwanstein, Niemcy:13,14,18:29
 30::Oriental Pearl Tower, Szanghaj:10,11,7:30
 31::Petronas Twin Towers, Malezja:28,29,32:31
