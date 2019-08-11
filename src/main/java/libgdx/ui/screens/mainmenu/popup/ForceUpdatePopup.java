@@ -7,6 +7,7 @@ import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 import libgdx.controls.button.ButtonBuilder;
 import libgdx.controls.button.MyButton;
 import libgdx.controls.popup.MyPopup;
+import libgdx.game.Game;
 import libgdx.ui.resources.TournamentGameLabel;
 import libgdx.ui.screens.AbstractScreen;
 import libgdx.utils.InternetUtils;
@@ -23,7 +24,7 @@ public class ForceUpdatePopup extends MyPopup {
         updateAppBtn.addListener(new ClickListener() {
             @Override
             public void clicked(InputEvent event, float x, float y) {
-                InternetUtils.openAppUrl();
+                InternetUtils.openAppUrl(Game.getInstance().getAppInfoService().getStoreAppId(), false);
                 hide();
             }
         });

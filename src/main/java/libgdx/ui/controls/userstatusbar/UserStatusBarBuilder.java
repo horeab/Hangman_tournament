@@ -137,8 +137,8 @@ public class UserStatusBarBuilder {
                     @Override
                     public void executeOperations() {
                         inventoryTable.add(new TournamentInventoryTableBuilder(new TournamentTransactionAmount(userInventory))
-                                .setCoinsFontStyle(MyWrappedLabelConfigBuilder.getScreenContrastStyle())
-                                .setDiamondFontStyle(MyWrappedLabelConfigBuilder.getScreenContrastStyle())
+                                .setCoinsFontColor(MyWrappedLabelConfigBuilder.getScreenContrastStyle())
+                                .setDiamondFontColor(MyWrappedLabelConfigBuilder.getScreenContrastStyle())
                                 .setRationFontImage(0.9f)
                                 .setNegativeAmountMinusPrefix()
                                 .buildHorizontalInventory());

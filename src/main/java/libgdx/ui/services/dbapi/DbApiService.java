@@ -16,8 +16,8 @@ public abstract class DbApiService {
     public final static Integer API_VERSION_VALUE = 7;
 
     //TODO  ---VALUE CHANGED---  Should be on remote server
-//    public final static String BASE_URL = "http://46.101.134.86/" + formApiVersion() + "/gameApi/api";
-    public final static String BASE_URL = "http://localhost/" + formApiVersion() + "/gameApi/api";
+    public final static String BASE_URL = "http://46.101.134.86/" + formApiVersion() + "/gameApi/api";
+//    public final static String BASE_URL = "http://localhost/" + formApiVersion() + "/gameApi/api";
 
     protected static final String EXTERNALID = "externalId";
     protected static final String FULLNAME = "fullName";

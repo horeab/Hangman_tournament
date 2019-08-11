@@ -1,5 +1,6 @@
 package libgdx.ui.controls.animation;
 
+import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.scenes.scene2d.Actor;
 import com.badlogic.gdx.scenes.scene2d.actions.Actions;
 import com.badlogic.gdx.scenes.scene2d.actions.RunnableAction;
@@ -41,7 +42,7 @@ public class ImageAnimation {
         table.setBackground(GraphicUtils.getNinePatch(Resource.userstatusbar_background_default));
         MyWrappedLabel myLabel = new MyWrappedLabel(text);
         myLabel.setFontScale(FontManager.getBigFontDim());
-        myLabel.setStyle(ResourcesManager.getLabelRed());
+        myLabel.setTextColor(Color.RED);
         table.add(myLabel);
         table.setTransform(true);
         animateZoomInZoomOut(table);

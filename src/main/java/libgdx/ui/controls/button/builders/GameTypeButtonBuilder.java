@@ -14,6 +14,7 @@ import libgdx.controls.labelimage.LabelImageConfigBuilder;
 import libgdx.ui.controls.labelimage.price.PriceLabelImage;
 import libgdx.ui.controls.labelimage.prize.IfLevelUpPrizeLabelImage;
 import libgdx.resources.FontManager;
+import libgdx.ui.game.TournamentGame;
 
 public class GameTypeButtonBuilder extends ButtonBuilder {
 
@@ -43,7 +44,7 @@ public class GameTypeButtonBuilder extends ButtonBuilder {
         IfLevelUpPrizeLabelImage ifLevelUpPrizeLabelImage = new IfLevelUpPrizeLabelImage(userId, gameTypeStage);
         Table prize = ifLevelUpPrizeLabelImage.create();
         MyLabel myLabel = ifLevelUpPrizeLabelImage.getCoinsPrizeLabelImage().getLabels().get(0);
-        if (new GlyphLayout(FontManager.getFont(), myLabel.getText()).width + getButtonSize().getWidth() / 3 > getButtonSize().getWidth()) {
+        if (new GlyphLayout(TournamentGame.getInstance().getFontManager().getFont(), myLabel.getText()).width + getButtonSize().getWidth() / 3 > getButtonSize().getWidth()) {
             myLabel.setFontScale(myLabel.getFontScaleX() * 0.91f);
         }
         table.add(prize)
@@ -54,7 +55,7 @@ public class GameTypeButtonBuilder extends ButtonBuilder {
         return table;
     }
 
-    private ButtonSize getButtonSize() {
+    protected ButtonSize getButtonSize() {
         return ButtonSize.START_GAME_OPTION_SIZE;
     }
 

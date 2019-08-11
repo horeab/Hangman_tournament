@@ -85,8 +85,8 @@ public class TestDataCreator {
 
             @Override
             public String getGameIdPrefix() {
-                return GameIdEnum.hangman.name();
-//                return GameIdEnum.geoquiz.name();
+//                return GameIdEnum.hangman.name();
+                return GameIdEnum.geoquiz.name();
 //                return GameIdEnum.centenar.name();
 //                return GameIdEnum.judetelerom.name();
 //                return GameIdEnum.scoalasofer.name();
@@ -130,7 +130,7 @@ public class TestDataCreator {
             }
 
             @Override
-            public String proVersionStoreAppId() {
+            public String getProVersionStoreAppId() {
                 return null;
 //                return getStoreAppId();
             }

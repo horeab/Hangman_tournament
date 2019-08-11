@@ -8,13 +8,14 @@ import libgdx.transactions.TransactionsService;
 import libgdx.ui.constants.game.GameIdEnum;
 import libgdx.ui.controls.labelimage.inventory.TournamentInventoryTableBuilderCreator;
 import libgdx.ui.resources.Resource;
+import libgdx.ui.resources.TournamentGameLabel;
 import libgdx.ui.screens.AbstractScreen;
 import libgdx.ui.services.ScreenManager;
 import libgdx.ui.services.TournamentRatingService;
 import libgdx.ui.services.game.TournamentTransactionsService;
 import libgdx.ui.services.TournamentGameResourceService;
 
-public class TournamentMainDependencyManager extends MainDependencyManager<ScreenManager, AbstractScreen, Resource, GameIdEnum> {
+public class TournamentMainDependencyManager extends MainDependencyManager<ScreenManager, AbstractScreen, TournamentGameLabel, Resource, GameIdEnum> {
 
     @Override
     public Class<Resource> getMainResourcesClass() {
@@ -24,6 +25,16 @@ public class TournamentMainDependencyManager extends MainDependencyManager<Scree
     @Override
     public Class<GameIdEnum> getGameIdClass() {
         return GameIdEnum.class;
+    }
+
+    @Override
+    public Class<TournamentGameLabel> getGameLabelClass() {
+        return TournamentGameLabel.class;
+    }
+
+    @Override
+    public String getExtraFontChars() {
+        return "";
     }
 
     @Override

@@ -1,6 +1,7 @@
 package libgdx.ui.controls;
 
 import com.badlogic.gdx.Gdx;
+import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.Pixmap;
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
@@ -82,7 +83,7 @@ public class ProfilePictureComponents {
                             new UserExperienceService().getUserExperienceLevel(experience)));
                 }
             }).start();
-            levelLabel.setStyle(ResourcesManager.getLabelDarkGreen());
+            levelLabel.setTextColor(Color.GREEN);
             float levelFontScale = sideDimen.getRawDimen() > 6 ? 0.9f : 0.6f;
             levelLabel.setFontScale(FontManager.calculateMultiplierStandardFontSize(levelFontScale));
             levelLabel.setAlignment(Align.center);

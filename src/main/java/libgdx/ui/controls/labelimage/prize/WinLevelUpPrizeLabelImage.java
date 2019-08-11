@@ -31,7 +31,7 @@ public class WinLevelUpPrizeLabelImage extends LevelUpPrizeLabelImage {
 
     @Override
     protected InventoryLabelImageBuilder getInventoryLabelImageBuilder(TransactionAmountEnum transactionAmountEnum) {
-        return super.getInventoryLabelImageBuilder(transactionAmountEnum).setFontStyle(MyWrappedLabelConfigBuilder.getScreenContrastStyle());
+        return super.getInventoryLabelImageBuilder(transactionAmountEnum).setTextColor(MyWrappedLabelConfigBuilder.getScreenContrastStyle());
     }
 
     @Override

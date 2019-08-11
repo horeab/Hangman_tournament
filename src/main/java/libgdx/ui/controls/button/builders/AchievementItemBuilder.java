@@ -1,5 +1,6 @@
 package libgdx.ui.controls.button.builders;
 
+import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.scenes.scene2d.Touchable;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
 
@@ -86,7 +87,7 @@ public class AchievementItemBuilder extends ButtonBuilder {
         Table table = new Table();
         MyWrappedLabel label = new MyWrappedLabel(finishedLevels + " x ");
         if (finishedLevels > 0) {
-            label.setStyle(ResourcesManager.getLabelGreen());
+            label.setTextColor(Color.GREEN);
         }
         table.add(label);
         table.add(GraphicUtils.getImage(Resource.achievement))

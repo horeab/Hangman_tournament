@@ -1,5 +1,6 @@
 package libgdx.ui.controls.user;
 
+import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import com.badlogic.gdx.scenes.scene2d.utils.Drawable;
 
@@ -64,13 +65,13 @@ public class UserInfoContainerCreator {
         table.add(userInfo.getProfilePictureContainer()).row();
         if (userInfoContainerConfig.getGameUser().userHasMultipleQuestions()) {
             MyWrappedLabel questionsAnswered = new MyWrappedLabel(String.valueOf(userInfoContainerConfig.getGameUser().getWonQuestions() + "/" + userInfoContainerConfig.getGameUser().getTotalNrOfQuestions()));
-            questionsAnswered.setStyleDependingOnContrast(ResourcesManager.getLabelWhite(), ResourcesManager.getLabelDarkGreen());
+            questionsAnswered.setStyleDependingOnContrast(Color.WHITE, Color.GREEN);
             questionsAnswered.setFontScale(FontManager.calculateMultiplierStandardFontSize(1.6f));
             table.add(questionsAnswered).pad(MainDimen.vertical_general_margin.getDimen() / 2).row();
         }
         if (userInfoContainerConfig.isWithScoreLabel()) {
             MyWrappedLabel scoreLabel = new MyWrappedLabel(String.valueOf(new UserGamesDbApiService().selectTotalGamesUser1AgainstUser2(baseUserInfo.getId(), opponent.getId())));
-            scoreLabel.setStyle(ResourcesManager.getLabelRed());
+            scoreLabel.setTextColor(Color.RED);
             scoreLabel.setFontScale(FontManager.calculateMultiplierStandardFontSize(1.6f));
             table.add(scoreLabel).pad(MainDimen.vertical_general_margin.getDimen() / 2);
         }

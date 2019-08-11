@@ -84,8 +84,8 @@ public class SettingsPopup extends MyPopup<AbstractScreen, ScreenManager> {
                                 }
 
                                 @Override
-                                public String proVersionStoreAppId() {
-                                    return currentAppInfoService.proVersionStoreAppId();
+                                public String getProVersionStoreAppId() {
+                                    return currentAppInfoService.getProVersionStoreAppId();
                                 }
 
                                 @Override
@@ -166,7 +166,8 @@ public class SettingsPopup extends MyPopup<AbstractScreen, ScreenManager> {
     }
 
     private MyButton createToggleSoundButton() {
-        String text = settingsService.isSoundOn() ? MainGameLabel.sound_off.getText() : MainGameLabel.sound_on.getText();
+        String text = "";
+//                settingsService.isSoundOn() ? MainGameLabel.sound_off.getText() : MainGameLabel.sound_on.getText();
         Resource resource = settingsService.isSoundOn() ? Resource.sound_off : Resource.sound_on;
         final MyButton button = new ButtonWithIconBuilder(text, resource)
                 .setDefaultButton()

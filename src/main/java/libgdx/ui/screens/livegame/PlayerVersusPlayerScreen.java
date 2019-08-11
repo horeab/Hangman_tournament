@@ -1,5 +1,6 @@
 package libgdx.ui.screens.livegame;
 
+import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.scenes.scene2d.ui.Stack;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import com.badlogic.gdx.utils.Align;
@@ -70,7 +71,7 @@ public class PlayerVersusPlayerScreen extends AbstractScreen implements ScreenWi
         MyWrappedLabel vsLabel = new MyWrappedLabel("VS");
         vsLabel.setAlignment(Align.center);
         vsLabel.setFontScale(FontManager.getBigFontDim() * 1.2f);
-        vsLabel.setStyle(ResourcesManager.getLabelRed());
+        vsLabel.setTextColor(Color.RED);
         ActorPositionManager.setActorCenterScreen(vsLabel);
 
         Stack stack = new Stack();
@@ -102,7 +103,7 @@ public class PlayerVersusPlayerScreen extends AbstractScreen implements ScreenWi
         Table prizeMoney = new IfLevelUpPrizeLabelImage(getCurrentUser().getId(), getGameContext().getGameConfig().getGameTypeStage()) {
             @Override
             protected InventoryLabelImageBuilder getInventoryLabelImageBuilder(TransactionAmountEnum transactionAmountEnum) {
-                return super.getInventoryLabelImageBuilder(transactionAmountEnum).setFontStyle(MyWrappedLabelConfigBuilder.getScreenContrastStyle());
+                return super.getInventoryLabelImageBuilder(transactionAmountEnum).setTextColor(MyWrappedLabelConfigBuilder.getScreenContrastStyle());
             }
         }.create();
         prizeMoney.setPosition(ScreenDimensionsManager.getScreenWidth() / 2 - prizeMoney.getWidth() / 2, ScreenDimensionsManager.getScreenHeightValue(92));

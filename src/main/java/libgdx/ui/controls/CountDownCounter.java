@@ -1,5 +1,6 @@
 package libgdx.ui.controls;
 
+import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.utils.Align;
 
 import org.apache.commons.lang3.StringUtils;
@@ -53,7 +54,7 @@ public abstract class CountDownCounter {
                     executeAfterCountDownCounter();
                 } else if (thisCounter.countdownAmountMillis <= 0) {
                     executeOnZeroSeconds();
-                    countdownCounterLabel.setStyle(ResourcesManager.getLabelRed());
+                    countdownCounterLabel.setTextColor(Color.RED);
                     countdownCounterLabel.setFontScale(fontScale * 1.2f);
                     text = getFinalSecondText(text);
                 }

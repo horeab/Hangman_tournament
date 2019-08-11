@@ -115,7 +115,7 @@ public class TournamentLoadingScreenCreator {
         Table prizeLabelImage = new IfLevelUpPrizeLabelImage(currentUser.getId(), gameConfig.getGameTypeStage()) {
             @Override
             protected InventoryLabelImageBuilder getInventoryLabelImageBuilder(TransactionAmountEnum transactionAmountEnum) {
-                return super.getInventoryLabelImageBuilder(transactionAmountEnum).setFontStyle(MyWrappedLabelConfigBuilder.getScreenContrastStyle());
+                return super.getInventoryLabelImageBuilder(transactionAmountEnum).setTextColor(MyWrappedLabelConfigBuilder.getScreenContrastStyle());
             }
         }.create();
         prizeLabelImage.setPosition(ScreenDimensionsManager.getScreenWidth() / 2 - prizeLabelImage.getWidth() / 2, ScreenDimensionsManager.getScreenHeightValue(93));

@@ -18,6 +18,6 @@ public class ProVersionButtonCreator {
     }
 
     private boolean hasProVersion() {
-        return StringUtils.isNotBlank(TournamentGame.getInstance().getAppInfoService().proVersionStoreAppId());
+        return StringUtils.isNotBlank(TournamentGame.getInstance().getAppInfoService().getProVersionStoreAppId());
     }
 }
