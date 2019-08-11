@@ -1,20 +1,20 @@
-Alligator
+Buaya
 Antelope
-Donkey
-Rhino
+Keldai
+Badak
 Zebra
-Polar Bear
-Goat
-Whale
+Beruang kutub
+Kambing
+Paus
 Gorilla
 Koala
-Camel
+Unta
 Hyena
-Frog
-Goldfish
+Katak
+Ikan emas
 Jaguar
 Panda
-Sheep
+Kambing biri-biri
 Wolf
-Tortoise
+Kura-Kura
 Penguin

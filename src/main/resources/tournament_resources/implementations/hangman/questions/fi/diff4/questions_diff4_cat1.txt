@@ -1,20 +1,20 @@
-Beaver
-King cobra
+Majava
+Kuningaskobra
 Flamingo
-Albatross
-Seagull
-Jackal
-Lark
-Loris
-Lobster
-Marten
-Walrus
-Mink
-Bison
-Porcupine
-Red Panda
-Salamander
-Stingray
-Nightingale
-Otter
-Herring
+Albatrossi
+Lokki
+Sakaali
+kiuru
+loris
+Hummeri
+Näätä
+Mursu
+Minkki
+biisoni
+Piikkisika
+Punainen panda
+Salamanteri
+keihäsrausku
+Satakieli
+Saukko
+silli

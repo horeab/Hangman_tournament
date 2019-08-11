@@ -1,10 +1,10 @@
 Anise
 Bonsai
 Daisy
-Pomegranate
-Bamboo
-Wheat
-Brussels sprouts
+Buah delima
+Buluh
+Gandum
+Pucuk Brussels
 Chickpeas
 Wasabi
 Sequoia
@@ -12,9 +12,9 @@ Snapdragon
 Venus flytrap
 Anemone
 Papaya
-Fennel
+Adas
 Parsnip
 Pomelo
 Rosemary
 Chrysanthemum
-Ginger
+Halia

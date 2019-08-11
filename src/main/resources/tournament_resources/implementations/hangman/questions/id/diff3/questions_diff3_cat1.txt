@@ -1,20 +1,20 @@
 Moose
 Condor
-Viper
-Falcon
-Guinea pig
-Trout
-Black mamba
-Jellyfish
-Reindeer
+Ular berbisa
+Elang
+Marmot
+Ikan forel
+Mamba hitam
+Ubur-ubur
+Rusa kutub
 Llama
-Swan
-Pheasant
-Quail
-Great white shark
-Salmon
-Scorpion
-Mule
-Skunk
+Angsa
+Pegar
+Burung puyuh
+Hiu putih besar
+Ikan salmon
+Kalajengking
+Bagal
+Sigung
 Gazelle
-Coyote
+Anjing hutan

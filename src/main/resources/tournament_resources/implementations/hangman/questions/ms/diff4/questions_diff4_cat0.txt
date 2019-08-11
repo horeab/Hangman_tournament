@@ -1,9 +1,9 @@
 Afghanistan
-Saudi Arabia
-Ivory Coast
+Arab Saudi
+Pantai Gading
 Bahamas
 Bahrain
-Costa Rica
+Costa rica
 El Salvador
 Kenya
 Guatemala
@@ -13,7 +13,7 @@ Lebanon
 Qatar
 Panama
 Liberia
-Singapore
+Singapura
 Thailand
 Yemen
 Malta

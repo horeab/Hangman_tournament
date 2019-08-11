@@ -1,20 +1,18 @@
-aluminum foil
-blender
-cabinet
-coffee maker
-cook
-cupboard
-dish towel
-dishwasher
-food
-garbage can
-juicer
-ladle
-leftovers
-masher
-measuring cup
-oven
-recipe
-salad bowl
-salt shaker
-silverware
+alumiinifolio
+Tehosekoitin
+kaappi
+kahvinkeitin
+kokki
+kaappi
+astiapyyhe
+astianpesukone
+ruoka
+roskakori
+kauha
+ruoantähteet
+mittakuppi
+uuni
+resepti
+salaattikulho
+suolasirotin
+hopeat

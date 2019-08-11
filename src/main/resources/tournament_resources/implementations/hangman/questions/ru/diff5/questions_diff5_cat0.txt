@@ -1,20 +1,20 @@
-Antigua and Barbuda
-Brunei
-Burundi
-Ethiopia
-Philippines
-Gambia
-Kazakhstan
-Laos
-Liechtenstein
-Barbados
-Madagascar
-San Marino
-Syria
-Somalia
-Sudan
-Togo
-Uganda
-Zambia
-Zimbabwe
-Benin
+Антигуа и Барбуда
+Бруней
+Бурунди
+Эфиопия
+Филиппины
+Гамбия
+Казахстан
+Лаос
+Лихтенштейн
+Барбадос
+Мадагаскар
+Сан-Марино
+Сирия
+Сомали
+Судан
+Идти
+Уганда
+Замбия
+Зимбабве
+Бенин

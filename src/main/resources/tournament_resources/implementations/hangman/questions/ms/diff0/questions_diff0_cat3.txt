@@ -1,21 +1,21 @@
 apron
 baking dish
-basket
-boil
-bottle
-bottle opener
-bowl
-bread basket
-can opener
-casserole
-coffee grinder
-coffee mill
-cookbook
-cutlery
-dish
-fork
-freezer
-frying pan
-garbage bag
-glasses
-kettle
+bakul
+didih
+botol
+pembuka botol
+mangkuk
+bakul roti
+pembuka tin
+kaserol
+pengisar kopi
+kilang kopi
+buku masak
+peralatan makan
+hidangan
+garpu
+penyejuk beku
+Kuali
+beg sampah
+gelas
+cerek

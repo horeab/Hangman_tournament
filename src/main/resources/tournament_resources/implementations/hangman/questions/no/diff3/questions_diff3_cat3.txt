@@ -1,20 +1,20 @@
 beater
-broom
-chopsticks
-counter
-cup
-decanter
-dough
-honey pot
-ice cream scoop
-mixer
-mixing bowl
-mold
-paper towels
-plastic wrap
+kost
+spisepinner
+disk
+kopp
+karaffel
+deig
+honningkrukke
+iskremkule
+mikser
+miksebolle
+form
+tørkepapir
+plastfolie
 roaster
-roasting pan
-shears
-shelves
-sieve
+stekepanne
+saks
+hyller
+sil
 slicer

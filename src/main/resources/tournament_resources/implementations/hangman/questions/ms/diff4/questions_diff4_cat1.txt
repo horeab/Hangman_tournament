@@ -1,5 +1,5 @@
 Beaver
-King cobra
+Raja cobra
 Flamingo
 Albatross
 Seagull
@@ -11,8 +11,8 @@ Marten
 Walrus
 Mink
 Bison
-Porcupine
-Red Panda
+Landak
+Panda merah
 Salamander
 Stingray
 Nightingale

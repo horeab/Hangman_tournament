@@ -1,20 +1,20 @@
-kitchen
-knife
-knife sharpener
-microwave oven
-napkin
-pepper grinder
-refrigerator
-spices
-teapot
-teaspoon
-thermometer
-sink
+dapur
+pisau
+pengasah pisau
+ketuhar gelombang mikro
+serbet
+pengisar lada
+peti sejuk
+rempah ratus
+teko
+sudu teh
+termometer
+tenggelam
 skewers
-soup bowl
-table
-tongs
-trash bags
-trash can
-tablecloth
-toaster
+mangkuk sup
+jadual
+tong
+beg sampah
+tong sampah
+taplak meja
+pemanggang roti

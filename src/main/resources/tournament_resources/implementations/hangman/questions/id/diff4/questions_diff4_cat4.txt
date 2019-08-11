@@ -1,20 +1,20 @@
-Pesto
-Tomato sauce
+pesto
+Saos tomat
 Muesli
-Swiss cheese
+keju Swiss
 Tortilla
 Baklava
-Curry
-Guacamole
-White chocolate
-Vinegar
-Hot chocolate
+Kari
+guacamole
+cokelat putih
+Cuka
+Coklat panas
 Dim sum
-Pasta carbonara
-Rice pudding
-Roast beef
+Pasta Carbonara
+Puding beras
+Sapi panggang
 Muffin
-Chocolate Cake
-Vegetable soup
-Noodle soup
+Kue cokelat
+Sup sayuran
+Mie kuah
 Caesar salad

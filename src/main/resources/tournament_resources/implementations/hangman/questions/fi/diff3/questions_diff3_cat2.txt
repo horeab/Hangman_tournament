@@ -1,19 +1,19 @@
-Marigold
-Juniper
-Pistachio
+Kehäkukka
+Kataja
+Pistaasi
 Ficus
-Cotton
-Basil
-Maple
-Poplar
+Puuvilla
+Basilika
+Vaahtera
+Poppeli
 Clementine
-Rice
-Avocado
-Black pepper
-Celery
-Lettuce
-Mustard
-Mandarin orange
-Rose hips
-Lotus
-Thyme
+Riisi
+Avokado
+Mustapippuri
+Selleri
+Lehtisalaatti
+Sinappi
+mandariini appelsiini
+Rose lantio
+lootus
+Timjami

@@ -1,20 +1,20 @@
-Cyprus
-Columbia
-Czech Republic
-Croatia
-Denmark
-Egypt
-Switzerland
-Finland
-Ghana
-Morocco
-Iran
-Nigeria
-Serbia
-Norway
-Belarus
-Sweden
-South Korea
-Ukraine
-Hungary
-Algeria
+Кипр
+Колумбия
+Чехия
+Хорватия
+Дания
+Египет
+Швейцария
+Финляндия
+Гана
+Марокко
+Иран
+Нигерия
+Сербия
+Норвегия
+Беларусь
+Швеция
+Южная Корея
+Украина
+Венгрия
+Алжир

@@ -2,16 +2,16 @@ Moose
 Condor
 Viper
 Falcon
-Guinea pig
+Babi Guinea
 Trout
-Black mamba
-Jellyfish
-Reindeer
+Mamba hitam
+Ubur-ubur
+Rusa
 Llama
 Swan
 Pheasant
-Quail
-Great white shark
+Puyuh
+Jerung putih besar
 Salmon
 Scorpion
 Mule

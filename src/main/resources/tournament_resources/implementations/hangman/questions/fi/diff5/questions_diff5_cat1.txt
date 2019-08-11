@@ -1,19 +1,19 @@
-Alpaca
-Armadillo
-Chinchilla
+Alpakka
+vyötiäinen
+tshintshilla
 Echidna
-Raccoon
-Egret
-Tasmanian devil
-Komodo dragon
-Barracuda
-Magpie
+Pesukarhu
+Jalohaikara
+Tasmanian paholainen
+Komodon lohikäärme
+barrakuda
+Harakka
 Manatee
-Prairie dog
-Starling
-Tapir
+preeriakoira
+Kottarainen
+Tapiiri
 Tarsier
-Lemur
-Meerkat
-Guineafowl
-Possum
+puoliapina
+meerkat
+Helmikananliha
+Opossumi

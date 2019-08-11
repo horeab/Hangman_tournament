@@ -1,20 +1,20 @@
-Cottage cheese
-Paella
-Gnocchi
-Ratatouille
-Tortellini
-Shawarma
-Tofu
-Cordon Bleu
-Kefir
-Ground beef
-Falafel
-Ricotta
-Eclair
-Hummus
-Tzatziki sauce
-Tiramisu
-Potato wedges
+Творог
+Паэлья
+Ньокки
+Рататуй
+Пельмени
+Шаурма
+Тофу
+Кордон Блю
+Кефир
+Говяжий фарш
+Фалафель
+Рикотта
+Эклер
+Хумус
+Соус Цацики
+Тирамису
+Картофельные дольки
 Antipasto
-Strudel
-Gravy
+струдель
+подливка

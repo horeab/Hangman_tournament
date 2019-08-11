@@ -2,18 +2,18 @@ Alpaca
 Armadillo
 Chinchilla
 Echidna
-Raccoon
-Egret
-Tasmanian devil
-Komodo dragon
+Rakun
+Kuntul
+Setan Tasmania
+Naga Komodo
 Barracuda
-Magpie
+Murai
 Manatee
-Prairie dog
-Starling
-Tapir
-Tarsier
-Lemur
+Anjing padang rumput
+Jalak
+Tenuk
+Tarsius
+Pukang
 Meerkat
-Guineafowl
+Ayam mutiara
 Possum

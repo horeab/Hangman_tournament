@@ -1,20 +1,20 @@
-Potato
-Orchid
-Beans
-Apple
+Kentang
+Orkid
+Kacang
+epal
 Rose
-Corn
-Sunflower
-Garlic
-Raspberries
+Jagung
+Bunga matahari
+Bawang putih
+Raspberi
 Strawberry
 Lemon
 Peach
-Oranges
+Jeruk
 Pear
 Plum
-Banana
-Cucumber
-Grape
+Pisang
+Timun
+Anggur
 Tomato
-Carrot
+Wortel

@@ -1,20 +1,20 @@
-Beaver
-King cobra
+Bever
+Kongekobra
 Flamingo
 Albatross
-Seagull
+Måke
 Jackal
 Lark
 Loris
-Lobster
+Hummer
 Marten
-Walrus
+Hvalross
 Mink
 Bison
-Porcupine
-Red Panda
+pinnsvin
+Rød panda
 Salamander
-Stingray
-Nightingale
+rokke
+nattergal
 Otter
-Herring
+sild

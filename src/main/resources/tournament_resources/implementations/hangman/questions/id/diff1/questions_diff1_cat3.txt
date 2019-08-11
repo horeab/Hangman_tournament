@@ -1,20 +1,20 @@
-aluminum foil
+alumunium foil
 blender
-cabinet
-coffee maker
-cook
-cupboard
-dish towel
-dishwasher
-food
-garbage can
-juicer
-ladle
-leftovers
-masher
-measuring cup
+kabinet
+pembuat kopi
+memasak
+lemari
+kain untuk pencuci piring
+pencuci piring
+makanan
+Tempat sampah
+Juicer
+sendok
+sisa
+hidung belang
+gelas pengukur
 oven
-recipe
-salad bowl
-salt shaker
-silverware
+resep
+Mangkuk salad
+pengocok garam
+barang perak

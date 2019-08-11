@@ -1,20 +1,20 @@
-batter
-cake pan
-chop
+adunan
+kek kuih
+memotong
 colander
-cooker
-dish rack
-dish soap
-garlic press
-ice bucket
-measuring spoons
-meat grinder
-meat tenderizer
-opener
-plate
-platter
-rolling pin
+periuk
+rak pinggan
+sabun pinggan mangkuk
+akhbar bawang putih
+ais baldi
+mengukur sudu
+pengisar daging
+peminat daging
+pembuka
+plat
+pinggan
+pin bergulir
 saucer
 sifter
-skillet
-stew pot
+kuali
+periuk rebus

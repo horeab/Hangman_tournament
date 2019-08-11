@@ -1,21 +1,21 @@
-apron
-baking dish
-basket
-boil
-bottle
-bottle opener
-bowl
-bread basket
-can opener
-casserole
-coffee grinder
-coffee mill
-cookbook
-cutlery
-dish
-fork
-freezer
-frying pan
-garbage bag
-glasses
-kettle
+фартук
+форма для выпекания
+корзина
+кипятить
+бутылка
+открывашка
+миска
+корзина с хлебом
+открывашка
+запеканка
+Кофемолка
+Кофемолка
+поваренная книга
+столовые приборы
+блюдо
+вилка
+морозилка
+Сковорода
+мусорный пакет
+очки
+чайник

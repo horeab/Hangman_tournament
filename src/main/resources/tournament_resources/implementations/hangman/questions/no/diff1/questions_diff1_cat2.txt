@@ -1,20 +1,20 @@
-Tulip
-Onion
-Cherries
-Pumpkin
-Strawberry
-Coffee
-Dandelion
-Pineapple
-Peanuts
+Tulipan
+Løk
+kirsebær
+Gresskar
+Jordbær
+Kaffe
+Løvetann
+Ananas
+peanøtter
 Nettle
-Apricot
-Coconut
-Grapefruit
-Watermelon
+Aprikos
+Kokosnøtt
+Grapefrukt
+Vannmelon
 Melon
-Sour cherries
+Sure kirsebær
 Mint
 Peppers
-Cabbage
-Peas
+Kål
+erter

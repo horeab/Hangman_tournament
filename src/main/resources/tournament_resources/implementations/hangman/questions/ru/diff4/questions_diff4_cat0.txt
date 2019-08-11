@@ -1,20 +1,20 @@
-Afghanistan
-Saudi Arabia
-Ivory Coast
-Bahamas
-Bahrain
-Costa Rica
-El Salvador
-Kenya
-Guatemala
-Honduras
-Jordan
-Lebanon
-Qatar
-Panama
-Liberia
-Singapore
-Thailand
-Yemen
-Malta
-Vatican
+Афганистан
+Саудовская Аравия
+Кот-д'Ивуар
+Багамские о-ва
+Бахрейн
+Коста Рика
+Эль Сальвадор
+Кения
+Гватемала
+Гондурас
+Иордания
+Ливан
+Катар
+Панама
+Либерия
+Сингапур
+Таиланд
+Йемен
+Мальта
+Ватикан

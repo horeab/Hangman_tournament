@@ -1,19 +1,19 @@
-Marigold
-Juniper
-Pistachio
-Ficus
-Cotton
-Basil
-Maple
-Poplar
-Clementine
-Rice
-Avocado
-Black pepper
-Celery
-Lettuce
-Mustard
-Mandarin orange
-Rose hips
-Lotus
-Thyme
+ноготки
+можжевельник
+фисташковый
+Фикус
+хлопок
+Бэзил
+кленовый
+Тополь
+клементин
+Рис
+Авокадо
+Черный перец
+Сельдерей
+Салат
+горчичный
+мандарин
+Шиповника
+лотос
+Тимьян

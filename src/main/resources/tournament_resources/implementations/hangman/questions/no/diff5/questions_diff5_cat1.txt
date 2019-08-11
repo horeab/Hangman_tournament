@@ -1,19 +1,19 @@
 Alpaca
 Armadillo
 Chinchilla
-Echidna
-Raccoon
-Egret
-Tasmanian devil
-Komodo dragon
+echidna
+Vaskebjørn
+Hegre
+Tasmanisk djevel
+komodovaran
 Barracuda
-Magpie
+skjære
 Manatee
-Prairie dog
+præriehund
 Starling
 Tapir
 Tarsier
 Lemur
 Meerkat
-Guineafowl
+Perlehøns
 Possum

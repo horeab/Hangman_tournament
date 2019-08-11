@@ -1,20 +1,20 @@
-Moose
+Elg
 Condor
 Viper
-Falcon
-Guinea pig
-Trout
-Black mamba
-Jellyfish
-Reindeer
+Falk
+marsvin
+Ørret
+Svart mamba
+Manet
+reinsdyr
 Llama
 Swan
 Pheasant
 Quail
-Great white shark
-Salmon
-Scorpion
-Mule
-Skunk
+Stor hvithai
+Laks
+Skorpion
+Muldyr
+Stinkdyr
 Gazelle
-Coyote
+prærieulv

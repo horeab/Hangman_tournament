@@ -1,20 +1,20 @@
-Goose
-Badger
-Boar
-Stork
-Kangaroo
+Angsa
+Luak
+Babi hutan
+Bangau
+Kanguru
 Anaconda
-Squirrel
-Parrot
+Tupai
+Burung beo
 Hamster
-Hedgehog
-Hippo
-Beetle
-Panther
-Octopus
+landak
+Kuda nil
+Kumbang
+Harimau kumbang
+Gurita
 Python
-Baboon
-Ferret
-Brown bear
-Pelican
-Raven
+Babon
+Musang
+beruang coklat
+Pelikan
+Gagak

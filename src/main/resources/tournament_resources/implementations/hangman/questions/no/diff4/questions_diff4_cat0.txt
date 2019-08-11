@@ -1,6 +1,6 @@
 Afghanistan
-Saudi Arabia
-Ivory Coast
+Saudi-Arabia
+Elfenbenskysten
 Bahamas
 Bahrain
 Costa Rica
@@ -9,12 +9,12 @@ Kenya
 Guatemala
 Honduras
 Jordan
-Lebanon
+Libanon
 Qatar
 Panama
 Liberia
 Singapore
 Thailand
-Yemen
+Jemen
 Malta
-Vatican
+Vatikanet

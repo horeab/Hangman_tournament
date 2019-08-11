@@ -1,20 +1,20 @@
-Potato salad
-Creme caramel
-Dumpling
-Pumpkin pie
-Souffle
-Cheese sandwich
-Stew
-Pickled cucumbers
-Pretzel
+Perunasalaatti
+Kermakaramelli
+Kokkare
+Kurpitsapiirakka
+Kohokas
+Juustovoileipä
+Muhennos
+Marinoidut kurkut
+Suolarinkilä
 Currywurst
-Pistachio
-Couscous
-Grilled cheese
+Pistaasi
+couscous
+Grillattu juusto
 Mozzarella
-Parmesan
-Fried Rice
-Biscuits
+parmesaania
+Paistettu riisi
+keksit
 Sushi
-Apple Pie
-Fish and chips
+Omenapiirakka
+Kala ja sirut

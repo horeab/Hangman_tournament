@@ -1,20 +1,20 @@
-aluminum foil
+Aluminiumsfolie
 blender
-cabinet
-coffee maker
-cook
-cupboard
-dish towel
-dishwasher
-food
-garbage can
+kabinett
+kaffetrakter
+kokk
+skap
+oppvaskhåndkle
+oppvaskmaskin
+mat
+søppelkasse
 juicer
-ladle
-leftovers
-masher
-measuring cup
-oven
-recipe
-salad bowl
-salt shaker
-silverware
+øse
+leftovers 
+Masher
+desilitermål
+stekeovn
+oppskrift
+salatbolle
+saltbøsse
+sølvtøy

@@ -3,18 +3,18 @@ Pasta
 Kebab
 Croissant
 Lasagna
-Cheese
+Keju
 Pizza
 Spaghetti
-Omelette
-Ice cream
-Bread
-Cake
-Roast
+Telur dadar
+Ais krim
+Roti
+Kek
+Panggang
 Yogurt
-Fast food
+Makanan segera
 Pickles
-Maple syrup
+sirap maple
 Toast
-Chocolate
-Mashed potatoes
+Coklat
+Kentang lenyek
