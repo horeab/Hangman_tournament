@@ -53,8 +53,8 @@ import libgdx.utils.startgame.test.DefaultAppInfoService;
 public class TestDataCreator {
 
     public String getUserId() {
-//        return "528701832";
-        return "528701832uuu";
+        return "1508812787";
+//        return "528701832uuu";
     }
 
     public static BaseUserInfo createCurrentUser() {
@@ -112,12 +112,12 @@ public class TestDataCreator {
 
             @Override
             public String getLanguage() {
-                return Language.de.name();
+                return Language.en.name();
             }
 
             @Override
             public boolean screenShotMode() {
-                return true;
+                return false;
             }
 
             @Override

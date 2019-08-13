@@ -33,11 +33,6 @@ public class TournamentMainDependencyManager extends MainDependencyManager<Scree
     }
 
     @Override
-    public String getExtraFontChars() {
-        return "";
-    }
-
-    @Override
     public ResourceService createResourceService() {
         return new TournamentGameResourceService();
     }

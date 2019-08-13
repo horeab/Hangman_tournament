@@ -183,7 +183,7 @@ public class TestDataCreatorUtil {
             case tr:
                 return "Coğrafya Sınavı";
         }
-        return null;
+        return "Test";
     }
 
     public static String getContHistoryName() {

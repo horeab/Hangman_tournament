@@ -27,7 +27,6 @@ public class GeoQuizDependencyManager extends TournamentGameDependencyManager {
         return list;
     }
 
-
     @Override
     public Class<GeoQuizCampaignLevelEnum> getCampaignLevelTypeEnum() {
         return GeoQuizCampaignLevelEnum.class;
