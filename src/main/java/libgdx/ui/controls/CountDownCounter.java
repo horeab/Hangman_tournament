@@ -1,19 +1,16 @@
 package libgdx.ui.controls;
 
-import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.utils.Align;
-
+import libgdx.controls.ScreenRunnable;
+import libgdx.controls.label.MyWrappedLabel;
+import libgdx.resources.FontManager;
+import libgdx.screen.AbstractScreen;
+import libgdx.utils.model.FontColor;
 import org.apache.commons.lang3.StringUtils;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
-
-import libgdx.controls.ScreenRunnable;
-import libgdx.controls.label.MyWrappedLabel;
-import libgdx.resources.ResourcesManager;
-import libgdx.resources.FontManager;
-import libgdx.screen.AbstractScreen;
 
 public abstract class CountDownCounter {
 
@@ -54,7 +51,7 @@ public abstract class CountDownCounter {
                     executeAfterCountDownCounter();
                 } else if (thisCounter.countdownAmountMillis <= 0) {
                     executeOnZeroSeconds();
-                    countdownCounterLabel.setTextColor(Color.RED);
+                    countdownCounterLabel.setTextColor(FontColor.RED);
                     countdownCounterLabel.setFontScale(fontScale * 1.2f);
                     text = getFinalSecondText(text);
                 }

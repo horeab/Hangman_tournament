@@ -3,7 +3,6 @@ package libgdx.ui.screens.actionoptions;
 
 import com.badlogic.gdx.Application;
 import com.badlogic.gdx.Gdx;
-import com.badlogic.gdx.graphics.Color;
 import libgdx.controls.button.builders.BuyOfferButtonBuilder;
 import libgdx.controls.popup.MyPopup;
 import libgdx.game.external.BillingService;
@@ -22,6 +21,7 @@ import libgdx.ui.screens.actionoptions.gameconfig.GameConfig;
 import libgdx.ui.services.ScreenManager;
 import libgdx.ui.services.dbapi.transactions.UserInventoryDbApiService;
 import libgdx.utils.ScreenDimensionsManager;
+import libgdx.utils.model.FontColor;
 
 public class NotEnoughCoinsOptionsPopup extends MyPopup<AbstractScreen, ScreenManager> {
 
@@ -53,13 +53,13 @@ public class NotEnoughCoinsOptionsPopup extends MyPopup<AbstractScreen, ScreenMa
                 .add(new PriceLabelImage(gameConfig.getGameTypeStage()).create())
                 .width(getPrefWidth() - ScreenDimensionsManager.getScreenWidthValue(15)).padBottom(MainDimen.vertical_general_margin.getDimen() * 2).row();
 
-        Color coinsFontColor = Color.BLACK;
-        Color diamondFontColor = Color.BLACK;
+        FontColor coinsFontColor = FontColor.BLACK;
+        FontColor diamondFontColor = FontColor.BLACK;
         if (userInventory.getCoins() < Math.abs(notEnoughCoinsForTransaction.getCoins())) {
-            coinsFontColor = Color.RED;
+            coinsFontColor = FontColor.RED;
         }
         if (userInventory.getDiamond() < Math.abs(notEnoughCoinsForTransaction.getDiamond())) {
-            diamondFontColor = Color.RED;
+            diamondFontColor = FontColor.RED;
         }
 
         getContentTable()

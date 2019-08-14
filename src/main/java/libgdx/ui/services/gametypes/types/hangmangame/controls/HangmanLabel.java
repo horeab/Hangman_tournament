@@ -1,11 +1,9 @@
 package libgdx.ui.services.gametypes.types.hangmangame.controls;
 
 
-import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
-
 import libgdx.controls.label.MyWrappedLabel;
-import libgdx.resources.ResourcesManager;
+import libgdx.utils.model.FontColor;
 
 public class HangmanLabel extends Table {
 
@@ -22,7 +20,7 @@ public class HangmanLabel extends Table {
     }
 
     public void setRedColor() {
-        label.setTextColor(Color.RED);
+        label.setTextColor(FontColor.RED);
     }
 
 }

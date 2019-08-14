@@ -1,21 +1,19 @@
 package libgdx.ui.controls.user;
 
-import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import com.badlogic.gdx.scenes.scene2d.utils.Drawable;
-
-import java.util.List;
-
 import libgdx.controls.label.MyWrappedLabel;
+import libgdx.graphics.GraphicUtils;
+import libgdx.resources.FontManager;
 import libgdx.resources.dimen.MainDimen;
 import libgdx.ui.model.user.BaseUserInfo;
 import libgdx.ui.resources.Dimen;
-import libgdx.resources.ResourcesManager;
 import libgdx.ui.services.dbapi.UserGamesDbApiService;
 import libgdx.utils.ActorPositionManager;
-import libgdx.resources.FontManager;
-import libgdx.graphics.GraphicUtils;
 import libgdx.utils.ScreenDimensionsManager;
+import libgdx.utils.model.FontColor;
+
+import java.util.List;
 
 public class UserInfoContainerCreator {
 
@@ -65,13 +63,13 @@ public class UserInfoContainerCreator {
         table.add(userInfo.getProfilePictureContainer()).row();
         if (userInfoContainerConfig.getGameUser().userHasMultipleQuestions()) {
             MyWrappedLabel questionsAnswered = new MyWrappedLabel(String.valueOf(userInfoContainerConfig.getGameUser().getWonQuestions() + "/" + userInfoContainerConfig.getGameUser().getTotalNrOfQuestions()));
-            questionsAnswered.setStyleDependingOnContrast(Color.WHITE, Color.GREEN);
+            questionsAnswered.setStyleDependingOnContrast(FontColor.WHITE, FontColor.GREEN);
             questionsAnswered.setFontScale(FontManager.calculateMultiplierStandardFontSize(1.6f));
             table.add(questionsAnswered).pad(MainDimen.vertical_general_margin.getDimen() / 2).row();
         }
         if (userInfoContainerConfig.isWithScoreLabel()) {
             MyWrappedLabel scoreLabel = new MyWrappedLabel(String.valueOf(new UserGamesDbApiService().selectTotalGamesUser1AgainstUser2(baseUserInfo.getId(), opponent.getId())));
-            scoreLabel.setTextColor(Color.RED);
+            scoreLabel.setTextColor(FontColor.RED);
             scoreLabel.setFontScale(FontManager.calculateMultiplierStandardFontSize(1.6f));
             table.add(scoreLabel).pad(MainDimen.vertical_general_margin.getDimen() / 2);
         }

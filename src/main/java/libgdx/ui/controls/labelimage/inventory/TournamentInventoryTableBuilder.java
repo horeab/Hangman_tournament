@@ -1,6 +1,5 @@
 package libgdx.ui.controls.labelimage.inventory;
 
-import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import libgdx.controls.animations.ActorAnimation;
 import libgdx.controls.label.MyWrappedLabel;
@@ -12,13 +11,14 @@ import libgdx.resources.dimen.MainDimen;
 import libgdx.ui.model.transactions.TournamentTransactionAmount;
 import libgdx.ui.resources.Resource;
 import libgdx.ui.resources.TournamentGameLabel;
+import libgdx.utils.model.FontColor;
 
 public class TournamentInventoryTableBuilder extends InventoryTableBuilder<TournamentTransactionAmount, TournamentInventoryTableBuilder> {
 
     private int coins;
     private int diamond;
-    private Color coinsFontColor = Color.BLACK;
-    private Color diamondFontColor = Color.BLACK;
+    private FontColor coinsFontColor = FontColor.BLACK;
+    private FontColor diamondFontColor = FontColor.BLACK;
 
 
     public TournamentInventoryTableBuilder(TournamentTransactionAmount transactionAmount) {
@@ -28,12 +28,12 @@ public class TournamentInventoryTableBuilder extends InventoryTableBuilder<Tourn
     }
 
 
-    public TournamentInventoryTableBuilder setCoinsFontColor(Color fontColor) {
+    public TournamentInventoryTableBuilder setCoinsFontColor(FontColor fontColor) {
         this.coinsFontColor = fontColor;
         return this;
     }
 
-    public TournamentInventoryTableBuilder setDiamondFontColor(Color fontColor) {
+    public TournamentInventoryTableBuilder setDiamondFontColor(FontColor fontColor) {
         this.diamondFontColor = fontColor;
         return this;
     }
@@ -41,7 +41,7 @@ public class TournamentInventoryTableBuilder extends InventoryTableBuilder<Tourn
     public Table buildDetailed() {
         Table table = new Table();
         MyWrappedLabel label = new MyWrappedLabel(TournamentGameLabel.resources_current_amount.getText());
-        label.setTextColor(Color.RED);
+        label.setTextColor(FontColor.RED);
         table.add(label).padBottom(MainDimen.vertical_general_margin.getDimen()).row();
         table.add(buildHorizontalInventory());
         table.setBackground(GraphicUtils.getNinePatch(Resource.userstatusbar_background_default));
@@ -97,8 +97,8 @@ public class TournamentInventoryTableBuilder extends InventoryTableBuilder<Tourn
         return labelImage;
     }
 
-    private void animateRedLabelInventory(Color fontColor, LabelImage labelImage) {
-        if (fontColor.equals(Color.RED)) {
+    private void animateRedLabelInventory(FontColor fontColor, LabelImage labelImage) {
+        if (fontColor.equals(FontColor.RED)) {
             new ActorAnimation(labelImage, Game.getInstance().getAbstractScreen()).animateFastFadeInFadeOutWithTotalFadeOut();
         }
     }

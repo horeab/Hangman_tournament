@@ -1,25 +1,23 @@
 package libgdx.ui.controls.button.builders;
 
-import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.scenes.scene2d.Touchable;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
-
 import libgdx.controls.button.ButtonBuilder;
+import libgdx.controls.button.MyButton;
+import libgdx.controls.label.MyWrappedLabel;
+import libgdx.controls.label.MyWrappedLabelConfigBuilder;
+import libgdx.graphics.GraphicUtils;
+import libgdx.resources.FontManager;
 import libgdx.resources.dimen.MainDimen;
 import libgdx.ui.constants.game.achievements.AchievementEnum;
 import libgdx.ui.controls.IncrementBar;
 import libgdx.ui.controls.button.ButtonSize;
 import libgdx.ui.controls.button.ButtonSkin;
-import libgdx.controls.button.MyButton;
-import libgdx.controls.label.MyWrappedLabel;
-import libgdx.controls.label.MyWrappedLabelConfigBuilder;
 import libgdx.ui.resources.Resource;
-import libgdx.resources.ResourcesManager;
 import libgdx.ui.services.dbapi.GameStatsDbApiService;
 import libgdx.ui.services.dbapi.transactions.ShopTransactionsDbApiService;
 import libgdx.ui.services.game.achievements.AchievementsService;
-import libgdx.resources.FontManager;
-import libgdx.graphics.GraphicUtils;
+import libgdx.utils.model.FontColor;
 
 public class AchievementItemBuilder extends ButtonBuilder {
 
@@ -87,7 +85,7 @@ public class AchievementItemBuilder extends ButtonBuilder {
         Table table = new Table();
         MyWrappedLabel label = new MyWrappedLabel(finishedLevels + " x ");
         if (finishedLevels > 0) {
-            label.setTextColor(Color.GREEN);
+            label.setTextColor(FontColor.GREEN);
         }
         table.add(label);
         table.add(GraphicUtils.getImage(Resource.achievement))

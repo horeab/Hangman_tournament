@@ -1,22 +1,20 @@
 package libgdx.ui.controls.animation;
 
-import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.scenes.scene2d.Actor;
 import com.badlogic.gdx.scenes.scene2d.actions.Actions;
 import com.badlogic.gdx.scenes.scene2d.actions.RunnableAction;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import com.badlogic.gdx.utils.Align;
-
 import libgdx.controls.ScreenRunnable;
 import libgdx.controls.label.MyWrappedLabel;
 import libgdx.graphics.GraphicUtils;
 import libgdx.resources.FontManager;
 import libgdx.resources.Res;
-import libgdx.resources.ResourcesManager;
 import libgdx.ui.resources.Resource;
 import libgdx.ui.resources.TournamentGameLabel;
 import libgdx.utils.ScreenDimensionsManager;
 import libgdx.utils.SoundUtils;
+import libgdx.utils.model.FontColor;
 
 public class ImageAnimation {
 
@@ -42,7 +40,7 @@ public class ImageAnimation {
         table.setBackground(GraphicUtils.getNinePatch(Resource.userstatusbar_background_default));
         MyWrappedLabel myLabel = new MyWrappedLabel(text);
         myLabel.setFontScale(FontManager.getBigFontDim());
-        myLabel.setTextColor(Color.RED);
+        myLabel.setTextColor(FontColor.RED);
         table.add(myLabel);
         table.setTransform(true);
         animateZoomInZoomOut(table);

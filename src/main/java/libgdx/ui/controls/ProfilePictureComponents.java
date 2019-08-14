@@ -11,6 +11,7 @@ import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import com.badlogic.gdx.scenes.scene2d.utils.TextureRegionDrawable;
 import com.badlogic.gdx.utils.Align;
 
+import libgdx.utils.model.FontColor;
 import org.apache.commons.lang3.tuple.MutablePair;
 
 import java.util.Date;
@@ -83,7 +84,7 @@ public class ProfilePictureComponents {
                             new UserExperienceService().getUserExperienceLevel(experience)));
                 }
             }).start();
-            levelLabel.setTextColor(Color.GREEN);
+            levelLabel.setTextColor(FontColor.GREEN);
             float levelFontScale = sideDimen.getRawDimen() > 6 ? 0.9f : 0.6f;
             levelLabel.setFontScale(FontManager.calculateMultiplierStandardFontSize(levelFontScale));
             levelLabel.setAlignment(Align.center);

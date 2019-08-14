@@ -1,31 +1,29 @@
 package libgdx.ui.screens.livegame;
 
-import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.scenes.scene2d.ui.Stack;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import com.badlogic.gdx.utils.Align;
-
-import java.util.ArrayList;
-import java.util.List;
-
+import libgdx.controls.label.MyWrappedLabel;
 import libgdx.controls.label.MyWrappedLabelConfigBuilder;
 import libgdx.controls.labelimage.InventoryLabelImageBuilder;
+import libgdx.resources.FontManager;
 import libgdx.resources.dimen.MainDimen;
 import libgdx.ui.constants.overridable.TransactionAmountEnum;
 import libgdx.ui.controls.CountDownCounter;
-import libgdx.controls.label.MyWrappedLabel;
 import libgdx.ui.controls.labelimage.prize.IfLevelUpPrizeLabelImage;
 import libgdx.ui.controls.popup.ExitGamePopup;
 import libgdx.ui.controls.user.UserInfoContainerConfig;
 import libgdx.ui.controls.user.UserInfoContainerCreator;
+import libgdx.ui.model.game.GameContext;
 import libgdx.ui.resources.TournamentGameLabel;
 import libgdx.ui.screens.AbstractScreen;
 import libgdx.ui.screens.actionoptions.gameconfig.ScreenWithGameContext;
-import libgdx.resources.ResourcesManager;
-import libgdx.ui.model.game.GameContext;
 import libgdx.utils.ActorPositionManager;
-import libgdx.resources.FontManager;
 import libgdx.utils.ScreenDimensionsManager;
+import libgdx.utils.model.FontColor;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class PlayerVersusPlayerScreen extends AbstractScreen implements ScreenWithGameContext {
 
@@ -71,7 +69,7 @@ public class PlayerVersusPlayerScreen extends AbstractScreen implements ScreenWi
         MyWrappedLabel vsLabel = new MyWrappedLabel("VS");
         vsLabel.setAlignment(Align.center);
         vsLabel.setFontScale(FontManager.getBigFontDim() * 1.2f);
-        vsLabel.setTextColor(Color.RED);
+        vsLabel.setTextColor(FontColor.RED);
         ActorPositionManager.setActorCenterScreen(vsLabel);
 
         Stack stack = new Stack();

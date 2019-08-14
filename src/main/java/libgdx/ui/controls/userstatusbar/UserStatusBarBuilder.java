@@ -7,16 +7,17 @@ import com.badlogic.gdx.scenes.scene2d.ui.Image;
 import com.badlogic.gdx.scenes.scene2d.ui.Stack;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
-
+import libgdx.controls.ScreenRunnable;
 import libgdx.controls.button.MyButton;
 import libgdx.controls.button.builders.BackButtonBuilder;
-import libgdx.controls.label.MyWrappedLabelConfigBuilder;
-import libgdx.resources.dimen.MainDimen;
-import libgdx.ui.game.TournamentGame;
-import libgdx.controls.ScreenRunnable;
 import libgdx.controls.label.MyWrappedLabel;
+import libgdx.controls.label.MyWrappedLabelConfigBuilder;
+import libgdx.graphics.GraphicUtils;
+import libgdx.resources.FontManager;
+import libgdx.resources.dimen.MainDimen;
 import libgdx.ui.controls.labelimage.inventory.TournamentInventoryTableBuilder;
 import libgdx.ui.controls.user.UserInfo;
+import libgdx.ui.game.TournamentGame;
 import libgdx.ui.model.inventory.UserInventory;
 import libgdx.ui.model.transactions.TournamentTransactionAmount;
 import libgdx.ui.resources.Dimen;
@@ -25,8 +26,6 @@ import libgdx.ui.screens.AbstractScreen;
 import libgdx.ui.screens.mainmenu.popup.LoginPopup;
 import libgdx.ui.services.dbapi.transactions.UserInventoryDbApiService;
 import libgdx.ui.services.game.userexperience.UserExperienceService;
-import libgdx.resources.FontManager;
-import libgdx.graphics.GraphicUtils;
 import libgdx.utils.ScreenDimensionsManager;
 
 public class UserStatusBarBuilder {
