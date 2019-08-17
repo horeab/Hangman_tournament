@@ -1,13 +1,12 @@
 package libgdx.ui.controls.button;
 
 
-import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.scenes.scene2d.utils.Drawable;
-
+import libgdx.graphics.GraphicUtils;
 import libgdx.resources.MainResource;
 import libgdx.resources.Res;
 import libgdx.ui.resources.Resource;
-import libgdx.graphics.GraphicUtils;
+import libgdx.utils.model.FontColor;
 
 public enum ButtonSkin implements libgdx.controls.button.ButtonSkin{
 
@@ -17,8 +16,8 @@ public enum ButtonSkin implements libgdx.controls.button.ButtonSkin{
     GREEN(Resource.btn_green_up, Resource.btn_green_down, Resource.btn_green_up, MainResource.btn_lowcolor_up, null),
     LOW_COLOR(MainResource.btn_lowcolor_up, MainResource.btn_lowcolor_down, MainResource.btn_lowcolor_up, MainResource.btn_lowcolor_up, null),
     SQUARE(Resource.btn_letter_up, Resource.btn_letter_down, Resource.btn_letter_up, Resource.btn_letter_disabled, null),
-    SQUARE_CORRECT(Resource.btn_letter_correct, Resource.btn_letter_correct, Resource.btn_letter_correct, Resource.btn_letter_correct, Color.FOREST),
-    SQUARE_WRONG(Resource.btn_letter_wrong, Resource.btn_letter_wrong, Resource.btn_letter_wrong, Resource.btn_letter_wrong, Color.RED),
+    SQUARE_CORRECT(Resource.btn_letter_correct, Resource.btn_letter_correct, Resource.btn_letter_correct, Resource.btn_letter_correct, FontColor.GREEN),
+    SQUARE_WRONG(Resource.btn_letter_wrong, Resource.btn_letter_wrong, Resource.btn_letter_wrong, Resource.btn_letter_wrong, FontColor.RED),
     GAME_OPT1(Resource.btn_opt1_up, Resource.btn_opt1_down, Resource.btn_opt1_up, Resource.btn_opt1_up, null),
     GAME_OPT2(Resource.btn_opt2_up, Resource.btn_opt2_down, Resource.btn_opt2_up, Resource.btn_opt2_up, null),
     GAME_OPT3(Resource.btn_opt3_up, Resource.btn_opt3_down, Resource.btn_opt3_up, Resource.btn_opt3_up, null),
@@ -33,13 +32,13 @@ public enum ButtonSkin implements libgdx.controls.button.ButtonSkin{
     LONG_ANSWER_OPTION(Resource.btn_long_answer_opt_up, Resource.btn_long_answer_opt_down, Resource.btn_long_answer_opt_up, Resource.btn_long_answer_opt_disabled, null),
     LONG_ANSWER_SUBMIT_QUESTIONS_OPTION(Resource.btn_long_answer_opt_notselected, Resource.btn_long_answer_opt_notselected, Resource.btn_long_answer_opt_notselected, Resource.btn_long_answer_opt_notselected, null),
     LONG_ANSWER_SUBMIT_QUESTIONS_OPTION_SELECTED(Resource.btn_long_answer_opt_selected, Resource.btn_long_answer_opt_selected, Resource.btn_long_answer_opt_selected, Resource.btn_long_answer_opt_selected, null),
-    SQUARE_ANSWER_OPTION_CORRECT(Resource.btn_answer_opt_correct, Resource.btn_answer_opt_correct, Resource.btn_answer_opt_correct, Resource.btn_answer_opt_correct, Color.FOREST),
-    SQUARE_ANSWER_OPTION_WRONG(Resource.btn_answer_opt_wrong, Resource.btn_answer_opt_wrong, Resource.btn_answer_opt_wrong, Resource.btn_answer_opt_wrong, Color.RED),
-    LONG_ANSWER_OPTION_CORRECT(Resource.btn_long_answer_opt_correct, Resource.btn_long_answer_opt_correct, Resource.btn_long_answer_opt_correct, Resource.btn_long_answer_opt_correct, Color.FOREST),
-    LONG_ANSWER_OPTION_WRONG(Resource.btn_long_answer_opt_wrong, Resource.btn_long_answer_opt_wrong, Resource.btn_long_answer_opt_wrong, Resource.btn_long_answer_opt_wrong, Color.RED),
+    SQUARE_ANSWER_OPTION_CORRECT(Resource.btn_answer_opt_correct, Resource.btn_answer_opt_correct, Resource.btn_answer_opt_correct, Resource.btn_answer_opt_correct, FontColor.GREEN),
+    SQUARE_ANSWER_OPTION_WRONG(Resource.btn_answer_opt_wrong, Resource.btn_answer_opt_wrong, Resource.btn_answer_opt_wrong, Resource.btn_answer_opt_wrong, FontColor.RED),
+    LONG_ANSWER_OPTION_CORRECT(Resource.btn_long_answer_opt_correct, Resource.btn_long_answer_opt_correct, Resource.btn_long_answer_opt_correct, Resource.btn_long_answer_opt_correct, FontColor.GREEN),
+    LONG_ANSWER_OPTION_WRONG(Resource.btn_long_answer_opt_wrong, Resource.btn_long_answer_opt_wrong, Resource.btn_long_answer_opt_wrong, Resource.btn_long_answer_opt_wrong, FontColor.RED),
     ANSWER_IMAGE_CLICK(Resource.btn_question_up, Resource.btn_question_down, Resource.btn_question_up, Resource.btn_question_disabled, null),
-    ANSWER_IMAGE_CLICK_CORRECT(Resource.btn_question_correct, Resource.btn_question_correct, Resource.btn_question_correct, Resource.btn_question_correct, Color.FOREST),
-    ANSWER_IMAGE_CLICK_WRONG(Resource.btn_question_wrong, Resource.btn_question_wrong, Resource.btn_question_wrong, Resource.btn_question_wrong, Color.RED),
+    ANSWER_IMAGE_CLICK_CORRECT(Resource.btn_question_correct, Resource.btn_question_correct, Resource.btn_question_correct, Resource.btn_question_correct, FontColor.GREEN),
+    ANSWER_IMAGE_CLICK_WRONG(Resource.btn_question_wrong, Resource.btn_question_wrong, Resource.btn_question_wrong, Resource.btn_question_wrong, FontColor.RED),
     CAMPAIGN_LEVEL_0(Resource.btn_campaign_0_up, Resource.btn_campaign_0_down, Resource.btn_campaign_0_up, Resource.btn_campaign_disabled, null),
     CAMPAIGN_LEVEL_1(Resource.btn_campaign_1_up, Resource.btn_campaign_1_down, Resource.btn_campaign_1_up, Resource.btn_campaign_disabled, null),
     CAMPAIGN_LEVEL_2(Resource.btn_campaign_2_up, Resource.btn_campaign_2_down, Resource.btn_campaign_2_up, Resource.btn_campaign_disabled, null),
@@ -48,7 +47,7 @@ public enum ButtonSkin implements libgdx.controls.button.ButtonSkin{
     CAMPAIGN_LEVEL_5(Resource.btn_campaign_5_up, Resource.btn_campaign_5_down, Resource.btn_campaign_5_up, Resource.btn_campaign_disabled, null),
     CAMPAIGN_LEVEL_WALL(Resource.btn_campaign_wall_up, Resource.btn_campaign_wall_down, Resource.btn_campaign_wall_up, Resource.btn_campaign_disabled, null),;
 
-    ButtonSkin(Res imgUp, Res imgDown, Res imgChecked, Res imgDisabled, Color buttonDisabledFontColor) {
+    ButtonSkin(Res imgUp, Res imgDown, Res imgChecked, Res imgDisabled, FontColor buttonDisabledFontColor) {
         this.imgUp = imgUp;
         this.imgDown = imgDown;
         this.imgChecked = imgChecked;
@@ -60,7 +59,7 @@ public enum ButtonSkin implements libgdx.controls.button.ButtonSkin{
     private Res imgDown;
     private Res imgChecked;
     private Res imgDisabled;
-    private Color buttonDisabledFontColor;
+    private FontColor buttonDisabledFontColor;
 
     @Override
     public Drawable getImgUp() {
@@ -83,7 +82,7 @@ public enum ButtonSkin implements libgdx.controls.button.ButtonSkin{
     }
 
     @Override
-    public Color getButtonDisabledFontColor() {
+    public FontColor getButtonDisabledFontColor() {
         return buttonDisabledFontColor;
     }
 }

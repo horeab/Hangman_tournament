@@ -6,10 +6,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
+import libgdx.game.Game;
 import libgdx.ui.controls.button.HintButton;
 import libgdx.controls.button.MyButton;
 import libgdx.controls.label.MyLabel;
-import libgdx.resources.ResourcesManager;
+import libgdx.utils.model.FontColor;
 
 public class GameControlsService {
 
@@ -43,14 +44,14 @@ public class GameControlsService {
     }
 
     public void disableTouchableAllControls() {
-        processTouchableControls(ResourcesManager.getLabelGrey(), Touchable.disabled);
+        processTouchableControls(FontColor.GRAY, Touchable.disabled);
     }
 
     public void enableTouchableAllControls() {
-        processTouchableControls(ResourcesManager.getLabelBlack(), Touchable.enabled);
+        processTouchableControls(FontColor.BLACK, Touchable.enabled);
     }
 
-    private void processTouchableControls(String labelStyleName, Touchable touchable) {
+    private void processTouchableControls(FontColor fontColor, Touchable touchable) {
         List<MyButton> buttonsToProcess = new ArrayList<>(allAnswerButtons.values());
         for (HintButton hintButton : hintButtons) {
             buttonsToProcess.add(hintButton.getMyButton());
@@ -59,7 +60,7 @@ public class GameControlsService {
             List<MyLabel> centerRowLabels = button.getCenterRowLabels();
             for (MyLabel label : centerRowLabels) {
                 if (!button.isDisabled()) {
-                    label.setStyle(labelStyleName);
+                    label.getStyle().font= Game.getInstance().getFontManager().getFont(fontColor);
                 }
             }
             button.setTouchable(touchable);
