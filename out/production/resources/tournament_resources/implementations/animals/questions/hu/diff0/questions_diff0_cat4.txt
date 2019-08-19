@@ -1,9 +1,0 @@
-0::Angyalhal:6,7,8:0
-1::Ponty:4,3,7:1
-2::Harcsa:1,4,8:2
-3::Angolna:2,7,4:3
-4::Aranyhal:6,5,8:4
-5::Nagy fehér cápa:4,7,1:5
-6::Guppy:3,2,4:6
-7::Lazac:8,6,1:7
-8::Tonhal:4,7,1:8

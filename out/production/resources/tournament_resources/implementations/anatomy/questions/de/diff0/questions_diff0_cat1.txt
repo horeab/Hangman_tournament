@@ -1,9 +1,0 @@
-0:Wo befindet sich der Hypothalamus?:im Gehirn##Nebenniere##Blinddarm##Skelett:0:
-1:Wo werden bei erwachsenen Menschen hauptsächlich die roten Blutkörperchen produziert?:Im Knochenmark##Im Herzen##Im Gehirn##In der Niere:0:
-2:Welches Hormon wird bei Stress ausgeschüttet?:Gastrin##Adrenalin##Dopamin##Insulin:1:
-3:Wie nennt man die Muskelbewegung der Darmwand?:Petroselinum##Perestroika##Perodicticus##Peristaltik:3:
-4:Welches ist das härteste Gewebe im menschlichen Körper?:Die Netzhaut des Auges##Die Lungenbläschen##Die Fingernägel##Der Zahnschmelz:3:
-5:Welcher Stoff sorgt bei Sonnenbestrahlung dafür, dass die menschliche Haut braun wird?:Karotin##Melanin##Hämoglobin##Chlorophyll:1:
-6:Welchen Knochen gibt es nicht?:Stirnbein##Oberkieferbein##Rippenbein##Sitzbein:2:
-7:Welche Knochen befinden sich im Unterarm?:Kurbel und Gabel##Zitter und Flügel##Achilles und Segel##Elle und Speiche:3:
-8:Wie nennt man den fast runden Knochen der zum menschlichen Kniegelenk gehört?:Kniescheibe##Leiste##Schienbein##Achillesscheibe:1:

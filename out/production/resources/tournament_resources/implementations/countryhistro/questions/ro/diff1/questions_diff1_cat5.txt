@@ -1,6 +1,0 @@
-0:În ce an moare Ştefan cel Mare?:1504##1452##1578##1510:0:
-1:Între ce ani a domnit Mihai Viteazaul?:1593-1601##1555-1556##1581-1612##1577-1601:0:
-2:Cine a condus bătălia de la Călugăreni, unde se obţine victoria în faţa armatei otomane conduse de Sinan Paşa?:Mihai Viteazul##Vlad Ţepeş##Ştefan cel Mare##Mircea cel Bătran:0:
-3:În urma pierderii cărei bătălii, Mihai Viteazul pierde Ardealul?:Mirăslău##Rovine##Călugăreni##Turda:0:
-4:Unde a domnit Constantin Brâncoveanu?:ţara Romanească##Moldova##Transilvania##Vlahia:0:
-5:Unde este asasinat Mihai Viteazul de către generalul Basta?:Câmpia Turzii##Călugăreni##Rovine##Mirăslău:0:

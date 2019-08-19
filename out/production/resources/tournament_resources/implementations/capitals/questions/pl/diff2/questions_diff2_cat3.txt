@@ -1,4 +1,0 @@
-11:Co to jest stolica Surinamu?:Paramaribo:13,8,10:11
-12:Co to jest stolica Gujany Francuskiej?:Cayenne:14,13,6:12
-13:Co to jest stolica Wysp Falklandzkich?:Stanley:6,7,12:13
-14:Co to jest stolica Południowej Georgii i Sandwich Południowy?:King Edward Point:6,7,12:14

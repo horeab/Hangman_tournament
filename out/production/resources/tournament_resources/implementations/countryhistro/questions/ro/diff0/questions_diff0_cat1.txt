@@ -1,5 +1,0 @@
-0:Cine a fost ultimul conducător comunist al României?:Nicolae Ceauşescu##Gheorghe Gheorghiu Dej##Ion Antonescu##Ion Gigurtu:0:
-1:În ce perioadă se petrece indepărtarea României de U.R.S.S.?:1960-1965##1945-1960##1990-1999##1985-1989:0:
-2:Unde a fost încoronat Ferdinand ca rege al României Mari în 1922?:Alba-Iulia##Iaşi##Bucureşti##Curtea de Argeş:0:
-3:Care este oraşul unde a început revoluţia din 1989?:Timişoara##Bucureşti##Cluj Napoca##Iaşi:0:
-4:Cine este primul preşedinte al României de după 1989?:Ion Iliescu##Traian Băsescu##Nicolae Ceauşescu##Ion Raţiu:0:

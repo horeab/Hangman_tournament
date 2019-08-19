@@ -1,6 +1,0 @@
-0::Baden - Württemberg:8,7,3:0
-1::Bayern:8,9,6:1
-2::Berlin:4,8,1:2
-3::Brandenburg:6,1,11:3
-4::Bremen:0,3,7:4
-5::Hamburg:11,9,12:5

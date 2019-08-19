@@ -1,5 +1,0 @@
-6:Was ist die Hauptstadt von Peru?:Lima:8,9,2:6
-7:Was ist die Hauptstadt von Paraguay?:Asunción:4,10,6:7
-8:Was ist die Hauptstadt von Bolivien?:La Paz:14,4,7:8
-9:Was ist die Hauptstadt von Venezuela?:Caracas:4,12,3:9
-10:Was ist die Hauptstadt von Guyana?:Georgetown:9,13,6:10

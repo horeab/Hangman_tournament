@@ -1,6 +1,0 @@
-0:Mi a brazil főváros?:Brasília:8,7,3:0
-1:Mi az Argentína fővárosa?:Buenos Aires:5,0,9:1
-2:Mi a Chile fővárosa?:Santiago:0,8,7:2
-3:Mi a kolumbiai főváros?:Bogotá:0,7,6:3
-4:Mi az Uruguay fővárosa?:Montevideo:3,2,6:4
-5:Mi az Ecuador fővárosa?:Quito:13,7,3:5

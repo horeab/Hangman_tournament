@@ -1,6 +1,0 @@
-0:Wo befindet sich Eurosat?:Baden - Württemberg:3,4,1:0
-1:Wo befindet sich Schloss Neuschwanstein?:Bayern:0,5,6:1
-2:Wo befindet sich das Brandenburger Tor?:Berlin:9,3,1:2
-3:Wo befindet sich Schloss Sanssouci?:Brandenburg:5,7,4:3
-4:Wo befindet sich das Schnoorviertel?:Bremen:1,9,5:4
-5:Wo befindet sich das Elbphilharmonie?:Hamburg:8,9,0:5

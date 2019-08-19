@@ -1,6 +1,0 @@
-0:Co to jest stolica Brazylii?:Brasília:8,7,3:0
-1:Co to jest stolica Argentyny?:Buenos Aires:5,0,9:1
-2:Co to jest stolica Chile?:Santiago:0,8,7:2
-3:Co to jest stolica Kolumbii?:Bogota:0,7,6:3
-4:Co to jest stolica Urugwaju?:Montevideo:3,2,6:4
-5:Co to jest stolica Ekwadoru?:Quito:13,7,3:5

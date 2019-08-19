@@ -1,9 +1,0 @@
-0:În secolul I î.Hr. s-a format primul stat dac unitar centralizat, sub stăpânirea lui:Decebal##Burebista##Deceneu##Dromihete:1:0
-1:În Bătălia de la Podul Înalt (Vaslui), în 1475, armata română a fost condusă de:Ştefan cel Mare##Mircea cel Bătrân##Vlad Ţepeş##Mihai Viteazul:0:1
-2:Vlad Ţepeş a fost domnitorul Ţării Româneşti în perioada:1386-1395 şi 1397-1418##1431-1476##1457-1504##1559-1568:1:2
-3:De partea cui a luptat România în primul Război Mondial?:Puterile Centrale##Tripla Alianţă##Antanta##a fost neutră:2:3
-4:Unirea Principatelor Române a avut loc la jumătatea secolului al XIX-lea prin unirea:Transilvaniei şi Ţării Româneşti##Moldovei şi Transilvaniei##Moldovei şi Ţării Româneşti##Dobrogei şi Ţării Româneşti:2:4
-6:Tudor Vladimirescu a condus Revoluţia de la:1821##1848##1918##1989:0:6
-7:Pe 7 septembrie 1940, România a cedat Bulgariei „Cadrilaterul” prin Tratatul de la:Craiova##Varşovia##Paris##Trianon:0:7
-8:În 1974, Nicolae Ceauşescu a devenit:prim-secretar al Partidului Muncitoresc Român##subsecretar de stat în Ministerul Agriculturii##Şef al Direcţiei Superioare Politice a Armatei##Preşedinte al Republicii Socialiste România:3:8
-9:Ziua Naţională a României aniversează Marea Adunare Naţională de la:Alba Iulia##Blaj##Câmpeni##Bucureşti:0:9

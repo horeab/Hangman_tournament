@@ -1,5 +1,0 @@
-0:Cine a jucat un rol de primă importanţă în Marea Unire din 1918 şi în viaţă politică din România modernă?:Ion I.C. Brătianu##Mihai##Ferdinand##Gheorghe Gheorghiu Dej:0:
-1:Ce a votat Sfatul ţării pe 9 aprilie 1918?:Unirea Basarabiei cu România##Unirea Transilvaniei cu România##Unirea Transilvaniei cu Moldova##Unirea Vlahiei cu Moldova:0:
-2:Unde s-a desfăsurat Marea Adunare Naţională care hotărăşte unirea Transilvaniei cu România?:Alba-Iulia##Blaj##Iaşi##Bucureşti:0:
-3:În ce an este adoptată Constituţia care consfiinţeşte Unirea?:1923##1918##1917##1919:0:
-4:Cine a fost primul conducător comunist al României?:Gheorghe Gheorghiu Dej##Nicolae Ceauşescu##Ion Antonescu##Ion Gigurtu:0:

@@ -1,5 +1,0 @@
-6:Peru'nun başkenti nedir?:Lima:8,9,2:6
-7:Paraguay'ın başkenti nedir?:Asunción:4,10,6:7
-8:Bolivya'nın başkenti nedir?:La Paz:14,4,7:8
-9:Venezuela'nın başkenti nedir?:Karakas:4,12,3:9
-10:Guyana'nın başkenti nedir?:Georgetown:9,13,6:10

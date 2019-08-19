@@ -1,7 +1,0 @@
-0::Chamäleon:5,2,6:0
-1::Krokodil:4,0,5:1
-2::Gecko:4,5,3:2
-3::Leguan:1,2,0:3
-4::Komodo Drache:0,6,2:4
-5::Schlange:2,1,3:5
-6::Schildkröte:0,2,1:6

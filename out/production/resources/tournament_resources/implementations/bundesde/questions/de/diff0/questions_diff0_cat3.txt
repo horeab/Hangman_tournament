@@ -1,6 +1,0 @@
-0:Wo entspringt die Donau?:Baden - Württemberg:6,4,2:
-1:Der bedeutendste Fluss des Bundeslandes ist die Donau:Bayern:2,7,4:
-2:Marlene Dietrich war hier geboren:Berlin:4,5,3:
-3:Dieses Bundesland umschließt in seinem Zentrum die deutsche Hauptstadt Berlin:Brandenburg:4,7,2:
-4:Das Land liegt in Nordwestdeutschland am Unterlauf und Mündungstrichter der Weser:Bremen:11,3,0:
-5:Hier befindet sich einer der größten Umschlaghäfen weltweit:Hamburg:13,0,11:

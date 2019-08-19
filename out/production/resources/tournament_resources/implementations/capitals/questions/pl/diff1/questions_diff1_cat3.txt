@@ -1,5 +1,0 @@
-6:Co to jest stolica Peru?:Lima:8,9,2:6
-7:Co to jest stolica Paragwaju?:Asunción:4,10,6:7
-8:Co to jest stolica Boliwii?:La Paz:14,4,7:8
-9:Co to jest stolica Wenezueli?:Caracas:4,12,3:9
-10:Jaka jest stolica Gujany?:Georgetown:9,13,6:10

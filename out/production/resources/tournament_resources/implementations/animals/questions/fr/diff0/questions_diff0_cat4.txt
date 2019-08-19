@@ -1,9 +1,0 @@
-0::Poisson-ange:6,7,8:0
-1::Carpe:4,3,7:1
-2::Poisson-chat:1,4,8:2
-3::Anguille:2,7,4:3
-4::Poisson rouge:6,5,8:4
-5::Grand requin blanc:4,7,1:5
-6::Guppy:3,2,4:6
-7::Saumon:8,6,1:7
-8::Thon:4,7,1:8

@@ -1,4 +1,0 @@
-11:Surinam'ın başkenti nedir?:Paramaribo:13,8,10:11
-12:Fransız Guyanası'nın başkenti nedir?:Cayenne:14,13,6:12
-13:Falkland Adaları'nın başkenti nedir?:Stanley:6,7,12:13
-14:Güney Georgia ve Güney Sandwich Adaları'nın başkenti nedir:King Edward Point:6,7,12:14

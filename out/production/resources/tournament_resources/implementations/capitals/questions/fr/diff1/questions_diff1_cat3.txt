@@ -1,5 +1,0 @@
-6:Quelle est la capitale du Pérou?:Lima:8,9,2:6
-7:Quelle est la capitale du Paraguay?:Asunción:4,10,6:7
-8:Quelle est la capitale de la Bolivie?:La Paz:14,4,7:8
-9:Quelle est la capitale du Venezuela?:Caracas:4,12,3:9
-10:Quelle est la capitale de la Guyane?:Georgetown:9,13,6:10

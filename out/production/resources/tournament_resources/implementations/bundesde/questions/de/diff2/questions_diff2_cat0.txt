@@ -1,5 +1,0 @@
-11:Saarland:Saarland:7,4,15:10,27:999
-12:Sachsen:Sachsen:1,7,4:82,48:999
-13:Sachsen - Anhalt:Sachsen - Anhalt:7,1,14:63,59:999
-14:Schleswig - Holstein:Schleswig - Holstein:7,11,9:44,87:999
-15:Thüringen:Thüringen:7,13,12:55,47:999

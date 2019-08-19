@@ -1,6 +1,0 @@
-0:Care este capitala Braziliei?:Brasília:8,7,3:0
-1:Care este capitala Argentinei?:Buenos Aires:5,0,9:1
-2:Care este capitala Chile?:Santiago:0,8,7:2
-3:Care este capitala Columbiei?:Bogotá:0,7,6:3
-4:Care este capitala Uruguay?:Montevideo:3,2,6:4
-5:Care este capitala Ecuadorului?:Quito:13,7,3:5

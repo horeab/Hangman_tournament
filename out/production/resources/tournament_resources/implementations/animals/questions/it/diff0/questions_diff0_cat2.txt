@@ -1,7 +1,0 @@
-0::Camaleonte:5,2,6:0
-1::Coccodrillo:4,0,5:1
-2::Geco:4,5,3:2
-3::Iguana:1,2,0:3
-4::Drago di Komodo:0,6,2:4
-5::Serpente:2,1,3:5
-6::Tartaruga:0,2,1:6

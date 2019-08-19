@@ -1,4 +1,0 @@
-11:Mi a Surinam fővárosa?:Paramaribo:13,8,10:11
-12:Mi a francia Guyana fővárosa?:Cayenne:14,13,6:12
-13:Mi a Falkland-szigetek fővárosa?:Stanley:6,7,12:13
-14:Mi a Dél-Grúzia és a Dél-Sandwich-szigetek fővárosa?:Edward Point király:6,7,12:14

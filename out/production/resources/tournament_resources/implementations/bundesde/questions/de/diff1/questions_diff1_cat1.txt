@@ -1,5 +1,0 @@
-6::Hessen:10,2,13:6
-7::Mecklenburg - Vorpommern:2,10,13:7
-8::Niedersachsen:12,1,2:8
-9::Nordrhein - Westfalen:2,11,8:9
-10::Rheinland - Pfalz:3,5,12:10

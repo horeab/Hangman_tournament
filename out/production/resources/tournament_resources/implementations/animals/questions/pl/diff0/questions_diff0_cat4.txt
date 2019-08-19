@@ -1,9 +1,0 @@
-0::Skalary:6,7,8:0
-1::Karp:4,3,7:1
-2::Sum:1,4,8:2
-3::Węgorz:2,7,4:3
-4::Karaś chiński:6,5,8:4
-5::Wielki biały rekin:4,7,1:5
-6::Gupik:3,2,4:6
-7::Łosoś:8,6,1:7
-8::Tuńczyk:4,7,1:8

@@ -1,5 +1,0 @@
-6:Wat is de hoofdstad van Peru?:Lima:8,9,2:6
-7:Wat is de hoofdstad van Paraguay?:Asunción:4,10,6:7
-8:Wat is de hoofdstad van Bolivia?:La Paz:14,4,7:8
-9:Wat is de hoofdstad van Venezuela?:Caracas:4,12,3:9
-10:Wat is de hoofdstad van Guyana?:Georgetown:9,13,6:10

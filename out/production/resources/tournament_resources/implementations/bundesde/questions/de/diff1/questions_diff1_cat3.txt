@@ -1,5 +1,0 @@
-6:Mit Frankfurt am Main liegt hier eine der bedeutendsten deutschen Städte:Hessen:13,12,5:
-7:Zu diesem Land gehören drei der 16 deutschen Nationalparks und damit mehr als zu jedem anderen Bundesland:Mecklenburg - Vorpommern:14,9,0:
-8:Wirtschaftlich prägend für das Land ist der Volkswagen - Konzern:Niedersachsen:5,7,1:
-9:Land von Kohle und Stahl war in den 1950er und 1960er Jahren eine Beschreibung für dieses Bundesland:Nordrhein - Westfalen:6,1,11:
-10:Dieses Bundesland gehört zu den waldreichsten Ländern in Deutschland, da die Wälder hier rund 42 Prozent der Landesfläche bedecken.:Rheinland - Pfalz:2,4,12:
