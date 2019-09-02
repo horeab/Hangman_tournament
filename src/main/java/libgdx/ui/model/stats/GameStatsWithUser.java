@@ -1,9 +1,10 @@
 package libgdx.ui.model.stats;
 
 
-import java.util.Objects;
-
 import libgdx.game.model.BaseUserInfo;
+import libgdx.game.model.GameStats;
+
+import java.util.Objects;
 
 public class GameStatsWithUser extends GameStats {
 

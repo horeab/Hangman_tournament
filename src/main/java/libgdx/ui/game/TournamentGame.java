@@ -22,7 +22,7 @@ import libgdx.dbapi.UniqueDbOperationContainer;
 import libgdx.ui.services.dbapi.UsersDbApiService;
 import libgdx.ui.services.game.constants.ConstantsService;
 import libgdx.ui.services.game.livegame.LiveGameService;
-import libgdx.ui.services.login.guest.GuestUserLoginService;
+import libgdx.login.GuestUserLoginService;
 import libgdx.ui.util.DataCreator;
 import libgdx.utils.DateUtils;
 import libgdx.ui.util.TestDataCreator;

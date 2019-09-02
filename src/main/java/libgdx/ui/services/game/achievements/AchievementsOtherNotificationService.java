@@ -1,7 +1,7 @@
 package libgdx.ui.services.game.achievements;
 
+import libgdx.game.model.GameStats;
 import libgdx.ui.constants.game.achievements.AchievementEnum;
-import libgdx.ui.model.stats.GameStats;
 import libgdx.ui.services.dbapi.GameStatsDbApiService;
 
 public class AchievementsOtherNotificationService extends AchievementsNotificationService {

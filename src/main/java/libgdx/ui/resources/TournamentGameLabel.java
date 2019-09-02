@@ -40,8 +40,6 @@ public enum TournamentGameLabel implements libgdx.resources.gamelabel.GameLabel 
     login_logout_guest_info,
     login_stay_connected,
 
-    guest,
-
     level_finished_tournamnet_success_msg1,
     level_finished_tournamnet_success_msg2,
     level_finished_fail_msg1,

@@ -73,7 +73,7 @@ import libgdx.ui.services.listeners.livegame.beforegame.StartGameListener;
 import libgdx.ui.services.listeners.livegame.ingame.GameFinishedListener;
 import libgdx.ui.services.listeners.livegame.ingame.GameInfoChangeListener;
 import libgdx.ui.services.listeners.user.UserExtraInfoListener;
-import libgdx.ui.services.login.guest.GuestUserService;
+import libgdx.login.GuestUserService;
 import libgdx.ui.util.TestDataCreator;
 import libgdx.utils.DateUtils;
 import libgdx.utils.ScreenDimensionsManager;
