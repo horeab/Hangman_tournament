@@ -11,7 +11,7 @@ import libgdx.constants.user.AccountCreationSource;
 import libgdx.ui.model.inventory.UserInventory;
 import libgdx.ui.model.shop.ShopTransaction;
 import libgdx.ui.model.stats.GameStats;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.screens.actionoptions.gamescreens.PracticeOptionsScreen;
 import libgdx.ui.screens.actionoptions.gameconfig.GameConfig;
 import libgdx.ui.model.game.question.Question;

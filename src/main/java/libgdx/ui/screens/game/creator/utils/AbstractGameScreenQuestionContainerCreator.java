@@ -4,7 +4,6 @@ import com.badlogic.gdx.scenes.scene2d.Actor;
 import com.badlogic.gdx.scenes.scene2d.InputEvent;
 import com.badlogic.gdx.scenes.scene2d.actions.Actions;
 import com.badlogic.gdx.scenes.scene2d.actions.RunnableAction;
-import com.badlogic.gdx.scenes.scene2d.ui.Cell;
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import com.badlogic.gdx.scenes.scene2d.utils.ChangeListener;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
@@ -21,13 +20,11 @@ import libgdx.controls.ScreenRunnable;
 import libgdx.ui.controls.button.ButtonSkin;
 import libgdx.ui.controls.button.HintButton;
 import libgdx.controls.button.MyButton;
-import libgdx.ui.controls.game.GameInfoHeaderBuilder;
 import libgdx.ui.model.game.GameAnswerInfo;
 import libgdx.ui.model.game.GameContext;
 import libgdx.ui.model.game.GameQuestionInfo;
-import libgdx.ui.model.game.GameQuestionInfoStatus;
 import libgdx.ui.model.game.GameUser;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.screens.game.creator.QuestionContainerCreatorService;
 import libgdx.ui.screens.game.creator.service.GameControlsService;
 import libgdx.ui.screens.game.creator.service.graphicschange.QuestionFinishedOperationsService;
@@ -38,7 +35,6 @@ import libgdx.ui.screens.game.userinfoheader.PlayerHeaderContainer;
 import libgdx.ui.screens.game.userinfoheader.ScreenPlayerHeaderContainer;
 import libgdx.ui.services.game.gameservice.GameService;
 import libgdx.ui.services.game.gameservice.GameServiceContainer;
-import libgdx.ui.services.gametypes.types.quizgame.submitquestionsgame.service.SubmitQuestionsGameControlsCreatorService;
 
 public abstract class AbstractGameScreenQuestionContainerCreator<TScreen extends AbstractGameScreen, TGameService extends GameService> {
 

@@ -7,7 +7,7 @@ import java.util.List;
 import test.TournamentGameTestDbApiService;
 import libgdx.ui.constants.money.ShopTransactionTypeEnum;
 import libgdx.ui.model.shop.ShopTransaction;
-import libgdx.ui.services.dbapi.UniqueDbOperationContainer;
+import libgdx.dbapi.UniqueDbOperationContainer;
 
 import static org.junit.Assert.assertEquals;
 

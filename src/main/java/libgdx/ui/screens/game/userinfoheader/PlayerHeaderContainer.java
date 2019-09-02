@@ -5,8 +5,7 @@ import com.badlogic.gdx.scenes.scene2d.ui.Table;
 import java.util.ArrayList;
 import java.util.List;
 
-import libgdx.ui.model.user.BaseUserInfo;
-import libgdx.ui.resources.Dimen;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.resources.Resource;
 
 public class PlayerHeaderContainer extends Table {

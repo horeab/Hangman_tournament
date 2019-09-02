@@ -4,6 +4,7 @@ package libgdx.ui.model.user;
 import java.util.HashMap;
 import java.util.Map;
 
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.util.TournamentStage;
 
 public class TournamentUser {

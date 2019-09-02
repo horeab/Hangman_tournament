@@ -18,7 +18,7 @@ import libgdx.resources.FontManager;
 import libgdx.resources.dimen.MainDimen;
 import libgdx.ui.controls.user.UserInfo;
 import libgdx.ui.game.TournamentGame;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.resources.Dimen;
 import libgdx.ui.resources.Resource;
 import libgdx.ui.services.dbapi.UserGamesDbApiService;

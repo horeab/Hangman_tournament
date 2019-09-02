@@ -2,11 +2,10 @@ package libgdx.ui.screens;
 
 import java.util.List;
 
-import libgdx.game.Game;
 import libgdx.screen.ScreenType;
 import libgdx.ui.constants.game.campaign.CampaignLevel;
 import libgdx.ui.game.TournamentGame;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.screens.achievements.AchievementsScreen;
 import libgdx.ui.screens.actionoptions.gameconfig.GameConfig;
 import libgdx.ui.screens.actionoptions.gameconfig.TournamentContext;

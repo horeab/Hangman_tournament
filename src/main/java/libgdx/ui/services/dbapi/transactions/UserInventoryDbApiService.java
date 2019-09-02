@@ -11,10 +11,10 @@ import libgdx.ui.constants.game.DiamondEnum;
 import libgdx.ui.constants.money.ShopTransactionTypeEnum;
 import libgdx.ui.model.inventory.ExperienceWithUser;
 import libgdx.ui.model.inventory.UserInventory;
-import libgdx.ui.services.dbapi.DbApiService;
-import libgdx.ui.services.dbapi.DbApiServiceGet;
-import libgdx.ui.services.dbapi.DbApiServiceSubmit;
-import libgdx.ui.services.dbapi.UniqueDbOperationContainer;
+import libgdx.dbapi.DbApiService;
+import libgdx.dbapi.DbApiServiceGet;
+import libgdx.dbapi.DbApiServiceSubmit;
+import libgdx.dbapi.UniqueDbOperationContainer;
 import libgdx.ui.services.game.diamond.DiamondService;
 import libgdx.utils.Utils;
 

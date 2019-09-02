@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 import libgdx.resources.Res;
 import libgdx.constants.user.AccountCreationSource;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.services.TournamentGameResourceService;
 
 public class UserProfilePictureUrlService {

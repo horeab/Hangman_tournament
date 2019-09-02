@@ -25,7 +25,7 @@ import libgdx.ui.model.game.extrainfo.LiveGameInvite;
 import libgdx.ui.model.game.question.Question;
 import libgdx.ui.model.game.question.QuestionConfig;
 import libgdx.ui.model.game.question.RandomCategoryAndDifficulty;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.screens.AbstractScreen;
 import libgdx.ui.screens.actionoptions.gameconfig.GameConfig;
 import libgdx.ui.screens.game.screens.AbstractGameScreen;

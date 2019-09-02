@@ -5,7 +5,7 @@ import org.junit.Test;
 import test.TournamentGameTestDbApiService;
 import libgdx.constants.user.AccountCreationSource;
 import libgdx.ui.model.stats.GameStats;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import test.services.TestUtils;
 
 import static org.junit.Assert.assertEquals;

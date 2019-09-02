@@ -9,7 +9,7 @@ import libgdx.ui.controls.popup.notificationpopup.ChallengeNotificationPopupCrea
 import libgdx.ui.controls.user.UserInfoContainerCreator;
 import libgdx.ui.model.game.GameAnswerInfo;
 import libgdx.ui.model.game.extrainfo.LiveGameInvite;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.screens.AbstractScreen;
 import libgdx.ui.screens.actionoptions.gameconfig.GameConfig;
 import libgdx.ui.screens.game.screens.AbstractGameScreen;

@@ -9,7 +9,7 @@ import org.apache.commons.lang3.mutable.MutableFloat;
 
 import libgdx.ui.game.TournamentGame;
 import libgdx.controls.label.MyWrappedLabel;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.resources.Resource;
 import libgdx.graphics.GraphicUtils;
 

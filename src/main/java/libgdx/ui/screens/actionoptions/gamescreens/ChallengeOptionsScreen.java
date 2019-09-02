@@ -6,7 +6,7 @@ import libgdx.ui.game.TournamentGame;
 import libgdx.ui.constants.game.GameType;
 import libgdx.ui.constants.game.GameTypeStage;
 import libgdx.ui.model.game.LiveGame;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.screens.actionoptions.OptionsScreen;
 import libgdx.ui.screens.actionoptions.gameconfig.GameConfig;
 import libgdx.ui.services.game.StartScreenWithCoinsService;

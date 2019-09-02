@@ -2,7 +2,7 @@ package libgdx.ui.model.game.extrainfo;
 
 import java.util.Objects;
 
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.screens.actionoptions.gameconfig.GameConfig;
 import libgdx.ui.model.game.question.Question;
 

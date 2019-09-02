@@ -7,7 +7,7 @@ import java.util.List;
 import libgdx.resources.dimen.MainDimen;
 import libgdx.ui.controls.labelimage.prize.WinLevelUpPrizeLabelImage;
 import libgdx.ui.controls.user.UserInfoContainerConfig;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.resources.TournamentGameLabel;
 import libgdx.ui.screens.levelfinished.UsersWithLevelFinished;
 import libgdx.ui.model.game.GameContext;

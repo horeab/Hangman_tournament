@@ -10,7 +10,7 @@ import libgdx.ui.game.TournamentGame;
 import libgdx.ui.constants.game.campaign.CampaignLevel;
 import libgdx.ui.constants.money.ShopTransactionTypeEnum;
 import libgdx.controls.ScreenRunnable;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.screens.AbstractScreen;
 import libgdx.ui.screens.actionoptions.NotEnoughCoinsOptionsPopup;
 import libgdx.ui.screens.actionoptions.gameconfig.GameConfig;

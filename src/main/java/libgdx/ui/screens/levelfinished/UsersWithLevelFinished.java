@@ -3,7 +3,7 @@ package libgdx.ui.screens.levelfinished;
 import java.util.ArrayList;
 import java.util.List;
 
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.model.game.GameUser;
 
 public class UsersWithLevelFinished {

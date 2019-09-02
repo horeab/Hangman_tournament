@@ -2,7 +2,7 @@ package libgdx.ui.model.inventory;
 
 import java.util.Objects;
 
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 
 public class ExperienceWithUser {
 

@@ -1,5 +1,7 @@
 package libgdx.ui.services.dbapi;
 
+import libgdx.dbapi.DbApiService;
+
 public class UtilDbService extends DbApiService {
 
     @Override

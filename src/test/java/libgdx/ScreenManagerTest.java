@@ -16,7 +16,7 @@ import libgdx.constants.user.AccountCreationSource;
 import libgdx.ui.model.game.GameContextService;
 import libgdx.ui.model.game.LiveGame;
 import libgdx.ui.model.game.question.QuestionConfig;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.screens.AbstractScreen;
 import libgdx.ui.screens.achievements.AchievementsScreen;
 import libgdx.ui.screens.actionoptions.gameconfig.GameConfig;

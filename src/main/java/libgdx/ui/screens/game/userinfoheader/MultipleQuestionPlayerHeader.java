@@ -5,7 +5,7 @@ import com.badlogic.gdx.scenes.scene2d.ui.Image;
 import java.util.List;
 
 import libgdx.ui.game.TournamentGame;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.resources.Resource;
 import libgdx.graphics.GraphicUtils;
 import libgdx.utils.SoundUtils;

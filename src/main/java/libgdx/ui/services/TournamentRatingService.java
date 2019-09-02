@@ -7,7 +7,7 @@ import libgdx.controls.button.MyButton;
 import libgdx.controls.popup.RatingPopup;
 import libgdx.controls.popup.RatingService;
 import libgdx.ui.controls.button.builders.FacebookShareButtonBuilder;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.screens.AbstractScreen;
 
 public class TournamentRatingService extends RatingService<AbstractScreen> {

@@ -9,8 +9,8 @@ import test.TournamentGameTestDbApiService;
 import libgdx.ui.constants.money.ShopTransactionTypeEnum;
 import libgdx.constants.user.AccountCreationSource;
 import libgdx.ui.model.inventory.ExperienceWithUser;
-import libgdx.ui.model.user.BaseUserInfo;
-import libgdx.ui.services.dbapi.UniqueDbOperationContainer;
+import libgdx.game.model.BaseUserInfo;
+import libgdx.dbapi.UniqueDbOperationContainer;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNull;

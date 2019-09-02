@@ -1,7 +1,7 @@
 package libgdx.ui.services.listeners;
 
 import libgdx.ui.screens.AbstractScreen;
-import libgdx.ui.services.dbapi.DbApiService;
+import libgdx.dbapi.DbApiService;
 
 public abstract class ListenerValueChange<TScreen extends AbstractScreen, TDbApiService extends DbApiService> extends Listener<TScreen> {
 

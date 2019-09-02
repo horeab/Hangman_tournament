@@ -12,10 +12,10 @@ import java.util.Map;
 
 import libgdx.ui.constants.money.ShopTransactionTypeEnum;
 import libgdx.ui.model.shop.ShopTransaction;
-import libgdx.ui.services.dbapi.DbApiService;
-import libgdx.ui.services.dbapi.DbApiServiceGet;
-import libgdx.ui.services.dbapi.DbApiServiceSubmit;
-import libgdx.ui.services.dbapi.UniqueDbOperationContainer;
+import libgdx.dbapi.DbApiService;
+import libgdx.dbapi.DbApiServiceGet;
+import libgdx.dbapi.DbApiServiceSubmit;
+import libgdx.dbapi.UniqueDbOperationContainer;
 import libgdx.ui.services.game.ShopTransactionNotificationService;
 import libgdx.utils.DateUtils;
 import libgdx.utils.Utils;

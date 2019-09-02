@@ -16,7 +16,7 @@ import libgdx.controls.label.MyWrappedLabelConfigBuilder;
 import libgdx.ui.controls.popup.ExitGamePopup;
 import libgdx.ui.controls.userstatusbar.UserStatusBar;
 import libgdx.ui.model.game.LiveGame;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.resources.TournamentGameLabel;
 import libgdx.ui.screens.AbstractScreen;
 import libgdx.ui.screens.actionoptions.gameconfig.ScreenWithGameContext;
@@ -24,7 +24,6 @@ import libgdx.ui.services.game.StartScreenWithCoinsService;
 import libgdx.ui.model.game.GameContext;
 import libgdx.ui.services.game.livegame.LiveGameService;
 import libgdx.ui.services.listeners.livegame.beforegame.AcceptLiveGameListener;
-import libgdx.utils.ActorPositionManager;
 import libgdx.utils.ScreenDimensionsManager;
 
 public class WaitingForOtherUserScreen extends AbstractScreen implements ScreenWithGameContext {

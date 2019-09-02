@@ -6,7 +6,7 @@ import com.badlogic.gdx.utils.Align;
 
 import libgdx.ui.controls.ProfilePictureComponents;
 import libgdx.controls.label.MyWrappedLabel;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.resources.Dimen;
 import libgdx.resources.FontManager;
 

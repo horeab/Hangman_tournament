@@ -1,6 +1,6 @@
 package test.services;
 
-import libgdx.ui.services.dbapi.DbApiService;
+import libgdx.dbapi.DbApiService;
 
 public class TestUtils {
 

@@ -40,7 +40,7 @@ import libgdx.ui.implementations.games.scoalasofer.questionconfig.ScoalaSoferQue
 import libgdx.ui.model.game.GameUser;
 import libgdx.ui.model.game.question.Question;
 import libgdx.ui.model.game.question.QuestionConfig;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.resources.TournamentGameLabel;
 import libgdx.ui.screens.actionoptions.gameconfig.GameConfig;
 import libgdx.ui.screens.mainmenu.popup.rewards.RewardsService;

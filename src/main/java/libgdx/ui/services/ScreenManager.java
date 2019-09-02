@@ -4,7 +4,7 @@ import java.util.List;
 
 import libgdx.screen.AbstractScreenManager;
 import libgdx.ui.constants.game.campaign.CampaignLevel;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.screens.ScreenTypeEnum;
 import libgdx.ui.screens.actionoptions.gameconfig.GameConfig;
 import libgdx.ui.screens.actionoptions.gameconfig.TournamentContext;

@@ -3,11 +3,10 @@ package libgdx.ui.model.game;
 import java.util.ArrayList;
 import java.util.List;
 
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.model.game.question.Question;
 import libgdx.ui.screens.actionoptions.gameconfig.GameConfig;
 import libgdx.ui.services.gametypes.creatordependencies.CreatorDependenciesContainer;
-import libgdx.ui.services.questions.QuestionCreator;
 import libgdx.ui.services.questions.RandomQuestionCreatorService;
 
 public class GameContextService {

@@ -5,272 +5,85 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6ea6f760-daf5-4b48-be3d-cd10c980e37e" name="Default" comment="hangman tournament fixes">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_javassist_javassist_3_18_2_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_all_1_10_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_powermock_powermock_api_support_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_powermock_powermock_classloading_base_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_powermock_powermock_core_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_powermock_powermock_module_javaagent_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_powermock_powermock_module_junit4_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_powermock_powermock_module_junit4_common_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_powermock_powermock_module_junit4_rule_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_powermock_powermock_module_junit4_rule_agent_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_powermock_powermock_reflect_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_cs.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_el.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_fi.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_hi.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_hr.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_id.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_ja.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_ko.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_ms.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_no.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_ru.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_sk.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_sv.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_th.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_uk.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_vi.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_zh.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_powermock_powermock_api_mockito_1_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_powermock_powermock_api_mockito_1_6_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Hangman_tournament_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Hangman_tournament_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Hangman_tournament_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Hangman_tournament_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/test.controls_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/test.controls_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/test.controls_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/test.controls_test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/resourceBundles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/resourceBundles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/DbApiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/DbApiServiceGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/DbApiServiceSubmit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/GameStatsDbApiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/UniqueDbOperationContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/UsersDbApiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/game/model/BaseUserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/game/model/GameStats.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/da/diff0/questions_diff0_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/da/diff0/questions_diff0_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/da/diff0/questions_diff0_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/da/diff0/questions_diff0_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/da/diff1/questions_diff1_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/da/diff1/questions_diff1_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/da/diff1/questions_diff1_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/da/diff1/questions_diff1_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/da/diff2/questions_diff2_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/da/diff2/questions_diff2_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/da/diff2/questions_diff2_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/da/diff2/questions_diff2_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/da/diff3/questions_diff3_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/da/diff3/questions_diff3_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/da/diff3/questions_diff3_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/da/diff3/questions_diff3_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/de/diff0/questions_diff0_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/de/diff0/questions_diff0_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/de/diff3/questions_diff3_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/de/diff3/questions_diff3_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/de/diff3/questions_diff3_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/de/diff3/questions_diff3_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/es/diff0/questions_diff0_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/es/diff0/questions_diff0_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/es/diff0/questions_diff0_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/es/diff0/questions_diff0_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/es/diff1/questions_diff1_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/es/diff1/questions_diff1_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/es/diff2/questions_diff2_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/es/diff2/questions_diff2_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/es/diff3/questions_diff3_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/es/diff3/questions_diff3_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/es/diff3/questions_diff3_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/es/diff3/questions_diff3_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/fr/diff0/questions_diff0_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/fr/diff0/questions_diff0_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/fr/diff0/questions_diff0_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/fr/diff0/questions_diff0_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/fr/diff1/questions_diff1_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/fr/diff1/questions_diff1_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/fr/diff2/questions_diff2_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/fr/diff2/questions_diff2_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/fr/diff3/questions_diff3_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/fr/diff3/questions_diff3_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/hu/diff0/questions_diff0_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/hu/diff0/questions_diff0_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/hu/diff0/questions_diff0_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/hu/diff0/questions_diff0_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/hu/diff1/questions_diff1_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/hu/diff1/questions_diff1_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/hu/diff1/questions_diff1_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/hu/diff1/questions_diff1_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/hu/diff2/questions_diff2_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/hu/diff2/questions_diff2_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/hu/diff2/questions_diff2_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/hu/diff2/questions_diff2_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/hu/diff3/questions_diff3_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/hu/diff3/questions_diff3_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/hu/diff3/questions_diff3_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/hu/diff3/questions_diff3_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/it/diff0/questions_diff0_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/it/diff0/questions_diff0_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/it/diff0/questions_diff0_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/it/diff0/questions_diff0_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/it/diff1/questions_diff1_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/it/diff1/questions_diff1_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/it/diff2/questions_diff2_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/it/diff2/questions_diff2_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/it/diff2/questions_diff2_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/it/diff2/questions_diff2_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/it/diff3/questions_diff3_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/it/diff3/questions_diff3_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/it/diff3/questions_diff3_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/it/diff3/questions_diff3_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/nl/diff0/questions_diff0_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/nl/diff0/questions_diff0_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/nl/diff1/questions_diff1_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/nl/diff1/questions_diff1_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/nl/diff1/questions_diff1_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/nl/diff1/questions_diff1_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/nl/diff2/questions_diff2_cat3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/nl/diff2/questions_diff2_cat3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/nl/diff2/questions_diff2_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/nl/diff2/questions_diff2_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/nl/diff3/questions_diff3_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/nl/diff3/questions_diff3_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/nl/diff3/questions_diff3_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/nl/diff3/questions_diff3_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pl/diff0/questions_diff0_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pl/diff0/questions_diff0_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pl/diff1/questions_diff1_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pl/diff1/questions_diff1_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pl/diff1/questions_diff1_cat1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pl/diff1/questions_diff1_cat1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pl/diff1/questions_diff1_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pl/diff1/questions_diff1_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pl/diff2/questions_diff2_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pl/diff2/questions_diff2_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pl/diff2/questions_diff2_cat1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pl/diff2/questions_diff2_cat1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pl/diff2/questions_diff2_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pl/diff2/questions_diff2_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pl/diff3/questions_diff3_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pl/diff3/questions_diff3_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pl/diff3/questions_diff3_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pl/diff3/questions_diff3_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff0/questions_diff0_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff0/questions_diff0_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff0/questions_diff0_cat1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff0/questions_diff0_cat1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff0/questions_diff0_cat3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff0/questions_diff0_cat3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff0/questions_diff0_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff0/questions_diff0_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff1/questions_diff1_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff1/questions_diff1_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff1/questions_diff1_cat1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff1/questions_diff1_cat1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff1/questions_diff1_cat2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff1/questions_diff1_cat2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff1/questions_diff1_cat3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff1/questions_diff1_cat3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff1/questions_diff1_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff1/questions_diff1_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff2/questions_diff2_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff2/questions_diff2_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff2/questions_diff2_cat1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff2/questions_diff2_cat1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff2/questions_diff2_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff2/questions_diff2_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff3/questions_diff3_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff3/questions_diff3_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff3/questions_diff3_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/pt/diff3/questions_diff3_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/ro/diff0/questions_diff0_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/ro/diff0/questions_diff0_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/ro/diff1/questions_diff1_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/ro/diff1/questions_diff1_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/ro/diff1/questions_diff1_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/ro/diff1/questions_diff1_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/ro/diff2/questions_diff2_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/ro/diff2/questions_diff2_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/ro/diff2/questions_diff2_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/ro/diff2/questions_diff2_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/ro/diff3/questions_diff3_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/ro/diff3/questions_diff3_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/ro/diff3/questions_diff3_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/ro/diff3/questions_diff3_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/tr/diff0/questions_diff0_cat0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/tr/diff0/questions_diff0_cat0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/tr/diff0/questions_diff0_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/tr/diff0/questions_diff0_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/tr/diff1/questions_diff1_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/tr/diff1/questions_diff1_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/tr/diff2/questions_diff2_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/tr/diff2/questions_diff2_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/tr/diff3/questions_diff3_cat4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/tournament_resources/implementations/geoquiz/questions/tr/diff3/questions_diff3_cat4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/libgdx/GameLabelTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/libgdx/ScreenManagerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/services/services/GeoQuizGameServiceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/services/services/GeoQuizGameServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/TournamentGameTestDbApiService$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/TournamentGameTestDbApiService$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/TournamentGameTestDbApiService$AppInfoServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/TournamentGameTestDbApiService$LoginServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/TournamentGameTestDbApiService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/controls/ScreenRunnabelTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/controls/ScreenRunnabelTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/controls/ScreenRunnabelTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/controls/SimulatedOpponentQuestionContainerCreatorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/LiveGameTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/TestUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/dbapi/CampaignDbApiServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/dbapi/GameStatsDbApiServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/dbapi/LiveGameDbApiServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/dbapi/ShopTransactionsDbApiServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/dbapi/UserGamesDbApiServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/dbapi/UserInventoryDbApiServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/dbapi/UsersDbApiServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/dbapi/service/TestCampaignDbApiService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/dbapi/service/TestConstantsDbApiService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/dbapi/service/TestGameStatsDbApiService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/dbapi/service/TestLiveGameDbApiService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/dbapi/service/TestShopTransactionsDbApiService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/dbapi/service/TestUserGamesDbApiService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/dbapi/service/TestUserInventoryDbApiService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/dbapi/service/TestUsersDbApiService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/listeners/GameFinishedListenerTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/listeners/GameFinishedListenerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/listeners/GameInfoChangeListenerTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/listeners/GameInfoChangeListenerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/listeners/ListenerValueChangeTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/listeners/ListenerValueChangeTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/listeners/ListenerValueChangeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/listeners/ListenerValueMetTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/listeners/ListenerValueMetTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/listeners/UserExtraInfoListenerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/AchievementsServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/CampaignLevelEnumServiceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/CampaignLevelEnumServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/CampaignServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/ConstantsServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/DateUtilsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/DiamondServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/GameContextServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/GameTransactionsServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/LevelFinishedScreenServiceFactoryTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/LevelFinishedServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/LiveGameAnswerUpdateServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/LiveGameServiceAllListenersTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/LiveGameServiceAllListenersTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/LiveGameServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/OpponentHeaderAnimationServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/PopupManagerTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/PopupManagerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/QuestionCreatorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/RewardsServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/ScoalaSoferQuestionParser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/ScoalaSoferStarsServiceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/ScoalaSoferStarsServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/StarsServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/TournamentServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/UserExperienceServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/UserExtraInfoServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/AnatomyGameServiceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/AnatomyGameServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/AnimalsGameServiceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/AnimalsGameServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/BundesDeGameServiceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/BundesDeGameServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/CapitalsGameServiceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/CapitalsGameServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/CentenarGameServiceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/CentenarGameServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/ContHistoryEurGameServiceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/ContHistoryEurGameServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/CunRoGameServiceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/CunRoGameServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/FlagsGameServiceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/FlagsGameServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/GameServiceTest$1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/GameServiceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/GameServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/GeoQuizGameServiceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/GeoQuizGameServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/HangmanGameServiceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/HangmanGameServiceTest$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/HangmanGameServiceTest$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/HangmanGameServiceTest$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/HangmanGameServiceTest$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/HangmanGameServiceTest$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/HangmanGameServiceTest$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/HangmanGameServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/JudeteleRomGameServiceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/JudeteleRomGameServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/PaintingsGameServiceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/PaintingsGameServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/ScoalaSoferGameServiceTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/test/services/services/gameservice/ScoalaSoferGameServiceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/backgrounds/campaign_screen_background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/backgrounds/popup_background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/backgrounds/transparent_background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/buttons/btn_back_down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/buttons/btn_back_up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/buttons/btn_lowcolor_down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/buttons/btn_lowcolor_up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/buttons/btn_menu_down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/buttons/btn_menu_up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/buttons/btn_settings_down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/buttons/btn_settings_up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/general/background_texture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/general/error.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/general/magnify_glass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/general/play.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/general/remove.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/general/skip.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/general/splashtitle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/labels/main_labels_da.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/labels/main_labels_de.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/labels/main_labels_en.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/labels/main_labels_es.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/labels/main_labels_fr.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/labels/main_labels_hu.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/labels/main_labels_it.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/labels/main_labels_nl.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/labels/main_labels_pl.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/labels/main_labels_pt.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/labels/main_labels_ro.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/labels/main_labels_tr.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/skin/big_font.fnt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/skin/big_font1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/skin/big_font2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/skin/big_font3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/skin/btn_texture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/skin/font.fnt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/skin/font.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/skin/skin.atlas" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/main_resources/main/skin/skin.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/tournament_resources/implementations/geoquiz/labels/labels.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/implementations/geoquiz/labels/labels.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_es.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_es.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_hu.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_hu.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_it.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_it.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_ro.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_ro.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LibGdxControls/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../LibGdxControls/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/controls/ProfilePictureComponents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/controls/ProfilePictureComponents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/controls/button/builders/FacebookShareButtonBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/controls/button/builders/FacebookShareButtonBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/controls/labelimage/prize/WinLevelUpPrizeLabelImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/controls/labelimage/prize/WinLevelUpPrizeLabelImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/controls/user/UserInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/controls/user/UserInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/controls/user/UserInfoContainerCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/controls/user/UserInfoContainerCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/game/TournamentGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/game/TournamentGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/model/game/GameContextService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/model/game/GameContextService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/model/game/GameUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/model/game/GameUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/model/game/extrainfo/LiveGameInvite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/model/game/extrainfo/LiveGameInvite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/model/inventory/ExperienceWithUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/model/inventory/ExperienceWithUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/model/stats/GameStatsWithUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/model/stats/GameStatsWithUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/model/user/BaseUserInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/model/user/TournamentUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/model/user/TournamentUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/AbstractScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/AbstractScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/ScreenTypeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/ScreenTypeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/actionoptions/gamescreens/ChallengeOptionsScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/actionoptions/gamescreens/ChallengeOptionsScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/actionoptions/gamescreens/PracticeOptionsScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/actionoptions/gamescreens/PracticeOptionsScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/game/creator/utils/AbstractGameScreenQuestionContainerCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/game/creator/utils/AbstractGameScreenQuestionContainerCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/game/userinfoheader/MultipleQuestionPlayerHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/game/userinfoheader/MultipleQuestionPlayerHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/game/userinfoheader/PlayerHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/game/userinfoheader/PlayerHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/game/userinfoheader/PlayerHeaderBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/game/userinfoheader/PlayerHeaderBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/game/userinfoheader/PlayerHeaderContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/game/userinfoheader/PlayerHeaderContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/game/userinfoheader/SingleQuestionPlayerHeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/game/userinfoheader/SingleQuestionPlayerHeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/leaderboard/LeaderboardScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/leaderboard/LeaderboardScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/levelfinished/UsersWithLevelFinished.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/levelfinished/UsersWithLevelFinished.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/levelfinished/challenge/LevelFinishedChallengeCurrentUserWinScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/levelfinished/challenge/LevelFinishedChallengeCurrentUserWinScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/livegame/SearchUserScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/livegame/SearchUserScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/livegame/WaitingForOtherUserScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/livegame/WaitingForOtherUserScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/tournament/NewTournamentOnlineScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/tournament/NewTournamentOnlineScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/tournament/creator/TournamentLoadingScreenCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/tournament/creator/TournamentLoadingScreenCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/ScreenManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/ScreenManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/TournamentRatingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/TournamentRatingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/CampaignDbApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/CampaignDbApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/ConstantsDbApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/ConstantsDbApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/DbApiService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/DbApiServiceGet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/DbApiServiceSubmit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/GameStatsDbApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/GameStatsDbApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/LiveGameDbApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/LiveGameDbApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/UniqueDbOperationContainer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/UserGamesDbApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/UserGamesDbApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/UsersDbApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/UsersDbApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/UtilDbService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/UtilDbService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/transactions/ShopTransactionsDbApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/transactions/ShopTransactionsDbApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/transactions/UserInventoryDbApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/transactions/UserInventoryDbApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/game/StartScreenWithCoinsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/game/StartScreenWithCoinsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/game/UserProfilePictureUrlService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/game/UserProfilePictureUrlService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/game/constants/ConstantsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/game/constants/ConstantsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/game/livegame/LiveGameActionsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/game/livegame/LiveGameActionsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/game/livegame/LiveGameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/game/livegame/LiveGameService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/listeners/ListenerValueChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/listeners/ListenerValueChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/listeners/ListenerValueMet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/listeners/ListenerValueMet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/tournament/CreateTournamentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/tournament/CreateTournamentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/tournament/TournamentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/services/tournament/TournamentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/util/DataCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/util/DataCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/util/TestDataCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/util/TestDataCreator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/libgdx/ui/util/TestDataCreatorUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/libgdx/ui/util/TestDataCreatorUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/libgdx/ScreenManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/libgdx/ScreenManagerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/TournamentGameTestDbApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/TournamentGameTestDbApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/services/TestUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/services/TestUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/services/dbapi/GameStatsDbApiServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/services/dbapi/GameStatsDbApiServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/services/dbapi/ShopTransactionsDbApiServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/services/dbapi/ShopTransactionsDbApiServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/services/dbapi/UserInventoryDbApiServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/services/dbapi/UserInventoryDbApiServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/services/dbapi/UsersDbApiServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/services/dbapi/UsersDbApiServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/services/services/LevelFinishedServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/services/services/LevelFinishedServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/services/services/LiveGameServiceAllListenersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/services/services/LiveGameServiceAllListenersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/DbApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/DbApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/DbApiServiceGet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/DbApiServiceGet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/DbApiServiceSubmit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/DbApiServiceSubmit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/UniqueDbOperationContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/UniqueDbOperationContainer.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -356,26 +169,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/test/java/main/TestMain.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/UsersDbApiService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="238">
+              <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/game/Game.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/GameStatsDbApiService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1717">
-              <caret line="134" column="19" selection-start-line="134" selection-start-column="19" selection-end-line="134" selection-end-column="19" />
-              <folding>
-                <element signature="e#4451#4452#0" expanded="true" />
-                <element signature="e#4486#4487#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="221">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/GameStatsDbApiService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/game/model/GameStats.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/libgdx/ui/model/stats/GameStatsWithUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/UsersDbApiService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -492,19 +334,11 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../LibGdxControls" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/livegame/PlayerVersusPlayerScreen.java" />
-        <option value="$PROJECT_DIR$/src/main/java/libgdx/ui/controls/user/UserInfoContainerCreator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/mainmenu/popup/ForceUpdatePopup.java" />
-        <option value="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/controls/button/ButtonBuilder.java" />
-        <option value="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/controls/button/builders/ButtonWithIconBuilder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/libgdx/ui/screens/mainmenu/popup/SettingsPopup.java" />
-        <option value="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/resources/gamelabel/MainGameLabel.java" />
-        <option value="$PROJECT_DIR$/../LibGdxControls/src/main/resources/main_resources/main/labels/main_labels_cs.properties" />
         <option value="$PROJECT_DIR$/../LibGdxControls/src/main/resources/main_resources/main/labels/main_labels_el.properties" />
         <option value="$PROJECT_DIR$/../LibGdxControls/src/main/resources/main_resources/main/labels/main_labels_fi.properties" />
         <option value="$PROJECT_DIR$/../LibGdxControls/src/main/resources/main_resources/main/labels/main_labels_hi.properties" />
@@ -548,6 +382,14 @@
         <option value="$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_hu.properties" />
         <option value="$PROJECT_DIR$/../LibGdxControls/build.gradle" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/game/model/BaseUserInfo.java" />
+        <option value="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/DbApiService.java" />
+        <option value="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/UsersDbApiService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/UsersDbApiService.java" />
+        <option value="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/game/model/GameStats.java" />
+        <option value="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/UniqueDbOperationContainer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/GameStatsDbApiService.java" />
+        <option value="$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/GameStatsDbApiService.java" />
       </list>
     </option>
   </component>
@@ -557,8 +399,8 @@
     </enabled-run-configurations>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="67" />
-    <option name="y" value="-19" />
+    <option name="x" value="65" />
+    <option name="y" value="-20" />
     <option name="width" value="1920" />
     <option name="height" value="1030" />
   </component>
@@ -715,7 +557,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -778,6 +619,59 @@
               <item name="libgdx" type="462c0819:PsiDirectoryNode" />
               <item name="ui" type="462c0819:PsiDirectoryNode" />
               <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hangman_tournament" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hangman_tournament" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="libgdx" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hangman_tournament" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hangman_tournament" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="libgdx" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="stats" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hangman_tournament" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hangman_tournament" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="libgdx" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hangman_tournament" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hangman_tournament" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="libgdx" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hangman_tournament" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hangman_tournament" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="libgdx" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="dbapi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Hangman_tournament" type="b2602c69:ProjectViewProjectNode" />
@@ -884,6 +778,55 @@
               <item name="Hangman_tournament" type="b2602c69:ProjectViewProjectNode" />
               <item name="LibGdxControls" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hangman_tournament" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibGdxControls" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hangman_tournament" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibGdxControls" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="libgdx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hangman_tournament" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibGdxControls" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="libgdx" type="462c0819:PsiDirectoryNode" />
+              <item name="dbapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hangman_tournament" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibGdxControls" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="libgdx" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hangman_tournament" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibGdxControls" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="libgdx" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Hangman_tournament" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LibGdxControls" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -905,12 +848,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="Git re&#9;ACTION&#9;Git.Init&#10;Share&#9;ACTION&#9;Github.Share&#10;share&#9;ACTION&#9;Github.Share&#10;git&#9;ACTION&#9;Git.Init&#10;Git&#9;ACTION&#9;Git.Init&#10;plugins&#9;ACTION&#9;WelcomeScreen.Plugins" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565560822247" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567431041576" />
     <property name="extract.method.default.visibility" value="protected" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -1167,8 +1111,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24362417" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25033557" />
       <window_info id="Structure" order="1" weight="0.25586355" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -1377,102 +1322,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/resources/main_resources/main/labels/main_labels_id.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/resources/main_resources/main/labels/main_labels_ja.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/resources/main_resources/main/labels/main_labels_ko.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/resources/main_resources/main/labels/main_labels_ms.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/resources/main_resources/main/labels/main_labels_no.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/resources/main_resources/main/labels/main_labels_ru.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/resources/main_resources/main/labels/main_labels_sk.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/resources/main_resources/main/labels/main_labels_sv.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/resources/main_resources/main/labels/main_labels_th.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/resources/main_resources/main/labels/main_labels_uk.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/resources/main_resources/main/labels/main_labels_vi.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/resources/main_resources/main/labels/main_labels_zh.properties">
-      <provider editor-type-id="ResourceBundle" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/resources/main_resources/main/labels/main_labels_hi.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/DbApiService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
@@ -1685,13 +1538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/tournament_resources/implementations/geoquiz/labels/labels.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="154" column="46" selection-start-line="154" selection-start-column="46" selection-end-line="154" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/tournament_resources/main/labels/labels_zh.properties">
       <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
@@ -1742,9 +1588,10 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/achievements/Achievement.java" />
     <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/test/java/main/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="238">
           <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1754,12 +1601,103 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/game/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1717">
-          <caret line="134" column="19" selection-start-line="134" selection-start-column="19" selection-end-line="134" selection-end-column="19" />
+        <state relative-caret-position="1377">
+          <caret line="98" column="13" selection-start-line="98" selection-start-column="13" selection-end-line="98" selection-end-column="13" />
           <folding>
             <element signature="e#4451#4452#0" expanded="true" />
             <element signature="e#4486#4487#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/tournament_resources/implementations/geoquiz/labels/labels.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="150" column="38" lean-forward="true" selection-start-line="150" selection-start-column="38" selection-end-line="150" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/game/model/BaseUserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/DbApiServiceGet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/DbApiServiceSubmit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/DbApiService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/UsersDbApiService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/libgdx/ui/model/stats/GameStatsWithUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/libgdx/ui/model/stats/GameStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/game/model/GameStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/UniqueDbOperationContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="56" lean-forward="true" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../LibGdxControls/src/main/java/libgdx/dbapi/GameStatsDbApiService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/UsersDbApiService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/libgdx/ui/services/dbapi/GameStatsDbApiService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>

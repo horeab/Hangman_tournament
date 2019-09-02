@@ -1,6 +1,6 @@
 package libgdx.ui.util;
 
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.services.dbapi.UsersDbApiService;
 import libgdx.utils.InternetUtils;
 

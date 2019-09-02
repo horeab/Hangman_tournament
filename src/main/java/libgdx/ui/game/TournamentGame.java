@@ -2,8 +2,6 @@ package libgdx.ui.game;
 
 import com.google.gson.Gson;
 
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 import libgdx.ui.constants.game.GameIdEnum;
@@ -13,23 +11,19 @@ import libgdx.game.external.BillingService;
 import libgdx.game.external.FacebookService;
 import libgdx.game.external.LoginService;
 import libgdx.ui.implementations.config.dependecies.TournamentGameDependencyManager;
-import libgdx.ui.implementations.games.geoquiz.questionconfig.GeoQuizCampaignLevelEnum;
 import libgdx.ui.model.game.GameContext;
 import libgdx.ui.model.game.GameUser;
 import libgdx.ui.model.game.question.Question;
-import libgdx.ui.model.user.BaseUserInfo;
-import libgdx.ui.model.user.TournamentUser;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.screens.AbstractScreen;
 import libgdx.ui.screens.actionoptions.gameconfig.GameConfig;
-import libgdx.ui.screens.actionoptions.gameconfig.TournamentContext;
 import libgdx.ui.services.ScreenManager;
-import libgdx.ui.services.dbapi.UniqueDbOperationContainer;
+import libgdx.dbapi.UniqueDbOperationContainer;
 import libgdx.ui.services.dbapi.UsersDbApiService;
 import libgdx.ui.services.game.constants.ConstantsService;
 import libgdx.ui.services.game.livegame.LiveGameService;
 import libgdx.ui.services.login.guest.GuestUserLoginService;
 import libgdx.ui.util.DataCreator;
-import libgdx.ui.util.TournamentStage;
 import libgdx.utils.DateUtils;
 import libgdx.ui.util.TestDataCreator;
 

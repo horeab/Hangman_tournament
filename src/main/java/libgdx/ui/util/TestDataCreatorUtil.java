@@ -6,7 +6,7 @@ import java.util.List;
 import libgdx.constants.user.AccountCreationSource;
 import libgdx.ui.constants.game.GameIdEnum;
 import libgdx.ui.game.TournamentGame;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 
 public class TestDataCreatorUtil {
 

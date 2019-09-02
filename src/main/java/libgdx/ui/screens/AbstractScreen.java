@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import libgdx.ui.game.TournamentGame;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.services.ScreenManager;
 import libgdx.ui.services.dbapi.GameStatsDbApiService;
 import libgdx.ui.services.dbapi.LiveGameDbApiService;

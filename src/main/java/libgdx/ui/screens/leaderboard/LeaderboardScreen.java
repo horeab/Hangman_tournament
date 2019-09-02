@@ -11,7 +11,7 @@ import libgdx.resources.dimen.MainDimen;
 import libgdx.ui.controls.user.UserInfo;
 import libgdx.ui.controls.userstatusbar.UserStatusBar;
 import libgdx.ui.model.inventory.ExperienceWithUser;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.resources.Dimen;
 import libgdx.ui.resources.Resource;
 import libgdx.ui.screens.AbstractScreen;

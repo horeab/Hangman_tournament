@@ -3,7 +3,7 @@ package libgdx.ui.model.stats;
 
 import java.util.Objects;
 
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 
 public class GameStatsWithUser extends GameStats {
 

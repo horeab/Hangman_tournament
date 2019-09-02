@@ -3,14 +3,12 @@ package libgdx.ui.services.game.livegame;
 
 import com.google.gson.Gson;
 
-import org.apache.commons.lang3.math.NumberUtils;
-
 import libgdx.ui.game.TournamentGame;
 import libgdx.ui.constants.game.LiveGameStatusEnum;
 import libgdx.ui.model.game.LiveGame;
 import libgdx.ui.model.game.extrainfo.ExtraInfoItem;
 import libgdx.ui.model.game.extrainfo.LiveGameInvite;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.screens.AbstractScreen;
 import libgdx.ui.screens.actionoptions.gameconfig.GameConfig;
 import libgdx.ui.services.dbapi.LiveGameDbApiService;

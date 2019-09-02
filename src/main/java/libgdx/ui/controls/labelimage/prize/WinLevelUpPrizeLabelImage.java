@@ -2,12 +2,11 @@ package libgdx.ui.controls.labelimage.prize;
 
 import com.badlogic.gdx.scenes.scene2d.ui.Table;
 
-import libgdx.controls.label.MyWrappedLabel;
 import libgdx.controls.label.MyWrappedLabelConfigBuilder;
 import libgdx.controls.labelimage.InventoryLabelImageBuilder;
 import libgdx.ui.constants.game.GameTypeStage;
 import libgdx.ui.constants.overridable.TransactionAmountEnum;
-import libgdx.ui.services.dbapi.UniqueDbOperationContainer;
+import libgdx.dbapi.UniqueDbOperationContainer;
 import libgdx.ui.services.game.diamond.DiamondService;
 
 public class WinLevelUpPrizeLabelImage extends LevelUpPrizeLabelImage {

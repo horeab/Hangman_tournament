@@ -27,7 +27,7 @@ import libgdx.controls.label.MyWrappedLabel;
 import libgdx.ui.controls.labelimage.prize.IfLevelUpPrizeLabelImage;
 import libgdx.ui.model.game.GameContext;
 import libgdx.ui.model.game.GameContextService;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.model.user.TournamentUser;
 import libgdx.ui.resources.Dimen;
 import libgdx.ui.resources.TournamentGameLabel;

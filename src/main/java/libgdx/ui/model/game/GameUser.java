@@ -4,9 +4,8 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Objects;
 
-import libgdx.game.Game;
 import libgdx.ui.game.TournamentGame;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.resources.Resource;
 import libgdx.ui.screens.AbstractScreen;
 import libgdx.ui.services.game.gameservice.GameService;

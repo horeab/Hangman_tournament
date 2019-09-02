@@ -19,7 +19,7 @@ import libgdx.ui.model.game.ConstantKeyNameVersionDb;
 import libgdx.ui.screens.AbstractScreen;
 import libgdx.ui.screens.mainmenu.popup.ForceUpdatePopup;
 import libgdx.ui.services.dbapi.ConstantsDbApiService;
-import libgdx.ui.services.dbapi.DbApiService;
+import libgdx.dbapi.DbApiService;
 
 public class ConstantsService {
 

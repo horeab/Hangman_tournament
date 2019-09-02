@@ -1,7 +1,6 @@
 package libgdx.ui.controls;
 
 import com.badlogic.gdx.Gdx;
-import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.Pixmap;
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
@@ -18,10 +17,9 @@ import java.util.Date;
 
 import libgdx.ui.game.TournamentGame;
 import libgdx.controls.label.MyWrappedLabel;
-import libgdx.ui.model.user.BaseUserInfo;
+import libgdx.game.model.BaseUserInfo;
 import libgdx.ui.resources.Dimen;
 import libgdx.ui.resources.Resource;
-import libgdx.resources.ResourcesManager;
 import libgdx.ui.services.dbapi.UsersDbApiService;
 import libgdx.ui.services.dbapi.transactions.UserInventoryDbApiService;
 import libgdx.ui.services.game.UserProfilePictureUrlService;
