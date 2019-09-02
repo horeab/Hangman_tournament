@@ -33,7 +33,6 @@ public class UsersDbApiService extends libgdx.dbapi.UsersDbApiService {
     public synchronized int createUser(String externalId, String fullName, AccountCreationSource accountCreationSource) {
         int createdUserId = super.createUser(externalId, fullName, accountCreationSource);
         if (createdUserId != -1) {
-            new GameStatsDbApiService().createGameStats(createdUserId);
             new UserInventoryDbApiService().createUserInventory(createdUserId);
             new ShopTransactionsDbApiService().createShopTransaction(createdUserId, ShopTransactionTypeEnum.WIN_CREATE_USER, DateUtils.getNowDateString());
         }
